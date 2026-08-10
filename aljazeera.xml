@@ -76,15 +76,11 @@
     <title lang="en">NEWSHOUR</title>
     <desc lang="en">Latest news and in-depth analysis from around the world.</desc>
   </programme>
-  <programme start="20260809110000 +0000" stop="20260809113000 +0000" channel="aljazeera.english">
+  <programme start="20260809110000 +0000" stop="20260809125000 +0000" channel="aljazeera.english">
     <title lang="en">NEWS 30min</title>
     <desc lang="en">Latest news and analysis from around the world.</desc>
   </programme>
-  <programme start="20260809113000 +0000" stop="20260809120000 +0000" channel="aljazeera.english">
-    <title lang="en">Inside Story</title>
-    <desc lang="en">Beyond the headlines to the heart of the news of the day. Al Jazeera gets the Inside Story from some of the best minds from around the globe.</desc>
-  </programme>
-  <programme start="20260809120000 +0000" stop="20260809130000 +0000" channel="aljazeera.english">
+  <programme start="20260809125000 +0000" stop="20260809130000 +0000" channel="aljazeera.english">
     <title lang="en">NEWSHOUR</title>
     <desc lang="en">Latest news and in-depth analysis from around the world.</desc>
   </programme>
@@ -140,9 +136,13 @@
     <title lang="en">NEWSHOUR</title>
     <desc lang="en">Latest news and in-depth analysis from around the world.</desc>
   </programme>
-  <programme start="20260809220000 +0000" stop="20260809230000 +0000" channel="aljazeera.english">
+  <programme start="20260809220000 +0000" stop="20260809223000 +0000" channel="aljazeera.english">
     <title lang="en">NEWSHOUR</title>
     <desc lang="en">Latest news and in-depth analysis from around the world.</desc>
+  </programme>
+  <programme start="20260809223000 +0000" stop="20260809230000 +0000" channel="aljazeera.english">
+    <title lang="en">Counting the Cost</title>
+    <desc lang="en">Can the U.S. slow China’s robotics and tech rise?</desc>
   </programme>
   <programme start="20260809230000 +0000" stop="20260809233000 +0000" channel="aljazeera.english">
     <title lang="en">NEWS 30min</title>
@@ -1014,7 +1014,7 @@
   </programme>
   <programme start="20260815203000 +0000" stop="20260815210000 +0000" channel="aljazeera.english">
     <title lang="en">The Bottom Line</title>
-    <desc lang="en">Weekly discussion show on U.S. politics and policies hosted by Steve Clemons.</desc>
+    <desc lang="en">Max Tegmark argues that it’s time for humans to focus on reducing the global catastrophic risks of A.I. and other advanced technologies.</desc>
   </programme>
   <programme start="20260815210000 +0000" stop="20260815220000 +0000" channel="aljazeera.english">
     <title lang="en">NEWSHOUR</title>
@@ -1090,7 +1090,7 @@
   </programme>
   <programme start="20260816083000 +0000" stop="20260816090000 +0000" channel="aljazeera.english">
     <title lang="en">The Bottom Line</title>
-    <desc lang="en">Weekly discussion show on U.S. politics and policies hosted by Steve Clemons.</desc>
+    <desc lang="en">Max Tegmark argues that it’s time for humans to focus on reducing the global catastrophic risks of A.I. and other advanced technologies.</desc>
   </programme>
   <programme start="20260816090000 +0000" stop="20260816093000 +0000" channel="aljazeera.english">
     <title lang="en">NEWS 30min</title>
