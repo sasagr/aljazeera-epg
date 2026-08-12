@@ -52,19 +52,11 @@
     <title lang="en">Boycott : Part One - The Bill</title>
     <desc lang="en">A 3-part series about US anti-boycott laws and the implications for freedom of speech. Part One introduces three landmark cases that challenge the legislation.</desc>
   </programme>
-  <programme start="20260811070000 +0000" stop="20260811080000 +0000" channel="aljazeera.english">
+  <programme start="20260811070000 +0000" stop="20260811093000 +0000" channel="aljazeera.english">
     <title lang="en">NEWSHOUR</title>
     <desc lang="en">Latest news and in-depth analysis from around the world.</desc>
   </programme>
-  <programme start="20260811080000 +0000" stop="20260811083000 +0000" channel="aljazeera.english">
-    <title lang="en">NEWS 30min</title>
-    <desc lang="en">Latest news and analysis from around the world.</desc>
-  </programme>
-  <programme start="20260811083000 +0000" stop="20260811090000 +0000" channel="aljazeera.english">
-    <title lang="en">Witness : Imade</title>
-    <desc lang="en">A young deaf migrant in Spain prepares for an emotional reunion with his family in Morocco after years apart.</desc>
-  </programme>
-  <programme start="20260811090000 +0000" stop="20260811100000 +0000" channel="aljazeera.english">
+  <programme start="20260811093000 +0000" stop="20260811100000 +0000" channel="aljazeera.english">
     <title lang="en">NEWSHOUR</title>
     <desc lang="en">Latest news and in-depth analysis from around the world.</desc>
   </programme>
@@ -268,13 +260,9 @@
     <title lang="en">NEWSHOUR</title>
     <desc lang="en">Latest news and in-depth analysis from around the world.</desc>
   </programme>
-  <programme start="20260812190000 +0000" stop="20260812193000 +0000" channel="aljazeera.english">
-    <title lang="en">NEWS 30min</title>
-    <desc lang="en">Latest news and analysis from around the world.</desc>
-  </programme>
-  <programme start="20260812193000 +0000" stop="20260812200000 +0000" channel="aljazeera.english">
-    <title lang="en">Talk To Al Jazeera</title>
-    <desc lang="en">One-on-one conversations with global leaders, icons, influencers and alternative voices shaping our times.</desc>
+  <programme start="20260812190000 +0000" stop="20260812200000 +0000" channel="aljazeera.english">
+    <title lang="en">NEWSHOUR</title>
+    <desc lang="en">Latest news and in-depth analysis from around the world.</desc>
   </programme>
   <programme start="20260812200000 +0000" stop="20260812203000 +0000" channel="aljazeera.english">
     <title lang="en">NEWS 30min</title>
@@ -361,7 +349,7 @@
     <desc lang="en">Latest news and analysis from around the world.</desc>
   </programme>
   <programme start="20260813093000 +0000" stop="20260813100000 +0000" channel="aljazeera.english">
-    <title lang="en">A Changing World?</title>
+    <title lang="en">A Changing World? : Ro Khanna- America, Israel and the Limits of Power</title>
     <desc lang="en">Ro Khanna joins Sreenivasan Jain on U.S. support for Israel, foreign policy failures, and Washington's global credibility.</desc>
   </programme>
   <programme start="20260813100000 +0000" stop="20260813110000 +0000" channel="aljazeera.english">
@@ -566,14 +554,14 @@
   </programme>
   <programme start="20260814193000 +0000" stop="20260814200000 +0000" channel="aljazeera.english">
     <title lang="en">Counting the Cost</title>
-    <desc lang="en">Counting the Cost provides background to the economics stories that shape our world and impact the lives of ordinary people.</desc>
+    <desc lang="en">Is Russia’s economy finally cracking, or is the Iran war giving it a lifeline?</desc>
   </programme>
   <programme start="20260814200000 +0000" stop="20260814203000 +0000" channel="aljazeera.english">
     <title lang="en">NEWS 30min</title>
     <desc lang="en">Latest news and analysis from around the world.</desc>
   </programme>
   <programme start="20260814203000 +0000" stop="20260814210000 +0000" channel="aljazeera.english">
-    <title lang="en">All Hail The Military : The Profiteer: Big Tech, Big Risks, Bigger Payoffs</title>
+    <title lang="en">All Hail The Military : The Profiteer- Big Tech, Big Risks, Bigger Payoffs</title>
     <desc lang="en">The military-industrial complex has become a military-tech complex. Ali Rae examines how an unregulated tech sector profits from war.</desc>
   </programme>
   <programme start="20260814210000 +0000" stop="20260814220000 +0000" channel="aljazeera.english">
@@ -634,7 +622,7 @@
   </programme>
   <programme start="20260815063000 +0000" stop="20260815070000 +0000" channel="aljazeera.english">
     <title lang="en">Counting the Cost</title>
-    <desc lang="en">Counting the Cost provides background to the economics stories that shape our world and impact the lives of ordinary people.</desc>
+    <desc lang="en">Is Russia’s economy finally cracking, or is the Iran war giving it a lifeline?</desc>
   </programme>
   <programme start="20260815070000 +0000" stop="20260815080000 +0000" channel="aljazeera.english">
     <title lang="en">NEWSHOUR</title>
@@ -645,7 +633,7 @@
     <desc lang="en">Latest news and analysis from around the world.</desc>
   </programme>
   <programme start="20260815083000 +0000" stop="20260815090000 +0000" channel="aljazeera.english">
-    <title lang="en">All Hail The Military : The Profiteer: Big Tech, Big Risks, Bigger Payoffs</title>
+    <title lang="en">All Hail The Military : The Profiteer- Big Tech, Big Risks, Bigger Payoffs</title>
     <desc lang="en">The military-industrial complex has become a military-tech complex. Ali Rae examines how an unregulated tech sector profits from war.</desc>
   </programme>
   <programme start="20260815090000 +0000" stop="20260815093000 +0000" channel="aljazeera.english">
@@ -682,7 +670,7 @@
   </programme>
   <programme start="20260815143000 +0000" stop="20260815150000 +0000" channel="aljazeera.english">
     <title lang="en">Counting the Cost</title>
-    <desc lang="en">Counting the Cost provides background to the economics stories that shape our world and impact the lives of ordinary people.</desc>
+    <desc lang="en">Is Russia’s economy finally cracking, or is the Iran war giving it a lifeline?</desc>
   </programme>
   <programme start="20260815150000 +0000" stop="20260815160000 +0000" channel="aljazeera.english">
     <title lang="en">NEWSHOUR</title>
@@ -749,7 +737,7 @@
     <desc lang="en">Latest news and analysis from around the world.</desc>
   </programme>
   <programme start="20260816013000 +0000" stop="20260816020000 +0000" channel="aljazeera.english">
-    <title lang="en">All Hail The Military : The Profiteer: Big Tech, Big Risks, Bigger Payoffs</title>
+    <title lang="en">All Hail The Military : The Profiteer- Big Tech, Big Risks, Bigger Payoffs</title>
     <desc lang="en">The military-industrial complex has become a military-tech complex. Ali Rae examines how an unregulated tech sector profits from war.</desc>
   </programme>
   <programme start="20260816020000 +0000" stop="20260816030000 +0000" channel="aljazeera.english">
@@ -806,7 +794,7 @@
   </programme>
   <programme start="20260816093000 +0000" stop="20260816100000 +0000" channel="aljazeera.english">
     <title lang="en">Counting the Cost</title>
-    <desc lang="en">Counting the Cost provides background to the economics stories that shape our world and impact the lives of ordinary people.</desc>
+    <desc lang="en">Is Russia’s economy finally cracking, or is the Iran war giving it a lifeline?</desc>
   </programme>
   <programme start="20260816100000 +0000" stop="20260816110000 +0000" channel="aljazeera.english">
     <title lang="en">NEWSHOUR</title>
@@ -910,7 +898,7 @@
   </programme>
   <programme start="20260817033000 +0000" stop="20260817040000 +0000" channel="aljazeera.english">
     <title lang="en">Counting the Cost</title>
-    <desc lang="en">Counting the Cost provides background to the economics stories that shape our world and impact the lives of ordinary people.</desc>
+    <desc lang="en">Is Russia’s economy finally cracking, or is the Iran war giving it a lifeline?</desc>
   </programme>
   <programme start="20260817040000 +0000" stop="20260817043000 +0000" channel="aljazeera.english">
     <title lang="en">NEWS 30min</title>
@@ -993,7 +981,7 @@
     <desc lang="en">Latest news and analysis from around the world.</desc>
   </programme>
   <programme start="20260817163000 +0000" stop="20260817170000 +0000" channel="aljazeera.english">
-    <title lang="en">All Hail The Military : The Profiteer: Big Tech, Big Risks, Bigger Payoffs</title>
+    <title lang="en">All Hail The Military : The Profiteer- Big Tech, Big Risks, Bigger Payoffs</title>
     <desc lang="en">The military-industrial complex has become a military-tech complex. Ali Rae examines how an unregulated tech sector profits from war.</desc>
   </programme>
   <programme start="20260817170000 +0000" stop="20260817173000 +0000" channel="aljazeera.english">
@@ -1069,7 +1057,7 @@
     <desc lang="en">Latest news and analysis from around the world.</desc>
   </programme>
   <programme start="20260818043000 +0000" stop="20260818050000 +0000" channel="aljazeera.english">
-    <title lang="en">All Hail The Military : The Profiteer: Big Tech, Big Risks, Bigger Payoffs</title>
+    <title lang="en">All Hail The Military : The Profiteer- Big Tech, Big Risks, Bigger Payoffs</title>
     <desc lang="en">The military-industrial complex has become a military-tech complex. Ali Rae examines how an unregulated tech sector profits from war.</desc>
   </programme>
   <programme start="20260818050000 +0000" stop="20260818053000 +0000" channel="aljazeera.english">
@@ -1166,7 +1154,7 @@
   </programme>
   <programme start="20260818193000 +0000" stop="20260818200000 +0000" channel="aljazeera.english">
     <title lang="en">Counting the Cost</title>
-    <desc lang="en">Counting the Cost provides background to the economics stories that shape our world and impact the lives of ordinary people.</desc>
+    <desc lang="en">Is Russia’s economy finally cracking, or is the Iran war giving it a lifeline?</desc>
   </programme>
   <programme start="20260818200000 +0000" stop="20260818203000 +0000" channel="aljazeera.english">
     <title lang="en">NEWS 30min</title>
