@@ -144,13 +144,9 @@
     <title lang="en">NEWSHOUR</title>
     <desc lang="en">Latest news and in-depth analysis from around the world.</desc>
   </programme>
-  <programme start="20260830230000 +0000" stop="20260830233000 +0000" channel="aljazeera.english">
+  <programme start="20260830230000 +0000" stop="20260831000000 +0000" channel="aljazeera.english">
     <title lang="en">NEWS 30min</title>
     <desc lang="en">Latest news and analysis from around the world.</desc>
-  </programme>
-  <programme start="20260830233000 +0000" stop="20260831000000 +0000" channel="aljazeera.english">
-    <title lang="en">Inside Story</title>
-    <desc lang="en">Beyond the headlines to the heart of the news of the day. Al Jazeera gets the Inside Story from some of the best minds from around the globe.</desc>
   </programme>
   <programme start="20260831000000 +0000" stop="20260831010000 +0000" channel="aljazeera.english">
     <title lang="en">NEWSHOUR</title>
@@ -728,13 +724,9 @@
     <title lang="en">NEWSHOUR</title>
     <desc lang="en">Latest news and in-depth analysis from around the world.</desc>
   </programme>
-  <programme start="20260903190000 +0000" stop="20260903193000 +0000" channel="aljazeera.english">
-    <title lang="en">NEWS 30min</title>
-    <desc lang="en">Latest news and analysis from around the world.</desc>
-  </programme>
-  <programme start="20260903193000 +0000" stop="20260903200000 +0000" channel="aljazeera.english">
-    <title lang="en">Mindset : Argentina / Iceland</title>
-    <desc lang="en">Mindset travels to the therapy centre of the world in Argentina and to Iceland, home to the highest rate of antidepressant use in Europe.</desc>
+  <programme start="20260903190000 +0000" stop="20260903200000 +0000" channel="aljazeera.english">
+    <title lang="en">Srebrenica: Genocide On Trial</title>
+    <desc lang="en">Thirty years after the Dayton Agreement ended the Balkan wars, how the war crimes trials over the Srebrenica genocide created the International Criminal Court.</desc>
   </programme>
   <programme start="20260903200000 +0000" stop="20260903203000 +0000" channel="aljazeera.english">
     <title lang="en">NEWS 30min</title>
@@ -820,13 +812,9 @@
     <title lang="en">101 East : Philippines - Speak of The Devil</title>
     <desc lang="en">101 East investigates Catholic exorcisms in the Philippines, and their impact on the faithful and the vulnerable.</desc>
   </programme>
-  <programme start="20260904090000 +0000" stop="20260904093000 +0000" channel="aljazeera.english">
-    <title lang="en">NEWS 30min</title>
-    <desc lang="en">Latest news and analysis from around the world.</desc>
-  </programme>
-  <programme start="20260904093000 +0000" stop="20260904100000 +0000" channel="aljazeera.english">
-    <title lang="en">The Bottom Line</title>
-    <desc lang="en">With his trade war with Canada and renewed threats against Iran, is President Donald Trump testing the limits of U.S. power?</desc>
+  <programme start="20260904090000 +0000" stop="20260904100000 +0000" channel="aljazeera.english">
+    <title lang="en">Srebrenica: Genocide On Trial</title>
+    <desc lang="en">Thirty years after the Dayton Agreement ended the Balkan wars, how the war crimes trials over the Srebrenica genocide created the International Criminal Court.</desc>
   </programme>
   <programme start="20260904100000 +0000" stop="20260904110000 +0000" channel="aljazeera.english">
     <title lang="en">NEWSHOUR</title>
@@ -936,13 +924,9 @@
     <title lang="en">Studio B: Unscripted : Shahidul Alam &amp; Andrew Feinstein P2</title>
     <desc lang="en">Photojournalist Shahidul Alam and anti-arms trade campaigner Andrew Feinstein on challenging the global status quo and standing up to power.</desc>
   </programme>
-  <programme start="20260905040000 +0000" stop="20260905043000 +0000" channel="aljazeera.english">
-    <title lang="en">NEWS 30min</title>
-    <desc lang="en">Latest news and analysis from around the world.</desc>
-  </programme>
-  <programme start="20260905043000 +0000" stop="20260905050000 +0000" channel="aljazeera.english">
-    <title lang="en">Fight For The Pacific : The Battlefield</title>
-    <desc lang="en">In the crossfire of a global power struggle, a compelling look at the impact of militarization of the Pacific islands.</desc>
+  <programme start="20260905040000 +0000" stop="20260905050000 +0000" channel="aljazeera.english">
+    <title lang="en">Srebrenica: Genocide On Trial</title>
+    <desc lang="en">Thirty years after the Dayton Agreement ended the Balkan wars, how the war crimes trials over the Srebrenica genocide created the International Criminal Court.</desc>
   </programme>
   <programme start="20260905050000 +0000" stop="20260905053000 +0000" channel="aljazeera.english">
     <title lang="en">NEWS 30min</title>
@@ -1152,13 +1136,9 @@
     <title lang="en">NEWSHOUR</title>
     <desc lang="en">Latest news and in-depth analysis from around the world.</desc>
   </programme>
-  <programme start="20260906140000 +0000" stop="20260906143000 +0000" channel="aljazeera.english">
-    <title lang="en">NEWS 30min</title>
-    <desc lang="en">Latest news and analysis from around the world.</desc>
-  </programme>
-  <programme start="20260906143000 +0000" stop="20260906150000 +0000" channel="aljazeera.english">
-    <title lang="en">The Listening Post</title>
-    <desc lang="en">What is being reported by world media and how? Richard Gizbert guides you through the global news maze.</desc>
+  <programme start="20260906140000 +0000" stop="20260906150000 +0000" channel="aljazeera.english">
+    <title lang="en">Srebrenica: Genocide On Trial</title>
+    <desc lang="en">Thirty years after the Dayton Agreement ended the Balkan wars, how the war crimes trials over the Srebrenica genocide created the International Criminal Court.</desc>
   </programme>
   <programme start="20260906150000 +0000" stop="20260906160000 +0000" channel="aljazeera.english">
     <title lang="en">NEWSHOUR</title>
