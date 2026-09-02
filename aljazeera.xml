@@ -104,33 +104,17 @@
     <title lang="en">NEWSHOUR</title>
     <desc lang="en">Latest news and in-depth analysis from around the world.</desc>
   </programme>
-  <programme start="20260901160000 +0000" stop="20260901163000 +0000" channel="aljazeera.english">
+  <programme start="20260901160000 +0000" stop="20260901180000 +0000" channel="aljazeera.english">
     <title lang="en">NEWS 30min</title>
     <desc lang="en">Latest news and analysis from around the world.</desc>
-  </programme>
-  <programme start="20260901163000 +0000" stop="20260901170000 +0000" channel="aljazeera.english">
-    <title lang="en">The Bottom Line</title>
-    <desc lang="en">With his trade war with Canada and renewed threats against Iran, is President Donald Trump testing the limits of U.S. power?</desc>
-  </programme>
-  <programme start="20260901170000 +0000" stop="20260901173000 +0000" channel="aljazeera.english">
-    <title lang="en">NEWS 30min</title>
-    <desc lang="en">Latest news and analysis from around the world.</desc>
-  </programme>
-  <programme start="20260901173000 +0000" stop="20260901180000 +0000" channel="aljazeera.english">
-    <title lang="en">Inside Story</title>
-    <desc lang="en">Beyond the headlines to the heart of the news of the day. Al Jazeera gets the Inside Story from some of the best minds from around the globe.</desc>
   </programme>
   <programme start="20260901180000 +0000" stop="20260901190000 +0000" channel="aljazeera.english">
     <title lang="en">NEWSHOUR</title>
     <desc lang="en">Latest news and in-depth analysis from around the world.</desc>
   </programme>
-  <programme start="20260901190000 +0000" stop="20260901193000 +0000" channel="aljazeera.english">
+  <programme start="20260901190000 +0000" stop="20260901200000 +0000" channel="aljazeera.english">
     <title lang="en">NEWS 30min</title>
     <desc lang="en">Latest news and analysis from around the world.</desc>
-  </programme>
-  <programme start="20260901193000 +0000" stop="20260901200000 +0000" channel="aljazeera.english">
-    <title lang="en">Counting the Cost</title>
-    <desc lang="en">Can the U.S. and Canada avoid an all-out trade war?</desc>
   </programme>
   <programme start="20260901200000 +0000" stop="20260901203000 +0000" channel="aljazeera.english">
     <title lang="en">NEWS 30min</title>
@@ -578,7 +562,7 @@
   </programme>
   <programme start="20260904193000 +0000" stop="20260904200000 +0000" channel="aljazeera.english">
     <title lang="en">Counting the Cost</title>
-    <desc lang="en">Counting the Cost provides background to the economics stories that shape our world and impact the lives of ordinary people.</desc>
+    <desc lang="en">Will the U.S. or China emerge as the world’s AI superpower?</desc>
   </programme>
   <programme start="20260904200000 +0000" stop="20260904203000 +0000" channel="aljazeera.english">
     <title lang="en">NEWS 30min</title>
@@ -646,7 +630,7 @@
   </programme>
   <programme start="20260905063000 +0000" stop="20260905070000 +0000" channel="aljazeera.english">
     <title lang="en">Counting the Cost</title>
-    <desc lang="en">Counting the Cost provides background to the economics stories that shape our world and impact the lives of ordinary people.</desc>
+    <desc lang="en">Will the U.S. or China emerge as the world’s AI superpower?</desc>
   </programme>
   <programme start="20260905070000 +0000" stop="20260905080000 +0000" channel="aljazeera.english">
     <title lang="en">NEWSHOUR</title>
@@ -694,7 +678,7 @@
   </programme>
   <programme start="20260905143000 +0000" stop="20260905150000 +0000" channel="aljazeera.english">
     <title lang="en">Counting the Cost</title>
-    <desc lang="en">Counting the Cost provides background to the economics stories that shape our world and impact the lives of ordinary people.</desc>
+    <desc lang="en">Will the U.S. or China emerge as the world’s AI superpower?</desc>
   </programme>
   <programme start="20260905150000 +0000" stop="20260905160000 +0000" channel="aljazeera.english">
     <title lang="en">NEWSHOUR</title>
@@ -734,7 +718,7 @@
   </programme>
   <programme start="20260905203000 +0000" stop="20260905210000 +0000" channel="aljazeera.english">
     <title lang="en">The Bottom Line</title>
-    <desc lang="en">Weekly discussion show on U.S. politics and policies hosted by Steve Clemons.</desc>
+    <desc lang="en">With constant Israeli attacks, engineered deprivation and 2 million people trapped, has Gaza reached the breaking point?</desc>
   </programme>
   <programme start="20260905210000 +0000" stop="20260905220000 +0000" channel="aljazeera.english">
     <title lang="en">NEWSHOUR</title>
@@ -810,7 +794,7 @@
   </programme>
   <programme start="20260906083000 +0000" stop="20260906090000 +0000" channel="aljazeera.english">
     <title lang="en">The Bottom Line</title>
-    <desc lang="en">Weekly discussion show on U.S. politics and policies hosted by Steve Clemons.</desc>
+    <desc lang="en">With constant Israeli attacks, engineered deprivation and 2 million people trapped, has Gaza reached the breaking point?</desc>
   </programme>
   <programme start="20260906090000 +0000" stop="20260906093000 +0000" channel="aljazeera.english">
     <title lang="en">NEWS 30min</title>
@@ -818,7 +802,7 @@
   </programme>
   <programme start="20260906093000 +0000" stop="20260906100000 +0000" channel="aljazeera.english">
     <title lang="en">Counting the Cost</title>
-    <desc lang="en">Counting the Cost provides background to the economics stories that shape our world and impact the lives of ordinary people.</desc>
+    <desc lang="en">Will the U.S. or China emerge as the world’s AI superpower?</desc>
   </programme>
   <programme start="20260906100000 +0000" stop="20260906110000 +0000" channel="aljazeera.english">
     <title lang="en">NEWSHOUR</title>
@@ -910,7 +894,7 @@
   </programme>
   <programme start="20260907013000 +0000" stop="20260907020000 +0000" channel="aljazeera.english">
     <title lang="en">The Bottom Line</title>
-    <desc lang="en">Weekly discussion show on U.S. politics and policies hosted by Steve Clemons.</desc>
+    <desc lang="en">With constant Israeli attacks, engineered deprivation and 2 million people trapped, has Gaza reached the breaking point?</desc>
   </programme>
   <programme start="20260907020000 +0000" stop="20260907030000 +0000" channel="aljazeera.english">
     <title lang="en">NEWSHOUR</title>
@@ -922,7 +906,7 @@
   </programme>
   <programme start="20260907033000 +0000" stop="20260907040000 +0000" channel="aljazeera.english">
     <title lang="en">Counting the Cost</title>
-    <desc lang="en">Counting the Cost provides background to the economics stories that shape our world and impact the lives of ordinary people.</desc>
+    <desc lang="en">Will the U.S. or China emerge as the world’s AI superpower?</desc>
   </programme>
   <programme start="20260907040000 +0000" stop="20260907043000 +0000" channel="aljazeera.english">
     <title lang="en">NEWS 30min</title>
@@ -1158,7 +1142,7 @@
   </programme>
   <programme start="20260908163000 +0000" stop="20260908170000 +0000" channel="aljazeera.english">
     <title lang="en">The Bottom Line</title>
-    <desc lang="en">Weekly discussion show on U.S. politics and policies hosted by Steve Clemons.</desc>
+    <desc lang="en">With constant Israeli attacks, engineered deprivation and 2 million people trapped, has Gaza reached the breaking point?</desc>
   </programme>
   <programme start="20260908170000 +0000" stop="20260908173000 +0000" channel="aljazeera.english">
     <title lang="en">NEWS 30min</title>
@@ -1178,7 +1162,7 @@
   </programme>
   <programme start="20260908193000 +0000" stop="20260908200000 +0000" channel="aljazeera.english">
     <title lang="en">Counting the Cost</title>
-    <desc lang="en">Counting the Cost provides background to the economics stories that shape our world and impact the lives of ordinary people.</desc>
+    <desc lang="en">Will the U.S. or China emerge as the world’s AI superpower?</desc>
   </programme>
   <programme start="20260908200000 +0000" stop="20260908203000 +0000" channel="aljazeera.english">
     <title lang="en">NEWS 30min</title>
