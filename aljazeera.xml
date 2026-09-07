@@ -728,13 +728,9 @@
     <title lang="en">NEWSHOUR</title>
     <desc lang="en">Latest news and in-depth analysis from around the world.</desc>
   </programme>
-  <programme start="20260910190000 +0000" stop="20260910193000 +0000" channel="aljazeera.english">
-    <title lang="en">NEWS 30min</title>
-    <desc lang="en">Latest news and analysis from around the world.</desc>
-  </programme>
-  <programme start="20260910193000 +0000" stop="20260910200000 +0000" channel="aljazeera.english">
-    <title lang="en">Al Jazeera Reels : Iran - The Country Behind the Confrontation</title>
-    <desc lang="en">The world sees Iran as conflict. Seven stories look at the country behind it: a state built to survive pressure, and the people living with the cost.</desc>
+  <programme start="20260910190000 +0000" stop="20260910200000 +0000" channel="aljazeera.english">
+    <title lang="en">Al Jazeera World : Erdogan - The Making of Modern Türkiye</title>
+    <desc lang="en">An exclusive interview with Turkish President Recep Tayyip Erdogan on his country’s foreign policy, regional conflicts and 25 years of AK Party rule.</desc>
   </programme>
   <programme start="20260910200000 +0000" stop="20260910203000 +0000" channel="aljazeera.english">
     <title lang="en">NEWS 30min</title>
@@ -820,13 +816,9 @@
     <title lang="en">101 East : China's Lonely Hearts</title>
     <desc lang="en">101 East explores how ancient traditions are being given a modern makeover as young Chinese look for new ways to find love.</desc>
   </programme>
-  <programme start="20260911090000 +0000" stop="20260911093000 +0000" channel="aljazeera.english">
-    <title lang="en">NEWS 30min</title>
-    <desc lang="en">Latest news and analysis from around the world.</desc>
-  </programme>
-  <programme start="20260911093000 +0000" stop="20260911100000 +0000" channel="aljazeera.english">
-    <title lang="en">The Bottom Line</title>
-    <desc lang="en">With constant Israeli attacks, engineered deprivation and 2 million people trapped, has Gaza reached the breaking point?</desc>
+  <programme start="20260911090000 +0000" stop="20260911100000 +0000" channel="aljazeera.english">
+    <title lang="en">Al Jazeera World : Erdogan - The Making of Modern Türkiye</title>
+    <desc lang="en">An exclusive interview with Turkish President Recep Tayyip Erdogan on his country’s foreign policy, regional conflicts and 25 years of AK Party rule.</desc>
   </programme>
   <programme start="20260911100000 +0000" stop="20260911110000 +0000" channel="aljazeera.english">
     <title lang="en">NEWSHOUR</title>
@@ -936,13 +928,9 @@
     <title lang="en">Studio B: Unscripted : Raoul Peck &amp; Viet Thanh Nguyen P1</title>
     <desc lang="en">Oscar-nominated filmmaker Raoul Peck and Pulitzer Prize-winning author Viet Thanh Nguyen discuss the road to making art that’s political and subversive.</desc>
   </programme>
-  <programme start="20260912040000 +0000" stop="20260912043000 +0000" channel="aljazeera.english">
-    <title lang="en">NEWS 30min</title>
-    <desc lang="en">Latest news and analysis from around the world.</desc>
-  </programme>
-  <programme start="20260912043000 +0000" stop="20260912050000 +0000" channel="aljazeera.english">
-    <title lang="en">Fight For The Pacific : Fallout Zone</title>
-    <desc lang="en">In the crossfire of a global power struggle, a compelling look at the impact of militarization of the Pacific islands.</desc>
+  <programme start="20260912040000 +0000" stop="20260912050000 +0000" channel="aljazeera.english">
+    <title lang="en">Al Jazeera World : Erdogan - The Making of Modern Türkiye</title>
+    <desc lang="en">An exclusive interview with Turkish President Recep Tayyip Erdogan on his country’s foreign policy, regional conflicts and 25 years of AK Party rule.</desc>
   </programme>
   <programme start="20260912050000 +0000" stop="20260912053000 +0000" channel="aljazeera.english">
     <title lang="en">NEWS 30min</title>
@@ -1152,13 +1140,9 @@
     <title lang="en">NEWSHOUR</title>
     <desc lang="en">Latest news and in-depth analysis from around the world.</desc>
   </programme>
-  <programme start="20260913140000 +0000" stop="20260913143000 +0000" channel="aljazeera.english">
-    <title lang="en">NEWS 30min</title>
-    <desc lang="en">Latest news and analysis from around the world.</desc>
-  </programme>
-  <programme start="20260913143000 +0000" stop="20260913150000 +0000" channel="aljazeera.english">
-    <title lang="en">The Listening Post</title>
-    <desc lang="en">What is being reported by world media and how? Richard Gizbert guides you through the global news maze.</desc>
+  <programme start="20260913140000 +0000" stop="20260913150000 +0000" channel="aljazeera.english">
+    <title lang="en">Al Jazeera World : Erdogan - The Making of Modern Türkiye</title>
+    <desc lang="en">An exclusive interview with Turkish President Recep Tayyip Erdogan on his country’s foreign policy, regional conflicts and 25 years of AK Party rule.</desc>
   </programme>
   <programme start="20260913150000 +0000" stop="20260913160000 +0000" channel="aljazeera.english">
     <title lang="en">NEWSHOUR</title>
