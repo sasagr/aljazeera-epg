@@ -72,11 +72,11 @@
     <title lang="en">Talk to Al Jazeera : Khalid Abdalla</title>
     <desc lang="en">British-Egyptian actor Khalid Abdalla talks identity, fame, and the fight for a better world. He shares the experiences that shaped his political engagement.</desc>
   </programme>
-  <programme start="20260908100000 +0000" stop="20260908110000 +0000" channel="aljazeera.english">
+  <programme start="20260908100000 +0000" stop="20260908111500 +0000" channel="aljazeera.english">
     <title lang="en">NEWSHOUR</title>
     <desc lang="en">Latest news and in-depth analysis from around the world.</desc>
   </programme>
-  <programme start="20260908110000 +0000" stop="20260908113000 +0000" channel="aljazeera.english">
+  <programme start="20260908111500 +0000" stop="20260908113000 +0000" channel="aljazeera.english">
     <title lang="en">NEWS 30min</title>
     <desc lang="en">Latest news and analysis from around the world.</desc>
   </programme>
@@ -104,13 +104,9 @@
     <title lang="en">NEWSHOUR</title>
     <desc lang="en">Latest news and in-depth analysis from around the world.</desc>
   </programme>
-  <programme start="20260908160000 +0000" stop="20260908163000 +0000" channel="aljazeera.english">
+  <programme start="20260908160000 +0000" stop="20260908170000 +0000" channel="aljazeera.english">
     <title lang="en">NEWS 30min</title>
     <desc lang="en">Latest news and analysis from around the world.</desc>
-  </programme>
-  <programme start="20260908163000 +0000" stop="20260908170000 +0000" channel="aljazeera.english">
-    <title lang="en">The Bottom Line</title>
-    <desc lang="en">With constant Israeli attacks, engineered deprivation and 2 million people trapped, has Gaza reached the breaking point?</desc>
   </programme>
   <programme start="20260908170000 +0000" stop="20260908173000 +0000" channel="aljazeera.english">
     <title lang="en">NEWS 30min</title>
@@ -578,7 +574,7 @@
   </programme>
   <programme start="20260911193000 +0000" stop="20260911200000 +0000" channel="aljazeera.english">
     <title lang="en">Counting the Cost</title>
-    <desc lang="en">Counting the Cost provides background to the economics stories that shape our world and impact the lives of ordinary people.</desc>
+    <desc lang="en">Why are borrowing costs rising worldwide and is the era of cheap money over?</desc>
   </programme>
   <programme start="20260911200000 +0000" stop="20260911203000 +0000" channel="aljazeera.english">
     <title lang="en">NEWS 30min</title>
@@ -646,7 +642,7 @@
   </programme>
   <programme start="20260912063000 +0000" stop="20260912070000 +0000" channel="aljazeera.english">
     <title lang="en">Counting the Cost</title>
-    <desc lang="en">Counting the Cost provides background to the economics stories that shape our world and impact the lives of ordinary people.</desc>
+    <desc lang="en">Why are borrowing costs rising worldwide and is the era of cheap money over?</desc>
   </programme>
   <programme start="20260912070000 +0000" stop="20260912080000 +0000" channel="aljazeera.english">
     <title lang="en">NEWSHOUR</title>
@@ -694,7 +690,7 @@
   </programme>
   <programme start="20260912143000 +0000" stop="20260912150000 +0000" channel="aljazeera.english">
     <title lang="en">Counting the Cost</title>
-    <desc lang="en">Counting the Cost provides background to the economics stories that shape our world and impact the lives of ordinary people.</desc>
+    <desc lang="en">Why are borrowing costs rising worldwide and is the era of cheap money over?</desc>
   </programme>
   <programme start="20260912150000 +0000" stop="20260912160000 +0000" channel="aljazeera.english">
     <title lang="en">NEWSHOUR</title>
@@ -734,7 +730,7 @@
   </programme>
   <programme start="20260912203000 +0000" stop="20260912210000 +0000" channel="aljazeera.english">
     <title lang="en">The Bottom Line</title>
-    <desc lang="en">Weekly discussion show on U.S. politics and policies hosted by Steve Clemons.</desc>
+    <desc lang="en">National security expert Peter Bergen argues that one of the most profound outcomes of 9/11 has been to create an “imperial presidency” in the U.S.</desc>
   </programme>
   <programme start="20260912210000 +0000" stop="20260912220000 +0000" channel="aljazeera.english">
     <title lang="en">NEWSHOUR</title>
@@ -810,7 +806,7 @@
   </programme>
   <programme start="20260913083000 +0000" stop="20260913090000 +0000" channel="aljazeera.english">
     <title lang="en">The Bottom Line</title>
-    <desc lang="en">Weekly discussion show on U.S. politics and policies hosted by Steve Clemons.</desc>
+    <desc lang="en">National security expert Peter Bergen argues that one of the most profound outcomes of 9/11 has been to create an “imperial presidency” in the U.S.</desc>
   </programme>
   <programme start="20260913090000 +0000" stop="20260913093000 +0000" channel="aljazeera.english">
     <title lang="en">NEWS 30min</title>
@@ -818,7 +814,7 @@
   </programme>
   <programme start="20260913093000 +0000" stop="20260913100000 +0000" channel="aljazeera.english">
     <title lang="en">Counting the Cost</title>
-    <desc lang="en">Counting the Cost provides background to the economics stories that shape our world and impact the lives of ordinary people.</desc>
+    <desc lang="en">Why are borrowing costs rising worldwide and is the era of cheap money over?</desc>
   </programme>
   <programme start="20260913100000 +0000" stop="20260913110000 +0000" channel="aljazeera.english">
     <title lang="en">NEWSHOUR</title>
@@ -918,7 +914,7 @@
   </programme>
   <programme start="20260914033000 +0000" stop="20260914040000 +0000" channel="aljazeera.english">
     <title lang="en">The Bottom Line</title>
-    <desc lang="en">Weekly discussion show on U.S. politics and policies hosted by Steve Clemons.</desc>
+    <desc lang="en">National security expert Peter Bergen argues that one of the most profound outcomes of 9/11 has been to create an “imperial presidency” in the U.S.</desc>
   </programme>
   <programme start="20260914040000 +0000" stop="20260914043000 +0000" channel="aljazeera.english">
     <title lang="en">NEWS 30min</title>
@@ -990,7 +986,7 @@
   </programme>
   <programme start="20260914143000 +0000" stop="20260914150000 +0000" channel="aljazeera.english">
     <title lang="en">Counting the Cost</title>
-    <desc lang="en">Counting the Cost provides background to the economics stories that shape our world and impact the lives of ordinary people.</desc>
+    <desc lang="en">Why are borrowing costs rising worldwide and is the era of cheap money over?</desc>
   </programme>
   <programme start="20260914150000 +0000" stop="20260914160000 +0000" channel="aljazeera.english">
     <title lang="en">NEWSHOUR</title>
@@ -1044,7 +1040,7 @@
     <title lang="en">NEWS 30min</title>
     <desc lang="en">Latest news and analysis from around the world.</desc>
   </programme>
-  <programme start="20260914233000 +0000" stop="20260915232959 +0000" channel="aljazeera.english">
+  <programme start="20260914233000 +0000" stop="20260915000000 +0000" channel="aljazeera.english">
     <title lang="en">Inside Story</title>
     <desc lang="en">Beyond the headlines to the heart of the news of the day. Al Jazeera gets the Inside Story from some of the best minds from around the globe.</desc>
   </programme>
@@ -1150,7 +1146,7 @@
   </programme>
   <programme start="20260915163000 +0000" stop="20260915170000 +0000" channel="aljazeera.english">
     <title lang="en">The Bottom Line</title>
-    <desc lang="en">Weekly discussion show on U.S. politics and policies hosted by Steve Clemons.</desc>
+    <desc lang="en">National security expert Peter Bergen argues that one of the most profound outcomes of 9/11 has been to create an “imperial presidency” in the U.S.</desc>
   </programme>
   <programme start="20260915170000 +0000" stop="20260915173000 +0000" channel="aljazeera.english">
     <title lang="en">NEWS 30min</title>
@@ -1170,7 +1166,7 @@
   </programme>
   <programme start="20260915193000 +0000" stop="20260915200000 +0000" channel="aljazeera.english">
     <title lang="en">Counting the Cost</title>
-    <desc lang="en">Counting the Cost provides background to the economics stories that shape our world and impact the lives of ordinary people.</desc>
+    <desc lang="en">Why are borrowing costs rising worldwide and is the era of cheap money over?</desc>
   </programme>
   <programme start="20260915200000 +0000" stop="20260915210000 +0000" channel="aljazeera.english">
     <title lang="en">Al Jazeera World : Neturei Karta - Opposing Zionism</title>
