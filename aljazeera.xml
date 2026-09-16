@@ -64,11 +64,7 @@
     <title lang="en">NEWS 30min</title>
     <desc lang="en">Latest news and analysis from around the world.</desc>
   </programme>
-  <programme start="20260915093000 +0000" stop="20260915100000 +0000" channel="aljazeera.english">
-    <title lang="en">Witness : Forced to Flee South Lebanon</title>
-    <desc lang="en">A Lebanese journalist documenting the conflict with Israel has no choice but to evacuate his own family from the south.</desc>
-  </programme>
-  <programme start="20260915100000 +0000" stop="20260915110000 +0000" channel="aljazeera.english">
+  <programme start="20260915093000 +0000" stop="20260915110000 +0000" channel="aljazeera.english">
     <title lang="en">NEWSHOUR</title>
     <desc lang="en">Latest news and in-depth analysis from around the world.</desc>
   </programme>
@@ -570,7 +566,7 @@
   </programme>
   <programme start="20260918193000 +0000" stop="20260918200000 +0000" channel="aljazeera.english">
     <title lang="en">Counting the Cost</title>
-    <desc lang="en">Counting the Cost provides background to the economics stories that shape our world and impact the lives of ordinary people.</desc>
+    <desc lang="en">Why is inflation rising again globally and are central banks right to raise interest rates?</desc>
   </programme>
   <programme start="20260918200000 +0000" stop="20260918210000 +0000" channel="aljazeera.english">
     <title lang="en">Let's Focus : What Makes These U.S. Midterms So Pivotal?</title>
@@ -650,7 +646,7 @@
   </programme>
   <programme start="20260919083000 +0000" stop="20260919090000 +0000" channel="aljazeera.english">
     <title lang="en">Counting the Cost</title>
-    <desc lang="en">Counting the Cost provides background to the economics stories that shape our world and impact the lives of ordinary people.</desc>
+    <desc lang="en">Why is inflation rising again globally and are central banks right to raise interest rates?</desc>
   </programme>
   <programme start="20260919090000 +0000" stop="20260919093000 +0000" channel="aljazeera.english">
     <title lang="en">NEWS 30min</title>
@@ -734,7 +730,7 @@
   </programme>
   <programme start="20260919223000 +0000" stop="20260919230000 +0000" channel="aljazeera.english">
     <title lang="en">The Bottom Line</title>
-    <desc lang="en">Weekly discussion show on U.S. politics and policies hosted by Steve Clemons.</desc>
+    <desc lang="en">Journalist Akbar Shahid Ahmed’s new book explains how the Biden administration’s handling of Israel’s War on Gaza continues to roil the Democratic Party.</desc>
   </programme>
   <programme start="20260919230000 +0000" stop="20260919233000 +0000" channel="aljazeera.english">
     <title lang="en">NEWS 30min</title>
@@ -770,7 +766,7 @@
   </programme>
   <programme start="20260920043000 +0000" stop="20260920050000 +0000" channel="aljazeera.english">
     <title lang="en">Counting the Cost</title>
-    <desc lang="en">Counting the Cost provides background to the economics stories that shape our world and impact the lives of ordinary people.</desc>
+    <desc lang="en">Why is inflation rising again globally and are central banks right to raise interest rates?</desc>
   </programme>
   <programme start="20260920050000 +0000" stop="20260920053000 +0000" channel="aljazeera.english">
     <title lang="en">NEWS 30min</title>
@@ -806,7 +802,7 @@
   </programme>
   <programme start="20260920093000 +0000" stop="20260920100000 +0000" channel="aljazeera.english">
     <title lang="en">The Bottom Line</title>
-    <desc lang="en">Weekly discussion show on U.S. politics and policies hosted by Steve Clemons.</desc>
+    <desc lang="en">Journalist Akbar Shahid Ahmed’s new book explains how the Biden administration’s handling of Israel’s War on Gaza continues to roil the Democratic Party.</desc>
   </programme>
   <programme start="20260920100000 +0000" stop="20260920110000 +0000" channel="aljazeera.english">
     <title lang="en">NEWSHOUR</title>
@@ -910,7 +906,7 @@
   </programme>
   <programme start="20260921033000 +0000" stop="20260921040000 +0000" channel="aljazeera.english">
     <title lang="en">The Bottom Line</title>
-    <desc lang="en">Weekly discussion show on U.S. politics and policies hosted by Steve Clemons.</desc>
+    <desc lang="en">Journalist Akbar Shahid Ahmed’s new book explains how the Biden administration’s handling of Israel’s War on Gaza continues to roil the Democratic Party.</desc>
   </programme>
   <programme start="20260921040000 +0000" stop="20260921043000 +0000" channel="aljazeera.english">
     <title lang="en">NEWS 30min</title>
@@ -982,7 +978,7 @@
   </programme>
   <programme start="20260921143000 +0000" stop="20260921150000 +0000" channel="aljazeera.english">
     <title lang="en">Counting the Cost</title>
-    <desc lang="en">Counting the Cost provides background to the economics stories that shape our world and impact the lives of ordinary people.</desc>
+    <desc lang="en">Why is inflation rising again globally and are central banks right to raise interest rates?</desc>
   </programme>
   <programme start="20260921150000 +0000" stop="20260921160000 +0000" channel="aljazeera.english">
     <title lang="en">NEWSHOUR</title>
@@ -1142,7 +1138,7 @@
   </programme>
   <programme start="20260922163000 +0000" stop="20260922170000 +0000" channel="aljazeera.english">
     <title lang="en">The Bottom Line</title>
-    <desc lang="en">Weekly discussion show on U.S. politics and policies hosted by Steve Clemons.</desc>
+    <desc lang="en">Journalist Akbar Shahid Ahmed’s new book explains how the Biden administration’s handling of Israel’s War on Gaza continues to roil the Democratic Party.</desc>
   </programme>
   <programme start="20260922170000 +0000" stop="20260922173000 +0000" channel="aljazeera.english">
     <title lang="en">NEWS 30min</title>
@@ -1162,7 +1158,7 @@
   </programme>
   <programme start="20260922193000 +0000" stop="20260922200000 +0000" channel="aljazeera.english">
     <title lang="en">Counting the Cost</title>
-    <desc lang="en">Counting the Cost provides background to the economics stories that shape our world and impact the lives of ordinary people.</desc>
+    <desc lang="en">Why is inflation rising again globally and are central banks right to raise interest rates?</desc>
   </programme>
   <programme start="20260922200000 +0000" stop="20260922210000 +0000" channel="aljazeera.english">
     <title lang="en">Al Jazeera World : Infiltration From Within</title>
