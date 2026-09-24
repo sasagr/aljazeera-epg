@@ -80,21 +80,9 @@
     <title lang="en">Inside Story</title>
     <desc lang="en">Beyond the headlines to the heart of the news of the day. Al Jazeera gets the Inside Story from some of the best minds from around the globe.</desc>
   </programme>
-  <programme start="20260923120000 +0000" stop="20260923130000 +0000" channel="aljazeera.english">
-    <title lang="en">Al Jazeera World : Infiltration From Within</title>
-    <desc lang="en">Israel’s intelligence investigated in a story of spies, moles and blind spots, from early-state betrayals to 7th October 2023 and today’s conflict with Iran.</desc>
-  </programme>
-  <programme start="20260923130000 +0000" stop="20260923140000 +0000" channel="aljazeera.english">
+  <programme start="20260923120000 +0000" stop="20260923150000 +0000" channel="aljazeera.english">
     <title lang="en">NEWSHOUR</title>
     <desc lang="en">Latest news and in-depth analysis from around the world.</desc>
-  </programme>
-  <programme start="20260923140000 +0000" stop="20260923143000 +0000" channel="aljazeera.english">
-    <title lang="en">NEWS 30min</title>
-    <desc lang="en">Latest news and analysis from around the world.</desc>
-  </programme>
-  <programme start="20260923143000 +0000" stop="20260923150000 +0000" channel="aljazeera.english">
-    <title lang="en">Talk to Al Jazeera : Aliko Dangote</title>
-    <desc lang="en">Africa's richest man Aliko Dangote tells Al Jazeera how his refinery in Nigeria has reshaped the country's fuel sector and what the facility means for Africa.</desc>
   </programme>
   <programme start="20260923150000 +0000" stop="20260923160000 +0000" channel="aljazeera.english">
     <title lang="en">NEWSHOUR</title>
@@ -570,7 +558,7 @@
   </programme>
   <programme start="20260926193000 +0000" stop="20260926200000 +0000" channel="aljazeera.english">
     <title lang="en">The Listening Post</title>
-    <desc lang="en">What is being reported by world media and how? Richard Gizbert guides you through the global news maze.</desc>
+    <desc lang="en">A corruption scandal, Bolsonaro’s comeback and Trump’s influence collide as Brazil heads into elections. Plus Spain's neo-Nazis - from online to on the streets?</desc>
   </programme>
   <programme start="20260926200000 +0000" stop="20260926210000 +0000" channel="aljazeera.english">
     <title lang="en">Witness : Finding Desert Angels</title>
@@ -650,7 +638,7 @@
   </programme>
   <programme start="20260927083000 +0000" stop="20260927090000 +0000" channel="aljazeera.english">
     <title lang="en">The Listening Post</title>
-    <desc lang="en">What is being reported by world media and how? Richard Gizbert guides you through the global news maze.</desc>
+    <desc lang="en">A corruption scandal, Bolsonaro’s comeback and Trump’s influence collide as Brazil heads into elections. Plus Spain's neo-Nazis - from online to on the streets?</desc>
   </programme>
   <programme start="20260927090000 +0000" stop="20260927093000 +0000" channel="aljazeera.english">
     <title lang="en">NEWS 30min</title>
@@ -717,8 +705,8 @@
     <desc lang="en">Latest news and analysis from around the world.</desc>
   </programme>
   <programme start="20260927193000 +0000" stop="20260927200000 +0000" channel="aljazeera.english">
-    <title lang="en">Talk To Al Jazeera</title>
-    <desc lang="en">One-on-one conversations with global leaders, icons, influencers and alternative voices shaping our times.</desc>
+    <title lang="en">Talk to Al Jazeera : Vanessa Nakate</title>
+    <desc lang="en">Ugandan climate activist Vanessa Nakate says she’s determined to raise awareness about how global warming is disproportionately affecting African countries.</desc>
   </programme>
   <programme start="20260927200000 +0000" stop="20260927210000 +0000" channel="aljazeera.english">
     <title lang="en">Blood, Sweat and Sugar : Enslaved</title>
@@ -770,7 +758,7 @@
   </programme>
   <programme start="20260928043000 +0000" stop="20260928050000 +0000" channel="aljazeera.english">
     <title lang="en">The Listening Post</title>
-    <desc lang="en">What is being reported by world media and how? Richard Gizbert guides you through the global news maze.</desc>
+    <desc lang="en">A corruption scandal, Bolsonaro’s comeback and Trump’s influence collide as Brazil heads into elections. Plus Spain's neo-Nazis - from online to on the streets?</desc>
   </programme>
   <programme start="20260928050000 +0000" stop="20260928053000 +0000" channel="aljazeera.english">
     <title lang="en">NEWS 30min</title>
@@ -797,8 +785,8 @@
     <desc lang="en">Latest news and analysis from around the world.</desc>
   </programme>
   <programme start="20260928083000 +0000" stop="20260928090000 +0000" channel="aljazeera.english">
-    <title lang="en">Talk To Al Jazeera</title>
-    <desc lang="en">One-on-one conversations with global leaders, icons, influencers and alternative voices shaping our times.</desc>
+    <title lang="en">Talk to Al Jazeera : Vanessa Nakate</title>
+    <desc lang="en">Ugandan climate activist Vanessa Nakate says she’s determined to raise awareness about how global warming is disproportionately affecting African countries.</desc>
   </programme>
   <programme start="20260928090000 +0000" stop="20260928093000 +0000" channel="aljazeera.english">
     <title lang="en">NEWS 30min</title>
@@ -917,8 +905,8 @@
     <desc lang="en">Latest news and analysis from around the world.</desc>
   </programme>
   <programme start="20260929043000 +0000" stop="20260929050000 +0000" channel="aljazeera.english">
-    <title lang="en">Talk To Al Jazeera</title>
-    <desc lang="en">One-on-one conversations with global leaders, icons, influencers and alternative voices shaping our times.</desc>
+    <title lang="en">Talk to Al Jazeera : Vanessa Nakate</title>
+    <desc lang="en">Ugandan climate activist Vanessa Nakate says she’s determined to raise awareness about how global warming is disproportionately affecting African countries.</desc>
   </programme>
   <programme start="20260929050000 +0000" stop="20260929053000 +0000" channel="aljazeera.english">
     <title lang="en">NEWS 30min</title>
@@ -982,7 +970,7 @@
   </programme>
   <programme start="20260929143000 +0000" stop="20260929150000 +0000" channel="aljazeera.english">
     <title lang="en">The Listening Post</title>
-    <desc lang="en">What is being reported by world media and how? Richard Gizbert guides you through the global news maze.</desc>
+    <desc lang="en">A corruption scandal, Bolsonaro’s comeback and Trump’s influence collide as Brazil heads into elections. Plus Spain's neo-Nazis - from online to on the streets?</desc>
   </programme>
   <programme start="20260929150000 +0000" stop="20260929160000 +0000" channel="aljazeera.english">
     <title lang="en">NEWSHOUR</title>
@@ -1094,7 +1082,7 @@
   </programme>
   <programme start="20260930083000 +0000" stop="20260930090000 +0000" channel="aljazeera.english">
     <title lang="en">The Listening Post</title>
-    <desc lang="en">What is being reported by world media and how? Richard Gizbert guides you through the global news maze.</desc>
+    <desc lang="en">A corruption scandal, Bolsonaro’s comeback and Trump’s influence collide as Brazil heads into elections. Plus Spain's neo-Nazis - from online to on the streets?</desc>
   </programme>
   <programme start="20260930090000 +0000" stop="20260930093000 +0000" channel="aljazeera.english">
     <title lang="en">NEWS 30min</title>
@@ -1129,8 +1117,8 @@
     <desc lang="en">Latest news and analysis from around the world.</desc>
   </programme>
   <programme start="20260930143000 +0000" stop="20260930150000 +0000" channel="aljazeera.english">
-    <title lang="en">Talk To Al Jazeera</title>
-    <desc lang="en">One-on-one conversations with global leaders, icons, influencers and alternative voices shaping our times.</desc>
+    <title lang="en">Talk to Al Jazeera : Vanessa Nakate</title>
+    <desc lang="en">Ugandan climate activist Vanessa Nakate says she’s determined to raise awareness about how global warming is disproportionately affecting African countries.</desc>
   </programme>
   <programme start="20260930150000 +0000" stop="20260930160000 +0000" channel="aljazeera.english">
     <title lang="en">NEWSHOUR</title>
@@ -1162,7 +1150,7 @@
   </programme>
   <programme start="20260930193000 +0000" stop="20260930200000 +0000" channel="aljazeera.english">
     <title lang="en">The Listening Post</title>
-    <desc lang="en">What is being reported by world media and how? Richard Gizbert guides you through the global news maze.</desc>
+    <desc lang="en">A corruption scandal, Bolsonaro’s comeback and Trump’s influence collide as Brazil heads into elections. Plus Spain's neo-Nazis - from online to on the streets?</desc>
   </programme>
   <programme start="20260930200000 +0000" stop="20260930210000 +0000" channel="aljazeera.english">
     <title lang="en">Witness : Shoot The People</title>
