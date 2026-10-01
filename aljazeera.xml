@@ -112,21 +112,21 @@
     <title lang="en">NEWS 30min</title>
     <desc lang="en">Latest news and analysis from around the world.</desc>
   </programme>
-  <programme start="20260930173000 +0000" stop="20260930180000 +0000" channel="aljazeera.english">
+  <programme start="20260930173000 +0000" stop="20260930174000 +0000" channel="aljazeera.english">
     <title lang="en">Inside Story</title>
     <desc lang="en">Beyond the headlines to the heart of the news of the day. Al Jazeera gets the Inside Story from some of the best minds from around the globe.</desc>
   </programme>
-  <programme start="20260930180000 +0000" stop="20260930190000 +0000" channel="aljazeera.english">
+  <programme start="20260930174000 +0000" stop="20260930190000 +0000" channel="aljazeera.english">
     <title lang="en">NEWSHOUR</title>
     <desc lang="en">Latest news and in-depth analysis from around the world.</desc>
   </programme>
-  <programme start="20260930190000 +0000" stop="20260930193000 +0000" channel="aljazeera.english">
+  <programme start="20260930190000 +0000" stop="20260930194500 +0000" channel="aljazeera.english">
     <title lang="en">NEWS 30min</title>
     <desc lang="en">Latest news and analysis from around the world.</desc>
   </programme>
-  <programme start="20260930193000 +0000" stop="20260930200000 +0000" channel="aljazeera.english">
-    <title lang="en">The Listening Post</title>
-    <desc lang="en">A corruption scandal, Bolsonaro’s comeback and Trump’s influence collide as Brazil heads into elections. Plus Spain's neo-Nazis - from online to on the streets?</desc>
+  <programme start="20260930194500 +0000" stop="20260930200000 +0000" channel="aljazeera.english">
+    <title lang="en">NEWS 30min</title>
+    <desc lang="en">Latest news and analysis from around the world.</desc>
   </programme>
   <programme start="20260930200000 +0000" stop="20260930210000 +0000" channel="aljazeera.english">
     <title lang="en">Witness : Shoot The People</title>
@@ -570,7 +570,7 @@
   </programme>
   <programme start="20261003193000 +0000" stop="20261003200000 +0000" channel="aljazeera.english">
     <title lang="en">The Listening Post</title>
-    <desc lang="en">What is being reported by world media and how? Richard Gizbert guides you through the global news maze.</desc>
+    <desc lang="en">What did Netanyahu know about Oct 7th before it happened? Plus, filmed from birth, monetised for millions - the family influencer industry.</desc>
   </programme>
   <programme start="20261003200000 +0000" stop="20261003210000 +0000" channel="aljazeera.english">
     <title lang="en">Witness : Shoot The People</title>
@@ -586,7 +586,7 @@
   </programme>
   <programme start="20261003223000 +0000" stop="20261003230000 +0000" channel="aljazeera.english">
     <title lang="en">The Bottom Line</title>
-    <desc lang="en">Weekly discussion show on U.S. politics and policies hosted by Steve Clemons.</desc>
+    <desc lang="en">Host Steve Clemons speaks with Alan Eyre, a former U.S. diplomat involved in previous nuclear talks with Iran.</desc>
   </programme>
   <programme start="20261003230000 +0000" stop="20261003233000 +0000" channel="aljazeera.english">
     <title lang="en">NEWS 30min</title>
@@ -650,7 +650,7 @@
   </programme>
   <programme start="20261004083000 +0000" stop="20261004090000 +0000" channel="aljazeera.english">
     <title lang="en">The Listening Post</title>
-    <desc lang="en">What is being reported by world media and how? Richard Gizbert guides you through the global news maze.</desc>
+    <desc lang="en">What did Netanyahu know about Oct 7th before it happened? Plus, filmed from birth, monetised for millions - the family influencer industry.</desc>
   </programme>
   <programme start="20261004090000 +0000" stop="20261004093000 +0000" channel="aljazeera.english">
     <title lang="en">NEWS 30min</title>
@@ -658,7 +658,7 @@
   </programme>
   <programme start="20261004093000 +0000" stop="20261004100000 +0000" channel="aljazeera.english">
     <title lang="en">The Bottom Line</title>
-    <desc lang="en">Weekly discussion show on U.S. politics and policies hosted by Steve Clemons.</desc>
+    <desc lang="en">Host Steve Clemons speaks with Alan Eyre, a former U.S. diplomat involved in previous nuclear talks with Iran.</desc>
   </programme>
   <programme start="20261004100000 +0000" stop="20261004110000 +0000" channel="aljazeera.english">
     <title lang="en">NEWSHOUR</title>
@@ -717,8 +717,8 @@
     <desc lang="en">Latest news and analysis from around the world.</desc>
   </programme>
   <programme start="20261004193000 +0000" stop="20261004200000 +0000" channel="aljazeera.english">
-    <title lang="en">Talk To Al Jazeera</title>
-    <desc lang="en">One-on-one conversations with global leaders, icons, influencers and alternative voices shaping our times.</desc>
+    <title lang="en">Talk to Al Jazeera : Arundhati Roy</title>
+    <desc lang="en">Award-winning author Arundhati Roy discusses her work which focuses on social injustice, and why she's not afraid to address politically charged topics.</desc>
   </programme>
   <programme start="20261004200000 +0000" stop="20261004210000 +0000" channel="aljazeera.english">
     <title lang="en">Blood, Sweat and Sugar : Exploitation</title>
@@ -762,7 +762,7 @@
   </programme>
   <programme start="20261005033000 +0000" stop="20261005040000 +0000" channel="aljazeera.english">
     <title lang="en">The Bottom Line</title>
-    <desc lang="en">Weekly discussion show on U.S. politics and policies hosted by Steve Clemons.</desc>
+    <desc lang="en">Host Steve Clemons speaks with Alan Eyre, a former U.S. diplomat involved in previous nuclear talks with Iran.</desc>
   </programme>
   <programme start="20261005040000 +0000" stop="20261005043000 +0000" channel="aljazeera.english">
     <title lang="en">NEWS 30min</title>
@@ -770,7 +770,7 @@
   </programme>
   <programme start="20261005043000 +0000" stop="20261005050000 +0000" channel="aljazeera.english">
     <title lang="en">The Listening Post</title>
-    <desc lang="en">What is being reported by world media and how? Richard Gizbert guides you through the global news maze.</desc>
+    <desc lang="en">What did Netanyahu know about Oct 7th before it happened? Plus, filmed from birth, monetised for millions - the family influencer industry.</desc>
   </programme>
   <programme start="20261005050000 +0000" stop="20261005053000 +0000" channel="aljazeera.english">
     <title lang="en">NEWS 30min</title>
@@ -797,8 +797,8 @@
     <desc lang="en">Latest news and analysis from around the world.</desc>
   </programme>
   <programme start="20261005083000 +0000" stop="20261005090000 +0000" channel="aljazeera.english">
-    <title lang="en">Talk To Al Jazeera</title>
-    <desc lang="en">One-on-one conversations with global leaders, icons, influencers and alternative voices shaping our times.</desc>
+    <title lang="en">Talk to Al Jazeera : Arundhati Roy</title>
+    <desc lang="en">Award-winning author Arundhati Roy discusses her work which focuses on social injustice, and why she's not afraid to address politically charged topics.</desc>
   </programme>
   <programme start="20261005090000 +0000" stop="20261005093000 +0000" channel="aljazeera.english">
     <title lang="en">NEWS 30min</title>
@@ -917,8 +917,8 @@
     <desc lang="en">Latest news and analysis from around the world.</desc>
   </programme>
   <programme start="20261006043000 +0000" stop="20261006050000 +0000" channel="aljazeera.english">
-    <title lang="en">Talk To Al Jazeera</title>
-    <desc lang="en">One-on-one conversations with global leaders, icons, influencers and alternative voices shaping our times.</desc>
+    <title lang="en">Talk to Al Jazeera : Arundhati Roy</title>
+    <desc lang="en">Award-winning author Arundhati Roy discusses her work which focuses on social injustice, and why she's not afraid to address politically charged topics.</desc>
   </programme>
   <programme start="20261006050000 +0000" stop="20261006053000 +0000" channel="aljazeera.english">
     <title lang="en">NEWS 30min</title>
@@ -982,7 +982,7 @@
   </programme>
   <programme start="20261006143000 +0000" stop="20261006150000 +0000" channel="aljazeera.english">
     <title lang="en">The Listening Post</title>
-    <desc lang="en">What is being reported by world media and how? Richard Gizbert guides you through the global news maze.</desc>
+    <desc lang="en">What did Netanyahu know about Oct 7th before it happened? Plus, filmed from birth, monetised for millions - the family influencer industry.</desc>
   </programme>
   <programme start="20261006150000 +0000" stop="20261006160000 +0000" channel="aljazeera.english">
     <title lang="en">NEWSHOUR</title>
@@ -994,7 +994,7 @@
   </programme>
   <programme start="20261006163000 +0000" stop="20261006170000 +0000" channel="aljazeera.english">
     <title lang="en">The Bottom Line</title>
-    <desc lang="en">Weekly discussion show on U.S. politics and policies hosted by Steve Clemons.</desc>
+    <desc lang="en">Host Steve Clemons speaks with Alan Eyre, a former U.S. diplomat involved in previous nuclear talks with Iran.</desc>
   </programme>
   <programme start="20261006170000 +0000" stop="20261006173000 +0000" channel="aljazeera.english">
     <title lang="en">NEWS 30min</title>
@@ -1082,7 +1082,7 @@
   </programme>
   <programme start="20261007063000 +0000" stop="20261007070000 +0000" channel="aljazeera.english">
     <title lang="en">The Bottom Line</title>
-    <desc lang="en">Weekly discussion show on U.S. politics and policies hosted by Steve Clemons.</desc>
+    <desc lang="en">Host Steve Clemons speaks with Alan Eyre, a former U.S. diplomat involved in previous nuclear talks with Iran.</desc>
   </programme>
   <programme start="20261007070000 +0000" stop="20261007080000 +0000" channel="aljazeera.english">
     <title lang="en">NEWSHOUR</title>
@@ -1094,7 +1094,7 @@
   </programme>
   <programme start="20261007083000 +0000" stop="20261007090000 +0000" channel="aljazeera.english">
     <title lang="en">The Listening Post</title>
-    <desc lang="en">What is being reported by world media and how? Richard Gizbert guides you through the global news maze.</desc>
+    <desc lang="en">What did Netanyahu know about Oct 7th before it happened? Plus, filmed from birth, monetised for millions - the family influencer industry.</desc>
   </programme>
   <programme start="20261007090000 +0000" stop="20261007093000 +0000" channel="aljazeera.english">
     <title lang="en">NEWS 30min</title>
@@ -1129,8 +1129,8 @@
     <desc lang="en">Latest news and analysis from around the world.</desc>
   </programme>
   <programme start="20261007143000 +0000" stop="20261007150000 +0000" channel="aljazeera.english">
-    <title lang="en">Talk To Al Jazeera</title>
-    <desc lang="en">One-on-one conversations with global leaders, icons, influencers and alternative voices shaping our times.</desc>
+    <title lang="en">Talk to Al Jazeera : Arundhati Roy</title>
+    <desc lang="en">Award-winning author Arundhati Roy discusses her work which focuses on social injustice, and why she's not afraid to address politically charged topics.</desc>
   </programme>
   <programme start="20261007150000 +0000" stop="20261007160000 +0000" channel="aljazeera.english">
     <title lang="en">NEWSHOUR</title>
@@ -1162,7 +1162,7 @@
   </programme>
   <programme start="20261007193000 +0000" stop="20261007200000 +0000" channel="aljazeera.english">
     <title lang="en">The Listening Post</title>
-    <desc lang="en">What is being reported by world media and how? Richard Gizbert guides you through the global news maze.</desc>
+    <desc lang="en">What did Netanyahu know about Oct 7th before it happened? Plus, filmed from birth, monetised for millions - the family influencer industry.</desc>
   </programme>
   <programme start="20261007200000 +0000" stop="20261007210000 +0000" channel="aljazeera.english">
     <title lang="en">Witness : Gaza - Still Reporting</title>
