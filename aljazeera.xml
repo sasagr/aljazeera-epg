@@ -72,17 +72,9 @@
     <title lang="en">NEWSHOUR</title>
     <desc lang="en">Latest news and in-depth analysis from around the world.</desc>
   </programme>
-  <programme start="20261005110000 +0000" stop="20261005113000 +0000" channel="aljazeera.english">
+  <programme start="20261005110000 +0000" stop="20261005130000 +0000" channel="aljazeera.english">
     <title lang="en">NEWS 30min</title>
     <desc lang="en">Latest news and analysis from around the world.</desc>
-  </programme>
-  <programme start="20261005113000 +0000" stop="20261005120000 +0000" channel="aljazeera.english">
-    <title lang="en">Inside Story</title>
-    <desc lang="en">Beyond the headlines to the heart of the news of the day. Al Jazeera gets the Inside Story from some of the best minds from around the globe.</desc>
-  </programme>
-  <programme start="20261005120000 +0000" stop="20261005130000 +0000" channel="aljazeera.english">
-    <title lang="en">Blood, Sweat and Sugar : Exploitation</title>
-    <desc lang="en">How sugar's vast empire survived slavery - from U.S. corporations to Brazil’s cane fields, huge profits, exploited workers and communities fighting for justice.</desc>
   </programme>
   <programme start="20261005130000 +0000" stop="20261005140000 +0000" channel="aljazeera.english">
     <title lang="en">NEWSHOUR</title>
@@ -585,8 +577,8 @@
     <desc lang="en">Latest news and analysis from around the world.</desc>
   </programme>
   <programme start="20261008223000 +0000" stop="20261008230000 +0000" channel="aljazeera.english">
-    <title lang="en">101 East</title>
-    <desc lang="en">101 East reports on the people and events shaping the Asia Pacific region.</desc>
+    <title lang="en">101 East : How To Build A Criminal Empire</title>
+    <desc lang="en">In an exclusive investigation, 101 East goes undercover in Cambodia to expose the empire of an alleged crime kingpin.</desc>
   </programme>
   <programme start="20261008230000 +0000" stop="20261008233000 +0000" channel="aljazeera.english">
     <title lang="en">NEWS 30min</title>
@@ -657,8 +649,8 @@
     <desc lang="en">Latest news and analysis from around the world.</desc>
   </programme>
   <programme start="20261009093000 +0000" stop="20261009100000 +0000" channel="aljazeera.english">
-    <title lang="en">101 East</title>
-    <desc lang="en">101 East reports on the people and events shaping the Asia Pacific region.</desc>
+    <title lang="en">101 East : How To Build A Criminal Empire</title>
+    <desc lang="en">In an exclusive investigation, 101 East goes undercover in Cambodia to expose the empire of an alleged crime kingpin.</desc>
   </programme>
   <programme start="20261009100000 +0000" stop="20261009110000 +0000" channel="aljazeera.english">
     <title lang="en">NEWSHOUR</title>
@@ -761,8 +753,8 @@
     <desc lang="en">Latest news and analysis from around the world.</desc>
   </programme>
   <programme start="20261010033000 +0000" stop="20261010040000 +0000" channel="aljazeera.english">
-    <title lang="en">101 East</title>
-    <desc lang="en">101 East reports on the people and events shaping the Asia Pacific region.</desc>
+    <title lang="en">101 East : How To Build A Criminal Empire</title>
+    <desc lang="en">In an exclusive investigation, 101 East goes undercover in Cambodia to expose the empire of an alleged crime kingpin.</desc>
   </programme>
   <programme start="20261010040000 +0000" stop="20261010043000 +0000" channel="aljazeera.english">
     <title lang="en">NEWS 30min</title>
@@ -833,8 +825,8 @@
     <desc lang="en">Latest news and analysis from around the world.</desc>
   </programme>
   <programme start="20261010143000 +0000" stop="20261010150000 +0000" channel="aljazeera.english">
-    <title lang="en">101 East</title>
-    <desc lang="en">101 East reports on the people and events shaping the Asia Pacific region.</desc>
+    <title lang="en">101 East : How To Build A Criminal Empire</title>
+    <desc lang="en">In an exclusive investigation, 101 East goes undercover in Cambodia to expose the empire of an alleged crime kingpin.</desc>
   </programme>
   <programme start="20261010150000 +0000" stop="20261010160000 +0000" channel="aljazeera.english">
     <title lang="en">NEWSHOUR</title>
@@ -993,8 +985,8 @@
     <desc lang="en">Latest news and analysis from around the world.</desc>
   </programme>
   <programme start="20261011163000 +0000" stop="20261011170000 +0000" channel="aljazeera.english">
-    <title lang="en">101 East</title>
-    <desc lang="en">101 East reports on the people and events shaping the Asia Pacific region.</desc>
+    <title lang="en">101 East : How To Build A Criminal Empire</title>
+    <desc lang="en">In an exclusive investigation, 101 East goes undercover in Cambodia to expose the empire of an alleged crime kingpin.</desc>
   </programme>
   <programme start="20261011170000 +0000" stop="20261011173000 +0000" channel="aljazeera.english">
     <title lang="en">NEWS 30min</title>
@@ -1081,8 +1073,8 @@
     <desc lang="en">Latest news and analysis from around the world.</desc>
   </programme>
   <programme start="20261012063000 +0000" stop="20261012070000 +0000" channel="aljazeera.english">
-    <title lang="en">101 East</title>
-    <desc lang="en">101 East reports on the people and events shaping the Asia Pacific region.</desc>
+    <title lang="en">101 East : How To Build A Criminal Empire</title>
+    <desc lang="en">In an exclusive investigation, 101 East goes undercover in Cambodia to expose the empire of an alleged crime kingpin.</desc>
   </programme>
   <programme start="20261012070000 +0000" stop="20261012080000 +0000" channel="aljazeera.english">
     <title lang="en">NEWSHOUR</title>
