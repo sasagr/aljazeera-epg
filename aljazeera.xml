@@ -4,6 +4,154 @@
     <display-name>Al Jazeera English</display-name>
     <icon src="https://www.aljazeera.com/images/logo_aje.png" />
   </channel>
+  <programme start="20261011000000 +0000" stop="20261011010000 +0000" channel="aljazeera.english">
+    <title lang="en">NEWSHOUR</title>
+    <desc lang="en">Latest news and in-depth analysis from around the world.</desc>
+  </programme>
+  <programme start="20261011010000 +0000" stop="20261011020000 +0000" channel="aljazeera.english">
+    <title lang="en">Al Jazeera World : Palestine The Lost Team</title>
+    <desc lang="en">The forgotten story of the football team played under the name of Palestine in the 1930s and 40s but without any Arab Palestinian players.</desc>
+  </programme>
+  <programme start="20261011020000 +0000" stop="20261011030000 +0000" channel="aljazeera.english">
+    <title lang="en">NEWSHOUR</title>
+    <desc lang="en">Latest news and in-depth analysis from around the world.</desc>
+  </programme>
+  <programme start="20261011030000 +0000" stop="20261011033000 +0000" channel="aljazeera.english">
+    <title lang="en">NEWS 30min</title>
+    <desc lang="en">Latest news and analysis from around the world.</desc>
+  </programme>
+  <programme start="20261011033000 +0000" stop="20261011040000 +0000" channel="aljazeera.english">
+    <title lang="en">earthrise - We Are Nature : Restoring the Balance</title>
+    <desc lang="en">earthrise follows the progress of Al Mizan, an Islamic Covenant for the Earth, and traces its growing impact in the year after its launch.</desc>
+  </programme>
+  <programme start="20261011040000 +0000" stop="20261011043000 +0000" channel="aljazeera.english">
+    <title lang="en">NEWS 30min</title>
+    <desc lang="en">Latest news and analysis from around the world.</desc>
+  </programme>
+  <programme start="20261011043000 +0000" stop="20261011050000 +0000" channel="aljazeera.english">
+    <title lang="en">Counting the Cost</title>
+    <desc lang="en">Can emergency fuel reserves ease the diesel crisis and its impact on the global economy?</desc>
+  </programme>
+  <programme start="20261011050000 +0000" stop="20261011053000 +0000" channel="aljazeera.english">
+    <title lang="en">NEWS 30min</title>
+    <desc lang="en">Latest news and analysis from around the world.</desc>
+  </programme>
+  <programme start="20261011053000 +0000" stop="20261011060000 +0000" channel="aljazeera.english">
+    <title lang="en">Inside Story</title>
+    <desc lang="en">Beyond the headlines to the heart of the news of the day. Al Jazeera gets the Inside Story from some of the best minds from around the globe.</desc>
+  </programme>
+  <programme start="20261011060000 +0000" stop="20261011063000 +0000" channel="aljazeera.english">
+    <title lang="en">NEWS 30min</title>
+    <desc lang="en">Latest news and analysis from around the world.</desc>
+  </programme>
+  <programme start="20261011063000 +0000" stop="20261011070000 +0000" channel="aljazeera.english">
+    <title lang="en">People &amp; Power : The Unmaking of Palestine P2</title>
+    <desc lang="en">Oppressed, dispossessed and expelled – how Palestinians resist the century-long effort to force them from their land.</desc>
+  </programme>
+  <programme start="20261011070000 +0000" stop="20261011080000 +0000" channel="aljazeera.english">
+    <title lang="en">NEWSHOUR</title>
+    <desc lang="en">Latest news and in-depth analysis from around the world.</desc>
+  </programme>
+  <programme start="20261011080000 +0000" stop="20261011083000 +0000" channel="aljazeera.english">
+    <title lang="en">NEWS 30min</title>
+    <desc lang="en">Latest news and analysis from around the world.</desc>
+  </programme>
+  <programme start="20261011083000 +0000" stop="20261011090000 +0000" channel="aljazeera.english">
+    <title lang="en">The Listening Post</title>
+    <desc lang="en">Former Biden officials are offering their accounts of the Gaza war. Is this a coming clean or revisionism? Plus - Nigel Farage and the media that made him.</desc>
+  </programme>
+  <programme start="20261011090000 +0000" stop="20261011093000 +0000" channel="aljazeera.english">
+    <title lang="en">NEWS 30min</title>
+    <desc lang="en">Latest news and analysis from around the world.</desc>
+  </programme>
+  <programme start="20261011093000 +0000" stop="20261011100000 +0000" channel="aljazeera.english">
+    <title lang="en">The Bottom Line</title>
+    <desc lang="en">Yale University Professor Samuel Moyn argues that America’s aging politicians are barring younger generations from having a say in their country’s future.</desc>
+  </programme>
+  <programme start="20261011100000 +0000" stop="20261011110000 +0000" channel="aljazeera.english">
+    <title lang="en">NEWSHOUR</title>
+    <desc lang="en">Latest news and in-depth analysis from around the world.</desc>
+  </programme>
+  <programme start="20261011110000 +0000" stop="20261011113000 +0000" channel="aljazeera.english">
+    <title lang="en">NEWS 30min</title>
+    <desc lang="en">Latest news and analysis from around the world.</desc>
+  </programme>
+  <programme start="20261011113000 +0000" stop="20261011120000 +0000" channel="aljazeera.english">
+    <title lang="en">Inside Story</title>
+    <desc lang="en">Beyond the headlines to the heart of the news of the day. Al Jazeera gets the Inside Story from some of the best minds from around the globe.</desc>
+  </programme>
+  <programme start="20261011120000 +0000" stop="20261011130000 +0000" channel="aljazeera.english">
+    <title lang="en">Witness : Gaza - Still Reporting</title>
+    <desc lang="en">When Israel orders a total evacuation of Gaza City, a Palestinian journalist documents the forced displacement, while living it with her own family.</desc>
+  </programme>
+  <programme start="20261011130000 +0000" stop="20261011140000 +0000" channel="aljazeera.english">
+    <title lang="en">NEWSHOUR</title>
+    <desc lang="en">Latest news and in-depth analysis from around the world.</desc>
+  </programme>
+  <programme start="20261011140000 +0000" stop="20261011143000 +0000" channel="aljazeera.english">
+    <title lang="en">NEWS 30min</title>
+    <desc lang="en">Latest news and analysis from around the world.</desc>
+  </programme>
+  <programme start="20261011143000 +0000" stop="20261011150000 +0000" channel="aljazeera.english">
+    <title lang="en">Business of War : A Hundred Hiroshimas</title>
+    <desc lang="en">Hind Hassan examines the prospect of a new nuclear arms race, the companies helping to fuel it, and the dangers it poses to us all.</desc>
+  </programme>
+  <programme start="20261011150000 +0000" stop="20261011160000 +0000" channel="aljazeera.english">
+    <title lang="en">NEWSHOUR</title>
+    <desc lang="en">Latest news and in-depth analysis from around the world.</desc>
+  </programme>
+  <programme start="20261011160000 +0000" stop="20261011163000 +0000" channel="aljazeera.english">
+    <title lang="en">NEWS 30min</title>
+    <desc lang="en">Latest news and analysis from around the world.</desc>
+  </programme>
+  <programme start="20261011163000 +0000" stop="20261011170000 +0000" channel="aljazeera.english">
+    <title lang="en">101 East : How To Build A Criminal Empire</title>
+    <desc lang="en">In an exclusive investigation, 101 East goes undercover in Cambodia to expose the empire of an alleged crime kingpin.</desc>
+  </programme>
+  <programme start="20261011170000 +0000" stop="20261011173000 +0000" channel="aljazeera.english">
+    <title lang="en">NEWS 30min</title>
+    <desc lang="en">Latest news and analysis from around the world.</desc>
+  </programme>
+  <programme start="20261011173000 +0000" stop="20261011180000 +0000" channel="aljazeera.english">
+    <title lang="en">Inside Story</title>
+    <desc lang="en">Beyond the headlines to the heart of the news of the day. Al Jazeera gets the Inside Story from some of the best minds from around the globe.</desc>
+  </programme>
+  <programme start="20261011180000 +0000" stop="20261011190000 +0000" channel="aljazeera.english">
+    <title lang="en">NEWSHOUR</title>
+    <desc lang="en">Latest news and in-depth analysis from around the world.</desc>
+  </programme>
+  <programme start="20261011190000 +0000" stop="20261011193000 +0000" channel="aljazeera.english">
+    <title lang="en">NEWS 30min</title>
+    <desc lang="en">Latest news and analysis from around the world.</desc>
+  </programme>
+  <programme start="20261011193000 +0000" stop="20261011200000 +0000" channel="aljazeera.english">
+    <title lang="en">Talk to Al Jazeera : Fatih Birol</title>
+    <desc lang="en">The head of the International Energy Agency Fatih Birol discusses what he says is the biggest energy crisis, and the challenges facing the global economy.</desc>
+  </programme>
+  <programme start="20261011200000 +0000" stop="20261011210000 +0000" channel="aljazeera.english">
+    <title lang="en">Israelism : Episode 2</title>
+    <desc lang="en">When two young American Jews witness the way Israel treats Palestinians, it changes their lives and exposes a generational divide over modern Jewish identity.</desc>
+  </programme>
+  <programme start="20261011210000 +0000" stop="20261011220000 +0000" channel="aljazeera.english">
+    <title lang="en">NEWSHOUR</title>
+    <desc lang="en">Latest news and in-depth analysis from around the world.</desc>
+  </programme>
+  <programme start="20261011220000 +0000" stop="20261011223000 +0000" channel="aljazeera.english">
+    <title lang="en">NEWS 30min</title>
+    <desc lang="en">Latest news and analysis from around the world.</desc>
+  </programme>
+  <programme start="20261011223000 +0000" stop="20261011230000 +0000" channel="aljazeera.english">
+    <title lang="en">Echoes Of A Lost Gaza : Faded Hopes</title>
+    <desc lang="en">Filmmaker Mariam Shahin looks back at how the blockade, successive conflicts and the current war have reduced the hopes and dreams the people of Gaza to rubble.</desc>
+  </programme>
+  <programme start="20261011230000 +0000" stop="20261011233000 +0000" channel="aljazeera.english">
+    <title lang="en">NEWS 30min</title>
+    <desc lang="en">Latest news and analysis from around the world.</desc>
+  </programme>
+  <programme start="20261011233000 +0000" stop="20261012000000 +0000" channel="aljazeera.english">
+    <title lang="en">Inside Story</title>
+    <desc lang="en">Beyond the headlines to the heart of the news of the day. Al Jazeera gets the Inside Story from some of the best minds from around the globe.</desc>
+  </programme>
   <programme start="20261012000000 +0000" stop="20261012010000 +0000" channel="aljazeera.english">
     <title lang="en">NEWSHOUR</title>
     <desc lang="en">Latest news and in-depth analysis from around the world.</desc>
@@ -125,12 +273,12 @@
     <desc lang="en">Latest news and analysis from around the world.</desc>
   </programme>
   <programme start="20261012193000 +0000" stop="20261012200000 +0000" channel="aljazeera.english">
-    <title lang="en">Al Jazeera Explains : Ep 4</title>
-    <desc lang="en">Al Jazeera Explains goes beyond the headlines to bring clarity, context and the bigger picture to the stories shaping the world today.</desc>
+    <title lang="en">Al Jazeera Explains : Israel - The Politics of Power &amp; Perception</title>
+    <desc lang="en">U.S. ties with Israel deepen as support fractures. Al Jazeera Explains the alliance and Israel’s global battle to shape opinion after Gaza.</desc>
   </programme>
   <programme start="20261012200000 +0000" stop="20261012210000 +0000" channel="aljazeera.english">
-    <title lang="en">Let's Focus : Ep 5</title>
-    <desc lang="en">Designed for viewers seeking context, depth and clarity, Let’s Focus unpacks the U.S. midterm elections and treats audiences as citizens rather than spectators.</desc>
+    <title lang="en">Let's Focus : How Podcasts Became Political Powerhouses</title>
+    <desc lang="en">Cenk Uygur of The Young Turks and Emily Jashinsky of After Party join Josh Rushing to ask if podcasts are remaking politics - or just bypassing scrutiny.</desc>
   </programme>
   <programme start="20261012210000 +0000" stop="20261012220000 +0000" channel="aljazeera.english">
     <title lang="en">NEWSHOUR</title>
@@ -205,8 +353,8 @@
     <desc lang="en">Latest news and analysis from around the world.</desc>
   </programme>
   <programme start="20261013083000 +0000" stop="20261013090000 +0000" channel="aljazeera.english">
-    <title lang="en">Al Jazeera Explains : Ep 4</title>
-    <desc lang="en">Al Jazeera Explains goes beyond the headlines to bring clarity, context and the bigger picture to the stories shaping the world today.</desc>
+    <title lang="en">Al Jazeera Explains : Israel - The Politics of Power &amp; Perception</title>
+    <desc lang="en">U.S. ties with Israel deepen as support fractures. Al Jazeera Explains the alliance and Israel’s global battle to shape opinion after Gaza.</desc>
   </programme>
   <programme start="20261013090000 +0000" stop="20261013093000 +0000" channel="aljazeera.english">
     <title lang="en">NEWS 30min</title>
@@ -229,8 +377,8 @@
     <desc lang="en">Beyond the headlines to the heart of the news of the day. Al Jazeera gets the Inside Story from some of the best minds from around the globe.</desc>
   </programme>
   <programme start="20261013120000 +0000" stop="20261013130000 +0000" channel="aljazeera.english">
-    <title lang="en">Let's Focus : Ep 5</title>
-    <desc lang="en">Designed for viewers seeking context, depth and clarity, Let’s Focus unpacks the U.S. midterm elections and treats audiences as citizens rather than spectators.</desc>
+    <title lang="en">Let's Focus : How Podcasts Became Political Powerhouses</title>
+    <desc lang="en">Cenk Uygur of The Young Turks and Emily Jashinsky of After Party join Josh Rushing to ask if podcasts are remaking politics - or just bypassing scrutiny.</desc>
   </programme>
   <programme start="20261013130000 +0000" stop="20261013140000 +0000" channel="aljazeera.english">
     <title lang="en">NEWSHOUR</title>
@@ -277,8 +425,8 @@
     <desc lang="en">A deadly Ebola outbreak in D.R. Congo exposes the struggle of medics, families and survivors to contain the virus amid conflict, mistrust and displacement.</desc>
   </programme>
   <programme start="20261013200000 +0000" stop="20261013210000 +0000" channel="aljazeera.english">
-    <title lang="en">Al Jazeera World</title>
-    <desc lang="en">A series of one-hour documentaries showcasing films from across the Al Jazeera Network.</desc>
+    <title lang="en">Al Jazeera World : Masoud Pezeshkian - Peace, Not Surrender</title>
+    <desc lang="en">An exclusive interview with Iranian President Masoud Pezeshkian on sanctions, regional conflict, U.S.–Israel tensions and his call for Muslim unity.</desc>
   </programme>
   <programme start="20261013210000 +0000" stop="20261013220000 +0000" channel="aljazeera.english">
     <title lang="en">NEWSHOUR</title>
@@ -305,8 +453,8 @@
     <desc lang="en">Latest news and in-depth analysis from around the world.</desc>
   </programme>
   <programme start="20261014010000 +0000" stop="20261014020000 +0000" channel="aljazeera.english">
-    <title lang="en">Let's Focus : Ep 5</title>
-    <desc lang="en">Designed for viewers seeking context, depth and clarity, Let’s Focus unpacks the U.S. midterm elections and treats audiences as citizens rather than spectators.</desc>
+    <title lang="en">Let's Focus : How Podcasts Became Political Powerhouses</title>
+    <desc lang="en">Cenk Uygur of The Young Turks and Emily Jashinsky of After Party join Josh Rushing to ask if podcasts are remaking politics - or just bypassing scrutiny.</desc>
   </programme>
   <programme start="20261014020000 +0000" stop="20261014030000 +0000" channel="aljazeera.english">
     <title lang="en">NEWSHOUR</title>
@@ -325,8 +473,8 @@
     <desc lang="en">Latest news and analysis from around the world.</desc>
   </programme>
   <programme start="20261014043000 +0000" stop="20261014050000 +0000" channel="aljazeera.english">
-    <title lang="en">Al Jazeera Explains : Ep 4</title>
-    <desc lang="en">Al Jazeera Explains goes beyond the headlines to bring clarity, context and the bigger picture to the stories shaping the world today.</desc>
+    <title lang="en">Al Jazeera Explains : Israel - The Politics of Power &amp; Perception</title>
+    <desc lang="en">U.S. ties with Israel deepen as support fractures. Al Jazeera Explains the alliance and Israel’s global battle to shape opinion after Gaza.</desc>
   </programme>
   <programme start="20261014050000 +0000" stop="20261014053000 +0000" channel="aljazeera.english">
     <title lang="en">NEWS 30min</title>
@@ -377,8 +525,8 @@
     <desc lang="en">Beyond the headlines to the heart of the news of the day. Al Jazeera gets the Inside Story from some of the best minds from around the globe.</desc>
   </programme>
   <programme start="20261014120000 +0000" stop="20261014130000 +0000" channel="aljazeera.english">
-    <title lang="en">Al Jazeera World</title>
-    <desc lang="en">A series of one-hour documentaries showcasing films from across the Al Jazeera Network.</desc>
+    <title lang="en">Al Jazeera World : Masoud Pezeshkian - Peace, Not Surrender</title>
+    <desc lang="en">An exclusive interview with Iranian President Masoud Pezeshkian on sanctions, regional conflict, U.S.–Israel tensions and his call for Muslim unity.</desc>
   </programme>
   <programme start="20261014130000 +0000" stop="20261014140000 +0000" channel="aljazeera.english">
     <title lang="en">NEWSHOUR</title>
@@ -453,8 +601,8 @@
     <desc lang="en">Latest news and in-depth analysis from around the world.</desc>
   </programme>
   <programme start="20261015010000 +0000" stop="20261015020000 +0000" channel="aljazeera.english">
-    <title lang="en">Al Jazeera World</title>
-    <desc lang="en">A series of one-hour documentaries showcasing films from across the Al Jazeera Network.</desc>
+    <title lang="en">Al Jazeera World : Masoud Pezeshkian - Peace, Not Surrender</title>
+    <desc lang="en">An exclusive interview with Iranian President Masoud Pezeshkian on sanctions, regional conflict, U.S.–Israel tensions and his call for Muslim unity.</desc>
   </programme>
   <programme start="20261015020000 +0000" stop="20261015030000 +0000" channel="aljazeera.english">
     <title lang="en">NEWSHOUR</title>
@@ -525,8 +673,8 @@
     <desc lang="en">Beyond the headlines to the heart of the news of the day. Al Jazeera gets the Inside Story from some of the best minds from around the globe.</desc>
   </programme>
   <programme start="20261015120000 +0000" stop="20261015130000 +0000" channel="aljazeera.english">
-    <title lang="en">Let's Focus : Ep 5</title>
-    <desc lang="en">Designed for viewers seeking context, depth and clarity, Let’s Focus unpacks the U.S. midterm elections and treats audiences as citizens rather than spectators.</desc>
+    <title lang="en">Let's Focus : How Podcasts Became Political Powerhouses</title>
+    <desc lang="en">Cenk Uygur of The Young Turks and Emily Jashinsky of After Party join Josh Rushing to ask if podcasts are remaking politics - or just bypassing scrutiny.</desc>
   </programme>
   <programme start="20261015130000 +0000" stop="20261015140000 +0000" channel="aljazeera.english">
     <title lang="en">NEWSHOUR</title>
@@ -537,8 +685,8 @@
     <desc lang="en">Latest news and analysis from around the world.</desc>
   </programme>
   <programme start="20261015143000 +0000" stop="20261015150000 +0000" channel="aljazeera.english">
-    <title lang="en">Al Jazeera Explains : Ep 4</title>
-    <desc lang="en">Al Jazeera Explains goes beyond the headlines to bring clarity, context and the bigger picture to the stories shaping the world today.</desc>
+    <title lang="en">Al Jazeera Explains : Israel - The Politics of Power &amp; Perception</title>
+    <desc lang="en">U.S. ties with Israel deepen as support fractures. Al Jazeera Explains the alliance and Israel’s global battle to shape opinion after Gaza.</desc>
   </programme>
   <programme start="20261015150000 +0000" stop="20261015160000 +0000" channel="aljazeera.english">
     <title lang="en">NEWSHOUR</title>
@@ -585,8 +733,8 @@
     <desc lang="en">Latest news and analysis from around the world.</desc>
   </programme>
   <programme start="20261015223000 +0000" stop="20261015230000 +0000" channel="aljazeera.english">
-    <title lang="en">101 East</title>
-    <desc lang="en">101 East reports on the people and events shaping the Asia Pacific region.</desc>
+    <title lang="en">101 East : Justice For Altantuya P1</title>
+    <desc lang="en">101 East's 2-part special investigates if power and politics is enabling those behind the 2006 murder of a Mongolian woman in Malaysia evade justice.</desc>
   </programme>
   <programme start="20261015230000 +0000" stop="20261015233000 +0000" channel="aljazeera.english">
     <title lang="en">NEWS 30min</title>
@@ -649,16 +797,16 @@
     <desc lang="en">Latest news and analysis from around the world.</desc>
   </programme>
   <programme start="20261016083000 +0000" stop="20261016090000 +0000" channel="aljazeera.english">
-    <title lang="en">Al Jazeera Explains : Ep 4</title>
-    <desc lang="en">Al Jazeera Explains goes beyond the headlines to bring clarity, context and the bigger picture to the stories shaping the world today.</desc>
+    <title lang="en">Al Jazeera Explains : Israel - The Politics of Power &amp; Perception</title>
+    <desc lang="en">U.S. ties with Israel deepen as support fractures. Al Jazeera Explains the alliance and Israel’s global battle to shape opinion after Gaza.</desc>
   </programme>
   <programme start="20261016090000 +0000" stop="20261016093000 +0000" channel="aljazeera.english">
     <title lang="en">NEWS 30min</title>
     <desc lang="en">Latest news and analysis from around the world.</desc>
   </programme>
   <programme start="20261016093000 +0000" stop="20261016100000 +0000" channel="aljazeera.english">
-    <title lang="en">101 East</title>
-    <desc lang="en">101 East reports on the people and events shaping the Asia Pacific region.</desc>
+    <title lang="en">101 East : Justice For Altantuya P1</title>
+    <desc lang="en">101 East's 2-part special investigates if power and politics is enabling those behind the 2006 murder of a Mongolian woman in Malaysia evade justice.</desc>
   </programme>
   <programme start="20261016100000 +0000" stop="20261016110000 +0000" channel="aljazeera.english">
     <title lang="en">NEWSHOUR</title>
@@ -721,8 +869,8 @@
     <desc lang="en">Counting the Cost provides background to the economics stories that shape our world and impact the lives of ordinary people.</desc>
   </programme>
   <programme start="20261016200000 +0000" stop="20261016210000 +0000" channel="aljazeera.english">
-    <title lang="en">Let's Focus : Ep 5</title>
-    <desc lang="en">Designed for viewers seeking context, depth and clarity, Let’s Focus unpacks the U.S. midterm elections and treats audiences as citizens rather than spectators.</desc>
+    <title lang="en">Let's Focus : How Podcasts Became Political Powerhouses</title>
+    <desc lang="en">Cenk Uygur of The Young Turks and Emily Jashinsky of After Party join Josh Rushing to ask if podcasts are remaking politics - or just bypassing scrutiny.</desc>
   </programme>
   <programme start="20261016210000 +0000" stop="20261016220000 +0000" channel="aljazeera.english">
     <title lang="en">NEWSHOUR</title>
@@ -761,8 +909,8 @@
     <desc lang="en">Latest news and analysis from around the world.</desc>
   </programme>
   <programme start="20261017033000 +0000" stop="20261017040000 +0000" channel="aljazeera.english">
-    <title lang="en">101 East</title>
-    <desc lang="en">101 East reports on the people and events shaping the Asia Pacific region.</desc>
+    <title lang="en">101 East : Justice For Altantuya P1</title>
+    <desc lang="en">101 East's 2-part special investigates if power and politics is enabling those behind the 2006 murder of a Mongolian woman in Malaysia evade justice.</desc>
   </programme>
   <programme start="20261017040000 +0000" stop="20261017043000 +0000" channel="aljazeera.english">
     <title lang="en">NEWS 30min</title>
@@ -821,8 +969,8 @@
     <desc lang="en">Beyond the headlines to the heart of the news of the day. Al Jazeera gets the Inside Story from some of the best minds from around the globe.</desc>
   </programme>
   <programme start="20261017120000 +0000" stop="20261017130000 +0000" channel="aljazeera.english">
-    <title lang="en">Al Jazeera World</title>
-    <desc lang="en">A series of one-hour documentaries showcasing films from across the Al Jazeera Network.</desc>
+    <title lang="en">Al Jazeera World : Masoud Pezeshkian - Peace, Not Surrender</title>
+    <desc lang="en">An exclusive interview with Iranian President Masoud Pezeshkian on sanctions, regional conflict, U.S.–Israel tensions and his call for Muslim unity.</desc>
   </programme>
   <programme start="20261017130000 +0000" stop="20261017140000 +0000" channel="aljazeera.english">
     <title lang="en">NEWSHOUR</title>
@@ -833,8 +981,8 @@
     <desc lang="en">Latest news and analysis from around the world.</desc>
   </programme>
   <programme start="20261017143000 +0000" stop="20261017150000 +0000" channel="aljazeera.english">
-    <title lang="en">101 East</title>
-    <desc lang="en">101 East reports on the people and events shaping the Asia Pacific region.</desc>
+    <title lang="en">101 East : Justice For Altantuya P1</title>
+    <desc lang="en">101 East's 2-part special investigates if power and politics is enabling those behind the 2006 murder of a Mongolian woman in Malaysia evade justice.</desc>
   </programme>
   <programme start="20261017150000 +0000" stop="20261017160000 +0000" channel="aljazeera.english">
     <title lang="en">NEWSHOUR</title>
@@ -897,8 +1045,8 @@
     <desc lang="en">Latest news and in-depth analysis from around the world.</desc>
   </programme>
   <programme start="20261018010000 +0000" stop="20261018020000 +0000" channel="aljazeera.english">
-    <title lang="en">Al Jazeera World</title>
-    <desc lang="en">A series of one-hour documentaries showcasing films from across the Al Jazeera Network.</desc>
+    <title lang="en">Al Jazeera World : Masoud Pezeshkian - Peace, Not Surrender</title>
+    <desc lang="en">An exclusive interview with Iranian President Masoud Pezeshkian on sanctions, regional conflict, U.S.–Israel tensions and his call for Muslim unity.</desc>
   </programme>
   <programme start="20261018020000 +0000" stop="20261018030000 +0000" channel="aljazeera.english">
     <title lang="en">NEWSHOUR</title>
@@ -993,8 +1141,8 @@
     <desc lang="en">Latest news and analysis from around the world.</desc>
   </programme>
   <programme start="20261018163000 +0000" stop="20261018170000 +0000" channel="aljazeera.english">
-    <title lang="en">101 East</title>
-    <desc lang="en">101 East reports on the people and events shaping the Asia Pacific region.</desc>
+    <title lang="en">101 East : Justice For Altantuya P1</title>
+    <desc lang="en">101 East's 2-part special investigates if power and politics is enabling those behind the 2006 murder of a Mongolian woman in Malaysia evade justice.</desc>
   </programme>
   <programme start="20261018170000 +0000" stop="20261018173000 +0000" channel="aljazeera.english">
     <title lang="en">NEWS 30min</title>
@@ -1037,154 +1185,6 @@
     <desc lang="en">Latest news and analysis from around the world.</desc>
   </programme>
   <programme start="20261018233000 +0000" stop="20261019000000 +0000" channel="aljazeera.english">
-    <title lang="en">Inside Story</title>
-    <desc lang="en">Beyond the headlines to the heart of the news of the day. Al Jazeera gets the Inside Story from some of the best minds from around the globe.</desc>
-  </programme>
-  <programme start="20261019000000 +0000" stop="20261019010000 +0000" channel="aljazeera.english">
-    <title lang="en">NEWSHOUR</title>
-    <desc lang="en">Latest news and in-depth analysis from around the world.</desc>
-  </programme>
-  <programme start="20261019010000 +0000" stop="20261019020000 +0000" channel="aljazeera.english">
-    <title lang="en">Witness : Praying for Armageddon Ep 1</title>
-    <desc lang="en">Episode1 of a doomsday political thriller about evangelical Christian influence on U.S. foreign policy in the Middle East.</desc>
-  </programme>
-  <programme start="20261019020000 +0000" stop="20261019030000 +0000" channel="aljazeera.english">
-    <title lang="en">NEWSHOUR</title>
-    <desc lang="en">Latest news and in-depth analysis from around the world.</desc>
-  </programme>
-  <programme start="20261019030000 +0000" stop="20261019033000 +0000" channel="aljazeera.english">
-    <title lang="en">NEWS 30min</title>
-    <desc lang="en">Latest news and analysis from around the world.</desc>
-  </programme>
-  <programme start="20261019033000 +0000" stop="20261019040000 +0000" channel="aljazeera.english">
-    <title lang="en">The Bottom Line</title>
-    <desc lang="en">Weekly discussion show on U.S. politics and policies hosted by Steve Clemons.</desc>
-  </programme>
-  <programme start="20261019040000 +0000" stop="20261019043000 +0000" channel="aljazeera.english">
-    <title lang="en">NEWS 30min</title>
-    <desc lang="en">Latest news and analysis from around the world.</desc>
-  </programme>
-  <programme start="20261019043000 +0000" stop="20261019050000 +0000" channel="aljazeera.english">
-    <title lang="en">The Listening Post</title>
-    <desc lang="en">What is being reported by world media and how? Richard Gizbert guides you through the global news maze.</desc>
-  </programme>
-  <programme start="20261019050000 +0000" stop="20261019053000 +0000" channel="aljazeera.english">
-    <title lang="en">NEWS 30min</title>
-    <desc lang="en">Latest news and analysis from around the world.</desc>
-  </programme>
-  <programme start="20261019053000 +0000" stop="20261019060000 +0000" channel="aljazeera.english">
-    <title lang="en">Inside Story</title>
-    <desc lang="en">Beyond the headlines to the heart of the news of the day. Al Jazeera gets the Inside Story from some of the best minds from around the globe.</desc>
-  </programme>
-  <programme start="20261019060000 +0000" stop="20261019063000 +0000" channel="aljazeera.english">
-    <title lang="en">NEWS 30min</title>
-    <desc lang="en">Latest news and analysis from around the world.</desc>
-  </programme>
-  <programme start="20261019063000 +0000" stop="20261019070000 +0000" channel="aljazeera.english">
-    <title lang="en">101 East</title>
-    <desc lang="en">101 East reports on the people and events shaping the Asia Pacific region.</desc>
-  </programme>
-  <programme start="20261019070000 +0000" stop="20261019080000 +0000" channel="aljazeera.english">
-    <title lang="en">NEWSHOUR</title>
-    <desc lang="en">Latest news and in-depth analysis from around the world.</desc>
-  </programme>
-  <programme start="20261019080000 +0000" stop="20261019083000 +0000" channel="aljazeera.english">
-    <title lang="en">NEWS 30min</title>
-    <desc lang="en">Latest news and analysis from around the world.</desc>
-  </programme>
-  <programme start="20261019083000 +0000" stop="20261019090000 +0000" channel="aljazeera.english">
-    <title lang="en">Talk To Al Jazeera</title>
-    <desc lang="en">One-on-one conversations with global leaders, icons, influencers and alternative voices shaping our times.</desc>
-  </programme>
-  <programme start="20261019090000 +0000" stop="20261019093000 +0000" channel="aljazeera.english">
-    <title lang="en">NEWS 30min</title>
-    <desc lang="en">Latest news and analysis from around the world.</desc>
-  </programme>
-  <programme start="20261019093000 +0000" stop="20261019100000 +0000" channel="aljazeera.english">
-    <title lang="en">Echoes Of A Lost Gaza : Shattered Dreams</title>
-    <desc lang="en">Filmmaker Mariam Shahin looks back at how the blockade, successive conflicts and the current war have reduced the hopes and dreams the people of Gaza to rubble.</desc>
-  </programme>
-  <programme start="20261019100000 +0000" stop="20261019110000 +0000" channel="aljazeera.english">
-    <title lang="en">NEWSHOUR</title>
-    <desc lang="en">Latest news and in-depth analysis from around the world.</desc>
-  </programme>
-  <programme start="20261019110000 +0000" stop="20261019113000 +0000" channel="aljazeera.english">
-    <title lang="en">NEWS 30min</title>
-    <desc lang="en">Latest news and analysis from around the world.</desc>
-  </programme>
-  <programme start="20261019113000 +0000" stop="20261019120000 +0000" channel="aljazeera.english">
-    <title lang="en">Inside Story</title>
-    <desc lang="en">Beyond the headlines to the heart of the news of the day. Al Jazeera gets the Inside Story from some of the best minds from around the globe.</desc>
-  </programme>
-  <programme start="20261019120000 +0000" stop="20261019130000 +0000" channel="aljazeera.english">
-    <title lang="en">Head to Head : Neera Tanden</title>
-    <desc lang="en">Mehdi Hasan goes Head to Head with top Democrat &amp; CEO of the Center for American Progress, Neera Tanden, on the US midterms &amp; direction of the Democratic Party.</desc>
-  </programme>
-  <programme start="20261019130000 +0000" stop="20261019140000 +0000" channel="aljazeera.english">
-    <title lang="en">NEWSHOUR</title>
-    <desc lang="en">Latest news and in-depth analysis from around the world.</desc>
-  </programme>
-  <programme start="20261019140000 +0000" stop="20261019143000 +0000" channel="aljazeera.english">
-    <title lang="en">NEWS 30min</title>
-    <desc lang="en">Latest news and analysis from around the world.</desc>
-  </programme>
-  <programme start="20261019143000 +0000" stop="20261019150000 +0000" channel="aljazeera.english">
-    <title lang="en">Counting the Cost</title>
-    <desc lang="en">Counting the Cost provides background to the economics stories that shape our world and impact the lives of ordinary people.</desc>
-  </programme>
-  <programme start="20261019150000 +0000" stop="20261019160000 +0000" channel="aljazeera.english">
-    <title lang="en">NEWSHOUR</title>
-    <desc lang="en">Latest news and in-depth analysis from around the world.</desc>
-  </programme>
-  <programme start="20261019160000 +0000" stop="20261019163000 +0000" channel="aljazeera.english">
-    <title lang="en">NEWS 30min</title>
-    <desc lang="en">Latest news and analysis from around the world.</desc>
-  </programme>
-  <programme start="20261019163000 +0000" stop="20261019170000 +0000" channel="aljazeera.english">
-    <title lang="en">Mindset : Ukraine</title>
-    <desc lang="en">Mindset meets the Ukrainian therapists fighting to keep a population sane in a country at war.</desc>
-  </programme>
-  <programme start="20261019170000 +0000" stop="20261019173000 +0000" channel="aljazeera.english">
-    <title lang="en">NEWS 30min</title>
-    <desc lang="en">Latest news and analysis from around the world.</desc>
-  </programme>
-  <programme start="20261019173000 +0000" stop="20261019180000 +0000" channel="aljazeera.english">
-    <title lang="en">Inside Story</title>
-    <desc lang="en">Beyond the headlines to the heart of the news of the day. Al Jazeera gets the Inside Story from some of the best minds from around the globe.</desc>
-  </programme>
-  <programme start="20261019180000 +0000" stop="20261019190000 +0000" channel="aljazeera.english">
-    <title lang="en">NEWSHOUR</title>
-    <desc lang="en">Latest news and in-depth analysis from around the world.</desc>
-  </programme>
-  <programme start="20261019190000 +0000" stop="20261019193000 +0000" channel="aljazeera.english">
-    <title lang="en">NEWS 30min</title>
-    <desc lang="en">Latest news and analysis from around the world.</desc>
-  </programme>
-  <programme start="20261019193000 +0000" stop="20261019200000 +0000" channel="aljazeera.english">
-    <title lang="en">Al Jazeera Explains : Ep 5</title>
-    <desc lang="en">Al Jazeera Explains goes beyond the headlines to bring clarity, context and the bigger picture to the stories shaping the world today.</desc>
-  </programme>
-  <programme start="20261019200000 +0000" stop="20261019210000 +0000" channel="aljazeera.english">
-    <title lang="en">Let's Focus : Ep 6</title>
-    <desc lang="en">Designed for viewers seeking context, depth and clarity, Let’s Focus unpacks the U.S. midterm elections and treats audiences as citizens rather than spectators.</desc>
-  </programme>
-  <programme start="20261019210000 +0000" stop="20261019220000 +0000" channel="aljazeera.english">
-    <title lang="en">NEWSHOUR</title>
-    <desc lang="en">Latest news and in-depth analysis from around the world.</desc>
-  </programme>
-  <programme start="20261019220000 +0000" stop="20261019223000 +0000" channel="aljazeera.english">
-    <title lang="en">NEWS 30min</title>
-    <desc lang="en">Latest news and analysis from around the world.</desc>
-  </programme>
-  <programme start="20261019223000 +0000" stop="20261019230000 +0000" channel="aljazeera.english">
-    <title lang="en">Witness : Gaza Fixer - Locked Out Locked In</title>
-    <desc lang="en">Longtime friends divided by war, Raed is trapped in Gaza while George watches from afar, one locked in, one locked out.</desc>
-  </programme>
-  <programme start="20261019230000 +0000" stop="20261019233000 +0000" channel="aljazeera.english">
-    <title lang="en">NEWS 30min</title>
-    <desc lang="en">Latest news and analysis from around the world.</desc>
-  </programme>
-  <programme start="20261019233000 +0000" stop="20261020000000 +0000" channel="aljazeera.english">
     <title lang="en">Inside Story</title>
     <desc lang="en">Beyond the headlines to the heart of the news of the day. Al Jazeera gets the Inside Story from some of the best minds from around the globe.</desc>
   </programme>
