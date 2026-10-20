@@ -40,15 +40,11 @@
     <title lang="en">Inside Story</title>
     <desc lang="en">Beyond the headlines to the heart of the news of the day. Al Jazeera gets the Inside Story from some of the best minds from around the globe.</desc>
   </programme>
-  <programme start="20261019060000 +0000" stop="20261019063000 +0000" channel="aljazeera.english">
+  <programme start="20261019060000 +0000" stop="20261019063500 +0000" channel="aljazeera.english">
     <title lang="en">NEWS 30min</title>
     <desc lang="en">Latest news and analysis from around the world.</desc>
   </programme>
-  <programme start="20261019063000 +0000" stop="20261019070000 +0000" channel="aljazeera.english">
-    <title lang="en">101 East : Justice For Altantuya P1</title>
-    <desc lang="en">101 East's 2-part special investigates if power and politics is enabling those behind the 2006 murder of a Mongolian woman in Malaysia evade justice.</desc>
-  </programme>
-  <programme start="20261019070000 +0000" stop="20261019080000 +0000" channel="aljazeera.english">
+  <programme start="20261019063500 +0000" stop="20261019080000 +0000" channel="aljazeera.english">
     <title lang="en">NEWSHOUR</title>
     <desc lang="en">Latest news and in-depth analysis from around the world.</desc>
   </programme>
@@ -121,8 +117,8 @@
     <desc lang="en">Latest news and analysis from around the world.</desc>
   </programme>
   <programme start="20261019193000 +0000" stop="20261019200000 +0000" channel="aljazeera.english">
-    <title lang="en">Al Jazeera Explains : Ep 5</title>
-    <desc lang="en">Al Jazeera Explains goes beyond the headlines to bring clarity, context and the bigger picture to the stories shaping the world today.</desc>
+    <title lang="en">Al Jazeera Explains : The UN’s Power Problem</title>
+    <desc lang="en">Who really holds power at the UN, why can five countries block action, and who holds the organisation accountable when it falls short?</desc>
   </programme>
   <programme start="20261019200000 +0000" stop="20261019210000 +0000" channel="aljazeera.english">
     <title lang="en">Let's Focus : Is Money Ruining U.S Elections?</title>
@@ -201,8 +197,8 @@
     <desc lang="en">Latest news and analysis from around the world.</desc>
   </programme>
   <programme start="20261020083000 +0000" stop="20261020090000 +0000" channel="aljazeera.english">
-    <title lang="en">Al Jazeera Explains : Ep 5</title>
-    <desc lang="en">Al Jazeera Explains goes beyond the headlines to bring clarity, context and the bigger picture to the stories shaping the world today.</desc>
+    <title lang="en">Al Jazeera Explains : The UN’s Power Problem</title>
+    <desc lang="en">Who really holds power at the UN, why can five countries block action, and who holds the organisation accountable when it falls short?</desc>
   </programme>
   <programme start="20261020090000 +0000" stop="20261020093000 +0000" channel="aljazeera.english">
     <title lang="en">NEWS 30min</title>
@@ -313,8 +309,8 @@
     <desc lang="en">Latest news and analysis from around the world.</desc>
   </programme>
   <programme start="20261021043000 +0000" stop="20261021050000 +0000" channel="aljazeera.english">
-    <title lang="en">Al Jazeera Explains : Ep 5</title>
-    <desc lang="en">Al Jazeera Explains goes beyond the headlines to bring clarity, context and the bigger picture to the stories shaping the world today.</desc>
+    <title lang="en">Al Jazeera Explains : The UN’s Power Problem</title>
+    <desc lang="en">Who really holds power at the UN, why can five countries block action, and who holds the organisation accountable when it falls short?</desc>
   </programme>
   <programme start="20261021050000 +0000" stop="20261021053000 +0000" channel="aljazeera.english">
     <title lang="en">NEWS 30min</title>
@@ -517,8 +513,8 @@
     <desc lang="en">Latest news and analysis from around the world.</desc>
   </programme>
   <programme start="20261022143000 +0000" stop="20261022150000 +0000" channel="aljazeera.english">
-    <title lang="en">Al Jazeera Explains : Ep 5</title>
-    <desc lang="en">Al Jazeera Explains goes beyond the headlines to bring clarity, context and the bigger picture to the stories shaping the world today.</desc>
+    <title lang="en">Al Jazeera Explains : The UN’s Power Problem</title>
+    <desc lang="en">Who really holds power at the UN, why can five countries block action, and who holds the organisation accountable when it falls short?</desc>
   </programme>
   <programme start="20261022150000 +0000" stop="20261022160000 +0000" channel="aljazeera.english">
     <title lang="en">NEWSHOUR</title>
@@ -621,8 +617,8 @@
     <desc lang="en">Latest news and analysis from around the world.</desc>
   </programme>
   <programme start="20261023083000 +0000" stop="20261023090000 +0000" channel="aljazeera.english">
-    <title lang="en">Al Jazeera Explains : Ep 5</title>
-    <desc lang="en">Al Jazeera Explains goes beyond the headlines to bring clarity, context and the bigger picture to the stories shaping the world today.</desc>
+    <title lang="en">Al Jazeera Explains : The UN’s Power Problem</title>
+    <desc lang="en">Who really holds power at the UN, why can five countries block action, and who holds the organisation accountable when it falls short?</desc>
   </programme>
   <programme start="20261023090000 +0000" stop="20261023093000 +0000" channel="aljazeera.english">
     <title lang="en">NEWS 30min</title>
