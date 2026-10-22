@@ -60,13 +60,9 @@
     <title lang="en">The Listening Post</title>
     <desc lang="en">A government at war with its critics - from young protestors to the media. Plus, Brazil’s evangelical political influencers.</desc>
   </programme>
-  <programme start="20261021090000 +0000" stop="20261021093000 +0000" channel="aljazeera.english">
+  <programme start="20261021090000 +0000" stop="20261021100000 +0000" channel="aljazeera.english">
     <title lang="en">NEWS 30min</title>
     <desc lang="en">Latest news and analysis from around the world.</desc>
-  </programme>
-  <programme start="20261021093000 +0000" stop="20261021100000 +0000" channel="aljazeera.english">
-    <title lang="en">Business of War : The Military-Police Pipeline</title>
-    <desc lang="en">Hind Hassan tracks the spread of the global weapons trade beyond the battlefield – to the militarised police on our streets.</desc>
   </programme>
   <programme start="20261021100000 +0000" stop="20261021110000 +0000" channel="aljazeera.english">
     <title lang="en">NEWSHOUR</title>
@@ -478,7 +474,7 @@
   </programme>
   <programme start="20261024083000 +0000" stop="20261024090000 +0000" channel="aljazeera.english">
     <title lang="en">Counting the Cost</title>
-    <desc lang="en">Counting the Cost provides background to the economics stories that shape our world and impact the lives of ordinary people.</desc>
+    <desc lang="en">Can European governments tackle rising living costs and who should pay?</desc>
   </programme>
   <programme start="20261024090000 +0000" stop="20261024093000 +0000" channel="aljazeera.english">
     <title lang="en">NEWS 30min</title>
@@ -542,7 +538,7 @@
   </programme>
   <programme start="20261024193000 +0000" stop="20261024200000 +0000" channel="aljazeera.english">
     <title lang="en">The Listening Post</title>
-    <desc lang="en">What is being reported by world media and how? Richard Gizbert guides you through the global news maze.</desc>
+    <desc lang="en">Student protests, police violence and a French media obsessed with “barbarians”. Plus, The Kyiv Independent’s fight to report Ukraine’s war.</desc>
   </programme>
   <programme start="20261024200000 +0000" stop="20261024210000 +0000" channel="aljazeera.english">
     <title lang="en">Witness : Praying for Armageddon Ep 2</title>
@@ -558,7 +554,7 @@
   </programme>
   <programme start="20261024223000 +0000" stop="20261024230000 +0000" channel="aljazeera.english">
     <title lang="en">The Bottom Line</title>
-    <desc lang="en">Weekly discussion show on U.S. politics and policies hosted by Steve Clemons.</desc>
+    <desc lang="en">Russia expert Anatol Lieven explains how &amp; why U.S. attempts to make peace in Ukraine have failed.</desc>
   </programme>
   <programme start="20261024230000 +0000" stop="20261024233000 +0000" channel="aljazeera.english">
     <title lang="en">NEWS 30min</title>
@@ -594,7 +590,7 @@
   </programme>
   <programme start="20261025043000 +0000" stop="20261025050000 +0000" channel="aljazeera.english">
     <title lang="en">Counting the Cost</title>
-    <desc lang="en">Counting the Cost provides background to the economics stories that shape our world and impact the lives of ordinary people.</desc>
+    <desc lang="en">Can European governments tackle rising living costs and who should pay?</desc>
   </programme>
   <programme start="20261025050000 +0000" stop="20261025053000 +0000" channel="aljazeera.english">
     <title lang="en">NEWS 30min</title>
@@ -622,7 +618,7 @@
   </programme>
   <programme start="20261025083000 +0000" stop="20261025090000 +0000" channel="aljazeera.english">
     <title lang="en">The Listening Post</title>
-    <desc lang="en">What is being reported by world media and how? Richard Gizbert guides you through the global news maze.</desc>
+    <desc lang="en">Student protests, police violence and a French media obsessed with “barbarians”. Plus, The Kyiv Independent’s fight to report Ukraine’s war.</desc>
   </programme>
   <programme start="20261025090000 +0000" stop="20261025093000 +0000" channel="aljazeera.english">
     <title lang="en">NEWS 30min</title>
@@ -630,7 +626,7 @@
   </programme>
   <programme start="20261025093000 +0000" stop="20261025100000 +0000" channel="aljazeera.english">
     <title lang="en">The Bottom Line</title>
-    <desc lang="en">Weekly discussion show on U.S. politics and policies hosted by Steve Clemons.</desc>
+    <desc lang="en">Russia expert Anatol Lieven explains how &amp; why U.S. attempts to make peace in Ukraine have failed.</desc>
   </programme>
   <programme start="20261025100000 +0000" stop="20261025110000 +0000" channel="aljazeera.english">
     <title lang="en">NEWSHOUR</title>
@@ -730,7 +726,7 @@
   </programme>
   <programme start="20261026033000 +0000" stop="20261026040000 +0000" channel="aljazeera.english">
     <title lang="en">The Bottom Line</title>
-    <desc lang="en">Weekly discussion show on U.S. politics and policies hosted by Steve Clemons.</desc>
+    <desc lang="en">Russia expert Anatol Lieven explains how &amp; why U.S. attempts to make peace in Ukraine have failed.</desc>
   </programme>
   <programme start="20261026040000 +0000" stop="20261026043000 +0000" channel="aljazeera.english">
     <title lang="en">NEWS 30min</title>
@@ -738,7 +734,7 @@
   </programme>
   <programme start="20261026043000 +0000" stop="20261026050000 +0000" channel="aljazeera.english">
     <title lang="en">The Listening Post</title>
-    <desc lang="en">What is being reported by world media and how? Richard Gizbert guides you through the global news maze.</desc>
+    <desc lang="en">Student protests, police violence and a French media obsessed with “barbarians”. Plus, The Kyiv Independent’s fight to report Ukraine’s war.</desc>
   </programme>
   <programme start="20261026050000 +0000" stop="20261026053000 +0000" channel="aljazeera.english">
     <title lang="en">NEWS 30min</title>
@@ -802,7 +798,7 @@
   </programme>
   <programme start="20261026143000 +0000" stop="20261026150000 +0000" channel="aljazeera.english">
     <title lang="en">Counting the Cost</title>
-    <desc lang="en">Counting the Cost provides background to the economics stories that shape our world and impact the lives of ordinary people.</desc>
+    <desc lang="en">Can European governments tackle rising living costs and who should pay?</desc>
   </programme>
   <programme start="20261026150000 +0000" stop="20261026160000 +0000" channel="aljazeera.english">
     <title lang="en">NEWSHOUR</title>
@@ -942,7 +938,7 @@
   </programme>
   <programme start="20261027143000 +0000" stop="20261027150000 +0000" channel="aljazeera.english">
     <title lang="en">The Listening Post</title>
-    <desc lang="en">What is being reported by world media and how? Richard Gizbert guides you through the global news maze.</desc>
+    <desc lang="en">Student protests, police violence and a French media obsessed with “barbarians”. Plus, The Kyiv Independent’s fight to report Ukraine’s war.</desc>
   </programme>
   <programme start="20261027150000 +0000" stop="20261027160000 +0000" channel="aljazeera.english">
     <title lang="en">NEWSHOUR</title>
@@ -1034,7 +1030,7 @@
   </programme>
   <programme start="20261028063000 +0000" stop="20261028070000 +0000" channel="aljazeera.english">
     <title lang="en">The Bottom Line</title>
-    <desc lang="en">Weekly discussion show on U.S. politics and policies hosted by Steve Clemons.</desc>
+    <desc lang="en">Russia expert Anatol Lieven explains how &amp; why U.S. attempts to make peace in Ukraine have failed.</desc>
   </programme>
   <programme start="20261028070000 +0000" stop="20261028080000 +0000" channel="aljazeera.english">
     <title lang="en">NEWSHOUR</title>
@@ -1046,7 +1042,7 @@
   </programme>
   <programme start="20261028083000 +0000" stop="20261028090000 +0000" channel="aljazeera.english">
     <title lang="en">The Listening Post</title>
-    <desc lang="en">What is being reported by world media and how? Richard Gizbert guides you through the global news maze.</desc>
+    <desc lang="en">Student protests, police violence and a French media obsessed with “barbarians”. Plus, The Kyiv Independent’s fight to report Ukraine’s war.</desc>
   </programme>
   <programme start="20261028090000 +0000" stop="20261028093000 +0000" channel="aljazeera.english">
     <title lang="en">NEWS 30min</title>
