@@ -8,9 +8,13 @@
     <title lang="en">NEWSHOUR</title>
     <desc lang="en">Latest news and in-depth analysis from around the world.</desc>
   </programme>
-  <programme start="20261026010000 +0000" stop="20261026020000 +0000" channel="aljazeera.english">
-    <title lang="en">Witness : Praying for Armageddon Ep 2</title>
-    <desc lang="en">Episode 2 of a doomsday political thriller about brutal consequences of evangelical Christian influence on U.S. foreign policy in the Middle East.</desc>
+  <programme start="20261026010000 +0000" stop="20261026013000 +0000" channel="aljazeera.english">
+    <title lang="en">NEWS 30min</title>
+    <desc lang="en">Latest news and analysis from around the world.</desc>
+  </programme>
+  <programme start="20261026013000 +0000" stop="20261026020000 +0000" channel="aljazeera.english">
+    <title lang="en">Al Jazeera Explains : U.S. Midterms - The Lines That Shape America.</title>
+    <desc lang="en">Ahead of the US midterms, we examine how electoral maps could reshape Congress and why state elections matter as much as the battle for Washington.</desc>
   </programme>
   <programme start="20261026020000 +0000" stop="20261026030000 +0000" channel="aljazeera.english">
     <title lang="en">NEWSHOUR</title>
@@ -693,7 +697,7 @@
     <desc lang="en">Latest news and analysis from around the world.</desc>
   </programme>
   <programme start="20261030223000 +0000" stop="20261030230000 +0000" channel="aljazeera.english">
-    <title lang="en">Upfront</title>
+    <title lang="en">UpFront</title>
     <desc lang="en">Frank, blunt and inquisitive, UpFront cuts through the headlines to get to the heart of the matter with influential guests and newsmakers.</desc>
   </programme>
   <programme start="20261030230000 +0000" stop="20261030233000 +0000" channel="aljazeera.english">
@@ -765,7 +769,7 @@
     <desc lang="en">Latest news and analysis from around the world.</desc>
   </programme>
   <programme start="20261031093000 +0000" stop="20261031100000 +0000" channel="aljazeera.english">
-    <title lang="en">Upfront</title>
+    <title lang="en">UpFront</title>
     <desc lang="en">Frank, blunt and inquisitive, UpFront cuts through the headlines to get to the heart of the matter with influential guests and newsmakers.</desc>
   </programme>
   <programme start="20261031100000 +0000" stop="20261031110000 +0000" channel="aljazeera.english">
@@ -865,7 +869,7 @@
     <desc lang="en">Latest news and analysis from around the world.</desc>
   </programme>
   <programme start="20261101033000 +0000" stop="20261101040000 +0000" channel="aljazeera.english">
-    <title lang="en">Upfront</title>
+    <title lang="en">UpFront</title>
     <desc lang="en">Frank, blunt and inquisitive, UpFront cuts through the headlines to get to the heart of the matter with influential guests and newsmakers.</desc>
   </programme>
   <programme start="20261101040000 +0000" stop="20261101043000 +0000" channel="aljazeera.english">
@@ -965,8 +969,8 @@
     <desc lang="en">Latest news and analysis from around the world.</desc>
   </programme>
   <programme start="20261101193000 +0000" stop="20261101200000 +0000" channel="aljazeera.english">
-    <title lang="en">Al Jazeera Reels : Ep 3</title>
-    <desc lang="en">A new generation of voices takes on major stories in news, culture and technology, bringing unexpected angles, deeper context and distinct perspectives.</desc>
+    <title lang="en">Al Jazeera Reels : Lebanon - Held Together by Division?</title>
+    <desc lang="en">Seven stories explore Lebanon’s contradictions — from banks and identity to sectarian power, diaspora, war and the compromises holding it together.</desc>
   </programme>
   <programme start="20261101200000 +0000" stop="20261101210000 +0000" channel="aljazeera.english">
     <title lang="en">Silenced: The War On Journalism</title>
