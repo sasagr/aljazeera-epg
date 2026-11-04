@@ -37,8 +37,8 @@
     <desc lang="en">Latest news and analysis from around the world.</desc>
   </programme>
   <programme start="20261103053000 +0000" stop="20261103060000 +0000" channel="aljazeera.english">
-    <title lang="en">Inside Story</title>
-    <desc lang="en">Beyond the headlines to the heart of the news of the day. Al Jazeera gets the Inside Story from some of the best minds from around the globe.</desc>
+    <title lang="en">NEWS 30min</title>
+    <desc lang="en">Latest news and analysis from around the world.</desc>
   </programme>
   <programme start="20261103060000 +0000" stop="20261103063000 +0000" channel="aljazeera.english">
     <title lang="en">NEWS 30min</title>
@@ -72,13 +72,9 @@
     <title lang="en">NEWSHOUR</title>
     <desc lang="en">Latest news and in-depth analysis from around the world.</desc>
   </programme>
-  <programme start="20261103110000 +0000" stop="20261103113000 +0000" channel="aljazeera.english">
+  <programme start="20261103110000 +0000" stop="20261103120000 +0000" channel="aljazeera.english">
     <title lang="en">NEWS 30min</title>
     <desc lang="en">Latest news and analysis from around the world.</desc>
-  </programme>
-  <programme start="20261103113000 +0000" stop="20261103120000 +0000" channel="aljazeera.english">
-    <title lang="en">Inside Story</title>
-    <desc lang="en">Beyond the headlines to the heart of the news of the day. Al Jazeera gets the Inside Story from some of the best minds from around the globe.</desc>
   </programme>
   <programme start="20261103120000 +0000" stop="20261103130000 +0000" channel="aljazeera.english">
     <title lang="en">Vietnam - 50 Years of Forgetting</title>
@@ -164,21 +160,17 @@
     <title lang="en">U.S. Midterms 2026</title>
     <desc lang="en">Live coverage of the U.S. Midterms election 2026, as it happens.</desc>
   </programme>
-  <programme start="20261104080000 +0000" stop="20261104083000 +0000" channel="aljazeera.english">
-    <title lang="en">NEWS 30min</title>
-    <desc lang="en">Latest news and analysis from around the world.</desc>
-  </programme>
-  <programme start="20261104083000 +0000" stop="20261104090000 +0000" channel="aljazeera.english">
-    <title lang="en">The Listening Post</title>
-    <desc lang="en">Student protests, police violence and a French media obsessed with “barbarians”. Plus, The Kyiv Independent’s fight to report Ukraine’s war.</desc>
+  <programme start="20261104080000 +0000" stop="20261104090000 +0000" channel="aljazeera.english">
+    <title lang="en">U.S. Midterms 2026</title>
+    <desc lang="en">Live coverage of the U.S. Midterms election 2026, as it happens.</desc>
   </programme>
   <programme start="20261104090000 +0000" stop="20261104093000 +0000" channel="aljazeera.english">
     <title lang="en">NEWS 30min</title>
     <desc lang="en">Latest news and analysis from around the world.</desc>
   </programme>
   <programme start="20261104093000 +0000" stop="20261104100000 +0000" channel="aljazeera.english">
-    <title lang="en">Making Peace : Still Together</title>
-    <desc lang="en">Amid a global polycrisis, new arrivals in New York face a fractured city where sanctuary feels increasingly out of reach.</desc>
+    <title lang="en">Inside Story</title>
+    <desc lang="en">Beyond the headlines to the heart of the news of the day. Al Jazeera gets the Inside Story from some of the best minds from around the globe.</desc>
   </programme>
   <programme start="20261104100000 +0000" stop="20261104110000 +0000" channel="aljazeera.english">
     <title lang="en">NEWSHOUR</title>
@@ -281,8 +273,8 @@
     <desc lang="en">Latest news and analysis from around the world.</desc>
   </programme>
   <programme start="20261105043000 +0000" stop="20261105050000 +0000" channel="aljazeera.english">
-    <title lang="en">UpFront</title>
-    <desc lang="en">Marc Lamont Hill discusses the divisions within the Democratic Party ahead of the midterms with former Congressman Jamaal Bowman.</desc>
+    <title lang="en">Witness : Fire Beneath Her</title>
+    <desc lang="en">A young Indonesian Indigenous leader makes bold plans to protect her village from Borneo’s wildfires.</desc>
   </programme>
   <programme start="20261105050000 +0000" stop="20261105053000 +0000" channel="aljazeera.english">
     <title lang="en">NEWS 30min</title>
@@ -590,7 +582,7 @@
   </programme>
   <programme start="20261107083000 +0000" stop="20261107090000 +0000" channel="aljazeera.english">
     <title lang="en">Counting the Cost</title>
-    <desc lang="en">Counting the Cost provides background to the economics stories that shape our world and impact the lives of ordinary people.</desc>
+    <desc lang="en">Can Russia deliver on its economic promises to Africa?</desc>
   </programme>
   <programme start="20261107090000 +0000" stop="20261107093000 +0000" channel="aljazeera.english">
     <title lang="en">NEWS 30min</title>
@@ -710,7 +702,7 @@
   </programme>
   <programme start="20261108043000 +0000" stop="20261108050000 +0000" channel="aljazeera.english">
     <title lang="en">Counting the Cost</title>
-    <desc lang="en">Counting the Cost provides background to the economics stories that shape our world and impact the lives of ordinary people.</desc>
+    <desc lang="en">Can Russia deliver on its economic promises to Africa?</desc>
   </programme>
   <programme start="20261108050000 +0000" stop="20261108053000 +0000" channel="aljazeera.english">
     <title lang="en">NEWS 30min</title>
@@ -922,7 +914,7 @@
   </programme>
   <programme start="20261109143000 +0000" stop="20261109150000 +0000" channel="aljazeera.english">
     <title lang="en">Counting the Cost</title>
-    <desc lang="en">Counting the Cost provides background to the economics stories that shape our world and impact the lives of ordinary people.</desc>
+    <desc lang="en">Can Russia deliver on its economic promises to Africa?</desc>
   </programme>
   <programme start="20261109150000 +0000" stop="20261109160000 +0000" channel="aljazeera.english">
     <title lang="en">NEWSHOUR</title>
@@ -1102,7 +1094,7 @@
   </programme>
   <programme start="20261110193000 +0000" stop="20261110200000 +0000" channel="aljazeera.english">
     <title lang="en">Counting the Cost</title>
-    <desc lang="en">Counting the Cost provides background to the economics stories that shape our world and impact the lives of ordinary people.</desc>
+    <desc lang="en">Can Russia deliver on its economic promises to Africa?</desc>
   </programme>
   <programme start="20261110200000 +0000" stop="20261110210000 +0000" channel="aljazeera.english">
     <title lang="en">Al Jazeera World : Gaza Grad</title>
