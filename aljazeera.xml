@@ -4,35 +4,11 @@
     <display-name>Al Jazeera English</display-name>
     <icon src="https://www.aljazeera.com/images/logo_aje.png" />
   </channel>
-  <programme start="20261104000000 +0000" stop="20261104010000 +0000" channel="aljazeera.english">
+  <programme start="20261104000000 +0000" stop="20261104074500 +0000" channel="aljazeera.english">
     <title lang="en">U.S. Midterms 2026</title>
     <desc lang="en">Live coverage of the U.S. Midterms election 2026, as it happens.</desc>
   </programme>
-  <programme start="20261104010000 +0000" stop="20261104020000 +0000" channel="aljazeera.english">
-    <title lang="en">U.S. Midterms 2026</title>
-    <desc lang="en">Live coverage of the U.S. Midterms election 2026, as it happens.</desc>
-  </programme>
-  <programme start="20261104020000 +0000" stop="20261104030000 +0000" channel="aljazeera.english">
-    <title lang="en">U.S. Midterms 2026</title>
-    <desc lang="en">Live coverage of the U.S. Midterms election 2026, as it happens.</desc>
-  </programme>
-  <programme start="20261104030000 +0000" stop="20261104040000 +0000" channel="aljazeera.english">
-    <title lang="en">U.S. Midterms 2026</title>
-    <desc lang="en">Live coverage of the U.S. Midterms election 2026, as it happens.</desc>
-  </programme>
-  <programme start="20261104040000 +0000" stop="20261104050000 +0000" channel="aljazeera.english">
-    <title lang="en">U.S. Midterms 2026</title>
-    <desc lang="en">Live coverage of the U.S. Midterms election 2026, as it happens.</desc>
-  </programme>
-  <programme start="20261104050000 +0000" stop="20261104060000 +0000" channel="aljazeera.english">
-    <title lang="en">U.S. Midterms 2026</title>
-    <desc lang="en">Live coverage of the U.S. Midterms election 2026, as it happens.</desc>
-  </programme>
-  <programme start="20261104060000 +0000" stop="20261104070000 +0000" channel="aljazeera.english">
-    <title lang="en">U.S. Midterms 2026</title>
-    <desc lang="en">Live coverage of the U.S. Midterms election 2026, as it happens.</desc>
-  </programme>
-  <programme start="20261104070000 +0000" stop="20261104080000 +0000" channel="aljazeera.english">
+  <programme start="20261104070000 +0000" stop="20261104071500 +0000" channel="aljazeera.english">
     <title lang="en">U.S. Midterms 2026</title>
     <desc lang="en">Live coverage of the U.S. Midterms election 2026, as it happens.</desc>
   </programme>
@@ -394,7 +370,7 @@
   </programme>
   <programme start="20261106223000 +0000" stop="20261106230000 +0000" channel="aljazeera.english">
     <title lang="en">UpFront</title>
-    <desc lang="en">Frank, blunt and inquisitive, UpFront cuts through the headlines to get to the heart of the matter with influential guests and newsmakers.</desc>
+    <desc lang="en">Marc Lamont Hill discusses what the midterm election results mean for Gen Z with activist Cameron Kasky.</desc>
   </programme>
   <programme start="20261106230000 +0000" stop="20261106233000 +0000" channel="aljazeera.english">
     <title lang="en">NEWS 30min</title>
@@ -466,7 +442,7 @@
   </programme>
   <programme start="20261107093000 +0000" stop="20261107100000 +0000" channel="aljazeera.english">
     <title lang="en">UpFront</title>
-    <desc lang="en">Frank, blunt and inquisitive, UpFront cuts through the headlines to get to the heart of the matter with influential guests and newsmakers.</desc>
+    <desc lang="en">Marc Lamont Hill discusses what the midterm election results mean for Gen Z with activist Cameron Kasky.</desc>
   </programme>
   <programme start="20261107100000 +0000" stop="20261107110000 +0000" channel="aljazeera.english">
     <title lang="en">NEWSHOUR</title>
@@ -526,7 +502,7 @@
   </programme>
   <programme start="20261107193000 +0000" stop="20261107200000 +0000" channel="aljazeera.english">
     <title lang="en">The Listening Post</title>
-    <desc lang="en">What is being reported by world media and how? Richard Gizbert guides you through the global news maze.</desc>
+    <desc lang="en">Trump told Americans to vote as if he were on the ballot. They did, and Trumpian politics lost big. Plus, a new magazine for a post-American world.</desc>
   </programme>
   <programme start="20261107200000 +0000" stop="20261107210000 +0000" channel="aljazeera.english">
     <title lang="en">Witness : Iron Winter</title>
@@ -570,7 +546,7 @@
   </programme>
   <programme start="20261108033000 +0000" stop="20261108040000 +0000" channel="aljazeera.english">
     <title lang="en">UpFront</title>
-    <desc lang="en">Frank, blunt and inquisitive, UpFront cuts through the headlines to get to the heart of the matter with influential guests and newsmakers.</desc>
+    <desc lang="en">Marc Lamont Hill discusses what the midterm election results mean for Gen Z with activist Cameron Kasky.</desc>
   </programme>
   <programme start="20261108040000 +0000" stop="20261108043000 +0000" channel="aljazeera.english">
     <title lang="en">NEWS 30min</title>
@@ -606,7 +582,7 @@
   </programme>
   <programme start="20261108083000 +0000" stop="20261108090000 +0000" channel="aljazeera.english">
     <title lang="en">The Listening Post</title>
-    <desc lang="en">What is being reported by world media and how? Richard Gizbert guides you through the global news maze.</desc>
+    <desc lang="en">Trump told Americans to vote as if he were on the ballot. They did, and Trumpian politics lost big. Plus, a new magazine for a post-American world.</desc>
   </programme>
   <programme start="20261108090000 +0000" stop="20261108093000 +0000" channel="aljazeera.english">
     <title lang="en">NEWS 30min</title>
@@ -673,8 +649,8 @@
     <desc lang="en">Latest news and analysis from around the world.</desc>
   </programme>
   <programme start="20261108193000 +0000" stop="20261108200000 +0000" channel="aljazeera.english">
-    <title lang="en">Talk To Al Jazeera</title>
-    <desc lang="en">One-on-one conversations with global leaders, icons, influencers and alternative voices shaping our times.</desc>
+    <title lang="en">Talk to Al Jazeera : Abhijeet Dipke</title>
+    <desc lang="en">The founder of India’s Cockroach movement says the government must be held to account and stop ignoring the youth.</desc>
   </programme>
   <programme start="20261108200000 +0000" stop="20261108210000 +0000" channel="aljazeera.english">
     <title lang="en">Who Killed Shireen?</title>
@@ -726,7 +702,7 @@
   </programme>
   <programme start="20261109043000 +0000" stop="20261109050000 +0000" channel="aljazeera.english">
     <title lang="en">The Listening Post</title>
-    <desc lang="en">What is being reported by world media and how? Richard Gizbert guides you through the global news maze.</desc>
+    <desc lang="en">Trump told Americans to vote as if he were on the ballot. They did, and Trumpian politics lost big. Plus, a new magazine for a post-American world.</desc>
   </programme>
   <programme start="20261109050000 +0000" stop="20261109053000 +0000" channel="aljazeera.english">
     <title lang="en">NEWS 30min</title>
@@ -753,8 +729,8 @@
     <desc lang="en">Latest news and analysis from around the world.</desc>
   </programme>
   <programme start="20261109083000 +0000" stop="20261109090000 +0000" channel="aljazeera.english">
-    <title lang="en">Talk To Al Jazeera</title>
-    <desc lang="en">One-on-one conversations with global leaders, icons, influencers and alternative voices shaping our times.</desc>
+    <title lang="en">Talk to Al Jazeera : Abhijeet Dipke</title>
+    <desc lang="en">The founder of India’s Cockroach movement says the government must be held to account and stop ignoring the youth.</desc>
   </programme>
   <programme start="20261109090000 +0000" stop="20261109093000 +0000" channel="aljazeera.english">
     <title lang="en">NEWS 30min</title>
@@ -802,7 +778,7 @@
   </programme>
   <programme start="20261109163000 +0000" stop="20261109170000 +0000" channel="aljazeera.english">
     <title lang="en">UpFront</title>
-    <desc lang="en">Frank, blunt and inquisitive, UpFront cuts through the headlines to get to the heart of the matter with influential guests and newsmakers.</desc>
+    <desc lang="en">Marc Lamont Hill discusses what the midterm election results mean for Gen Z with activist Cameron Kasky.</desc>
   </programme>
   <programme start="20261109170000 +0000" stop="20261109173000 +0000" channel="aljazeera.english">
     <title lang="en">NEWS 30min</title>
@@ -873,8 +849,8 @@
     <desc lang="en">Latest news and analysis from around the world.</desc>
   </programme>
   <programme start="20261110043000 +0000" stop="20261110050000 +0000" channel="aljazeera.english">
-    <title lang="en">Talk To Al Jazeera</title>
-    <desc lang="en">One-on-one conversations with global leaders, icons, influencers and alternative voices shaping our times.</desc>
+    <title lang="en">Talk to Al Jazeera : Abhijeet Dipke</title>
+    <desc lang="en">The founder of India’s Cockroach movement says the government must be held to account and stop ignoring the youth.</desc>
   </programme>
   <programme start="20261110050000 +0000" stop="20261110053000 +0000" channel="aljazeera.english">
     <title lang="en">NEWS 30min</title>
@@ -890,7 +866,7 @@
   </programme>
   <programme start="20261110063000 +0000" stop="20261110070000 +0000" channel="aljazeera.english">
     <title lang="en">UpFront</title>
-    <desc lang="en">Frank, blunt and inquisitive, UpFront cuts through the headlines to get to the heart of the matter with influential guests and newsmakers.</desc>
+    <desc lang="en">Marc Lamont Hill discusses what the midterm election results mean for Gen Z with activist Cameron Kasky.</desc>
   </programme>
   <programme start="20261110070000 +0000" stop="20261110080000 +0000" channel="aljazeera.english">
     <title lang="en">NEWSHOUR</title>
@@ -938,7 +914,7 @@
   </programme>
   <programme start="20261110143000 +0000" stop="20261110150000 +0000" channel="aljazeera.english">
     <title lang="en">The Listening Post</title>
-    <desc lang="en">What is being reported by world media and how? Richard Gizbert guides you through the global news maze.</desc>
+    <desc lang="en">Trump told Americans to vote as if he were on the ballot. They did, and Trumpian politics lost big. Plus, a new magazine for a post-American world.</desc>
   </programme>
   <programme start="20261110150000 +0000" stop="20261110160000 +0000" channel="aljazeera.english">
     <title lang="en">NEWSHOUR</title>
@@ -1050,7 +1026,7 @@
   </programme>
   <programme start="20261111083000 +0000" stop="20261111090000 +0000" channel="aljazeera.english">
     <title lang="en">The Listening Post</title>
-    <desc lang="en">What is being reported by world media and how? Richard Gizbert guides you through the global news maze.</desc>
+    <desc lang="en">Trump told Americans to vote as if he were on the ballot. They did, and Trumpian politics lost big. Plus, a new magazine for a post-American world.</desc>
   </programme>
   <programme start="20261111090000 +0000" stop="20261111093000 +0000" channel="aljazeera.english">
     <title lang="en">NEWS 30min</title>
@@ -1085,8 +1061,8 @@
     <desc lang="en">Latest news and analysis from around the world.</desc>
   </programme>
   <programme start="20261111143000 +0000" stop="20261111150000 +0000" channel="aljazeera.english">
-    <title lang="en">Talk To Al Jazeera</title>
-    <desc lang="en">One-on-one conversations with global leaders, icons, influencers and alternative voices shaping our times.</desc>
+    <title lang="en">Talk to Al Jazeera : Abhijeet Dipke</title>
+    <desc lang="en">The founder of India’s Cockroach movement says the government must be held to account and stop ignoring the youth.</desc>
   </programme>
   <programme start="20261111150000 +0000" stop="20261111160000 +0000" channel="aljazeera.english">
     <title lang="en">NEWSHOUR</title>
@@ -1118,7 +1094,7 @@
   </programme>
   <programme start="20261111193000 +0000" stop="20261111200000 +0000" channel="aljazeera.english">
     <title lang="en">The Listening Post</title>
-    <desc lang="en">What is being reported by world media and how? Richard Gizbert guides you through the global news maze.</desc>
+    <desc lang="en">Trump told Americans to vote as if he were on the ballot. They did, and Trumpian politics lost big. Plus, a new magazine for a post-American world.</desc>
   </programme>
   <programme start="20261111200000 +0000" stop="20261111210000 +0000" channel="aljazeera.english">
     <title lang="en">Witness : Control Zone - Siberia's Wildfires</title>
