@@ -66,7 +66,7 @@
   </programme>
   <programme start="20261108093000 +0000" stop="20261108100000 +0000" channel="aljazeera.english">
     <title lang="en">The Bottom Line</title>
-    <desc lang="en">Weekly discussion show on U.S. politics and policies hosted by Steve Clemons.</desc>
+    <desc lang="en">Former Congressman Tom Garrett dissects the future of his Republican Party after the U.S. midterm election.</desc>
   </programme>
   <programme start="20261108100000 +0000" stop="20261108110000 +0000" channel="aljazeera.english">
     <title lang="en">NEWSHOUR</title>
@@ -170,7 +170,7 @@
   </programme>
   <programme start="20261109033000 +0000" stop="20261109040000 +0000" channel="aljazeera.english">
     <title lang="en">The Bottom Line</title>
-    <desc lang="en">Weekly discussion show on U.S. politics and policies hosted by Steve Clemons.</desc>
+    <desc lang="en">Former Congressman Tom Garrett dissects the future of his Republican Party after the U.S. midterm election.</desc>
   </programme>
   <programme start="20261109040000 +0000" stop="20261109043000 +0000" channel="aljazeera.english">
     <title lang="en">NEWS 30min</title>
@@ -402,7 +402,7 @@
   </programme>
   <programme start="20261110163000 +0000" stop="20261110170000 +0000" channel="aljazeera.english">
     <title lang="en">The Bottom Line</title>
-    <desc lang="en">Weekly discussion show on U.S. politics and policies hosted by Steve Clemons.</desc>
+    <desc lang="en">Former Congressman Tom Garrett dissects the future of his Republican Party after the U.S. midterm election.</desc>
   </programme>
   <programme start="20261110170000 +0000" stop="20261110173000 +0000" channel="aljazeera.english">
     <title lang="en">NEWS 30min</title>
@@ -490,7 +490,7 @@
   </programme>
   <programme start="20261111063000 +0000" stop="20261111070000 +0000" channel="aljazeera.english">
     <title lang="en">The Bottom Line</title>
-    <desc lang="en">Weekly discussion show on U.S. politics and policies hosted by Steve Clemons.</desc>
+    <desc lang="en">Former Congressman Tom Garrett dissects the future of his Republican Party after the U.S. midterm election.</desc>
   </programme>
   <programme start="20261111070000 +0000" stop="20261111080000 +0000" channel="aljazeera.english">
     <title lang="en">NEWSHOUR</title>
@@ -650,7 +650,7 @@
   </programme>
   <programme start="20261112083000 +0000" stop="20261112090000 +0000" channel="aljazeera.english">
     <title lang="en">The Bottom Line</title>
-    <desc lang="en">Weekly discussion show on U.S. politics and policies hosted by Steve Clemons.</desc>
+    <desc lang="en">Former Congressman Tom Garrett dissects the future of his Republican Party after the U.S. midterm election.</desc>
   </programme>
   <programme start="20261112090000 +0000" stop="20261112093000 +0000" channel="aljazeera.english">
     <title lang="en">NEWS 30min</title>
@@ -1121,8 +1121,8 @@
     <desc lang="en">After 20 years of AJE on the air we reflect on the channel’s development as an important media pillar and how it has proven to be the voice of the voiceless.</desc>
   </programme>
   <programme start="20261115130000 +0000" stop="20261115140000 +0000" channel="aljazeera.english">
-    <title lang="en">NEWSHOUR</title>
-    <desc lang="en">Latest news and in-depth analysis from around the world.</desc>
+    <title lang="en">NEWSHOUR: The World Now</title>
+    <desc lang="en">A fast-paced, live global news show capturing the latest developments as they unfold.</desc>
   </programme>
   <programme start="20261115140000 +0000" stop="20261115143000 +0000" channel="aljazeera.english">
     <title lang="en">NEWS 30min</title>
@@ -1133,8 +1133,8 @@
     <desc lang="en">In post-peace Colombia, ex-FARC fighters confess as victims confront them seeking justice and reconciliation.</desc>
   </programme>
   <programme start="20261115150000 +0000" stop="20261115160000 +0000" channel="aljazeera.english">
-    <title lang="en">NEWSHOUR</title>
-    <desc lang="en">Latest news and in-depth analysis from around the world.</desc>
+    <title lang="en">NEWSHOUR: The Wider Story</title>
+    <desc lang="en">A deeper look at the major stories, unpacking the unanswered questions and making sense of the developments shaping the headlines.</desc>
   </programme>
   <programme start="20261115160000 +0000" stop="20261115163000 +0000" channel="aljazeera.english">
     <title lang="en">NEWS 30min</title>
@@ -1145,8 +1145,8 @@
     <desc lang="en">Maasai photographer Latei Moses journeys across northern Kenya in search of the elusive black leopard, reclaiming the lens to tell his own stories.</desc>
   </programme>
   <programme start="20261115170000 +0000" stop="20261115173000 +0000" channel="aljazeera.english">
-    <title lang="en">NEWS 30min</title>
-    <desc lang="en">Latest news and analysis from around the world.</desc>
+    <title lang="en">NEWS: Lives in Focus</title>
+    <desc lang="en">A people-centred show amplifying human stories and voices, bringing attention to global events and underreported regions.</desc>
   </programme>
   <programme start="20261115173000 +0000" stop="20261115180000 +0000" channel="aljazeera.english">
     <title lang="en">Inside Story</title>
