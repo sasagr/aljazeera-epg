@@ -570,7 +570,7 @@
   </programme>
   <programme start="20261113193000 +0000" stop="20261113200000 +0000" channel="aljazeera.english">
     <title lang="en">Counting the Cost</title>
-    <desc lang="en">Counting the Cost provides background to the economics stories that shape our world and impact the lives of ordinary people.</desc>
+    <desc lang="en">Is the AI boom a bubble and what happens if it bursts?</desc>
   </programme>
   <programme start="20261113200000 +0000" stop="20261113210000 +0000" channel="aljazeera.english">
     <title lang="en">Let's Focus : Ep 8</title>
@@ -650,7 +650,7 @@
   </programme>
   <programme start="20261114083000 +0000" stop="20261114090000 +0000" channel="aljazeera.english">
     <title lang="en">Counting the Cost</title>
-    <desc lang="en">Counting the Cost provides background to the economics stories that shape our world and impact the lives of ordinary people.</desc>
+    <desc lang="en">Is the AI boom a bubble and what happens if it bursts?</desc>
   </programme>
   <programme start="20261114090000 +0000" stop="20261114093000 +0000" channel="aljazeera.english">
     <title lang="en">NEWS 30min</title>
@@ -734,7 +734,7 @@
   </programme>
   <programme start="20261114223000 +0000" stop="20261114230000 +0000" channel="aljazeera.english">
     <title lang="en">The Bottom Line</title>
-    <desc lang="en">Weekly discussion show on U.S. politics and policies hosted by Steve Clemons.</desc>
+    <desc lang="en">How will the U.S. Democratic Party navigate between its centrist establishment and the demands of its progressive members?</desc>
   </programme>
   <programme start="20261114230000 +0000" stop="20261114233000 +0000" channel="aljazeera.english">
     <title lang="en">NEWS 30min</title>
@@ -770,7 +770,7 @@
   </programme>
   <programme start="20261115043000 +0000" stop="20261115050000 +0000" channel="aljazeera.english">
     <title lang="en">Counting the Cost</title>
-    <desc lang="en">Counting the Cost provides background to the economics stories that shape our world and impact the lives of ordinary people.</desc>
+    <desc lang="en">Is the AI boom a bubble and what happens if it bursts?</desc>
   </programme>
   <programme start="20261115050000 +0000" stop="20261115053000 +0000" channel="aljazeera.english">
     <title lang="en">NEWS 30min</title>
@@ -806,7 +806,7 @@
   </programme>
   <programme start="20261115093000 +0000" stop="20261115100000 +0000" channel="aljazeera.english">
     <title lang="en">The Bottom Line</title>
-    <desc lang="en">Weekly discussion show on U.S. politics and policies hosted by Steve Clemons.</desc>
+    <desc lang="en">How will the U.S. Democratic Party navigate between its centrist establishment and the demands of its progressive members?</desc>
   </programme>
   <programme start="20261115100000 +0000" stop="20261115110000 +0000" channel="aljazeera.english">
     <title lang="en">NEWSHOUR</title>
@@ -910,7 +910,7 @@
   </programme>
   <programme start="20261116033000 +0000" stop="20261116040000 +0000" channel="aljazeera.english">
     <title lang="en">The Bottom Line</title>
-    <desc lang="en">Weekly discussion show on U.S. politics and policies hosted by Steve Clemons.</desc>
+    <desc lang="en">How will the U.S. Democratic Party navigate between its centrist establishment and the demands of its progressive members?</desc>
   </programme>
   <programme start="20261116040000 +0000" stop="20261116043000 +0000" channel="aljazeera.english">
     <title lang="en">NEWS 30min</title>
@@ -925,8 +925,8 @@
     <desc lang="en">Latest news and analysis from around the world.</desc>
   </programme>
   <programme start="20261116053000 +0000" stop="20261116060000 +0000" channel="aljazeera.english">
-    <title lang="en">NEWS 30min</title>
-    <desc lang="en">Latest news and analysis from around the world.</desc>
+    <title lang="en">Inside Story</title>
+    <desc lang="en">Beyond the headlines to the heart of the news of the day. Al Jazeera gets the Inside Story from some of the best minds from around the globe.</desc>
   </programme>
   <programme start="20261116060000 +0000" stop="20261116063000 +0000" channel="aljazeera.english">
     <title lang="en">NEWS 30min</title>
@@ -982,7 +982,7 @@
   </programme>
   <programme start="20261116143000 +0000" stop="20261116150000 +0000" channel="aljazeera.english">
     <title lang="en">Counting the Cost</title>
-    <desc lang="en">Counting the Cost provides background to the economics stories that shape our world and impact the lives of ordinary people.</desc>
+    <desc lang="en">Is the AI boom a bubble and what happens if it bursts?</desc>
   </programme>
   <programme start="20261116150000 +0000" stop="20261116160000 +0000" channel="aljazeera.english">
     <title lang="en">NEWSHOUR: The Wider Story</title>
@@ -1073,8 +1073,8 @@
     <desc lang="en">Latest news and analysis from around the world.</desc>
   </programme>
   <programme start="20261117053000 +0000" stop="20261117060000 +0000" channel="aljazeera.english">
-    <title lang="en">NEWS 30min</title>
-    <desc lang="en">Latest news and analysis from around the world.</desc>
+    <title lang="en">Inside Story</title>
+    <desc lang="en">Beyond the headlines to the heart of the news of the day. Al Jazeera gets the Inside Story from some of the best minds from around the globe.</desc>
   </programme>
   <programme start="20261117060000 +0000" stop="20261117063000 +0000" channel="aljazeera.english">
     <title lang="en">NEWS 30min</title>
@@ -1142,7 +1142,7 @@
   </programme>
   <programme start="20261117163000 +0000" stop="20261117170000 +0000" channel="aljazeera.english">
     <title lang="en">The Bottom Line</title>
-    <desc lang="en">Weekly discussion show on U.S. politics and policies hosted by Steve Clemons.</desc>
+    <desc lang="en">How will the U.S. Democratic Party navigate between its centrist establishment and the demands of its progressive members?</desc>
   </programme>
   <programme start="20261117170000 +0000" stop="20261117173000 +0000" channel="aljazeera.english">
     <title lang="en">NEWS: Lives in Focus</title>
@@ -1162,7 +1162,7 @@
   </programme>
   <programme start="20261117193000 +0000" stop="20261117200000 +0000" channel="aljazeera.english">
     <title lang="en">Counting the Cost</title>
-    <desc lang="en">Counting the Cost provides background to the economics stories that shape our world and impact the lives of ordinary people.</desc>
+    <desc lang="en">Is the AI boom a bubble and what happens if it bursts?</desc>
   </programme>
   <programme start="20261117200000 +0000" stop="20261117210000 +0000" channel="aljazeera.english">
     <title lang="en">Al Jazeera World : Cox's Bazar - Rohingya Life in Exile</title>
