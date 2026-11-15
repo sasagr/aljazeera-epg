@@ -4,15 +4,11 @@
     <display-name>Al Jazeera English</display-name>
     <icon src="https://www.aljazeera.com/images/logo_aje.png" />
   </channel>
-  <programme start="20261114000000 +0000" stop="20261114010000 +0000" channel="aljazeera.english">
+  <programme start="20261114000000 +0000" stop="20261114023000 +0000" channel="aljazeera.english">
     <title lang="en">NEWSHOUR</title>
     <desc lang="en">Latest news and in-depth analysis from around the world.</desc>
   </programme>
-  <programme start="20261114010000 +0000" stop="20261114020000 +0000" channel="aljazeera.english">
-    <title lang="en">The Campaign Against The Climate</title>
-    <desc lang="en">The shocking exposure of the million dollar, 30-year climate change denial campaign that undermined science and cast doubt on the dangers of climate change.</desc>
-  </programme>
-  <programme start="20261114020000 +0000" stop="20261114030000 +0000" channel="aljazeera.english">
+  <programme start="20261114023000 +0000" stop="20261114030000 +0000" channel="aljazeera.english">
     <title lang="en">NEWSHOUR</title>
     <desc lang="en">Latest news and in-depth analysis from around the world.</desc>
   </programme>
@@ -66,7 +62,7 @@
   </programme>
   <programme start="20261114093000 +0000" stop="20261114100000 +0000" channel="aljazeera.english">
     <title lang="en">UpFront</title>
-    <desc lang="en">Frank, blunt and inquisitive, UpFront cuts through the headlines to get to the heart of the matter with influential guests and newsmakers.</desc>
+    <desc lang="en">Marc Lamont Hill speaks to Aatish Taseer about India's protests, voter suppression allegations and Modi's grip on power.</desc>
   </programme>
   <programme start="20261114100000 +0000" stop="20261114110000 +0000" channel="aljazeera.english">
     <title lang="en">NEWSHOUR</title>
@@ -96,17 +92,9 @@
     <title lang="en">101 East : Bangkok’s Ambulance Volunteers</title>
     <desc lang="en">101 East enters the dangerous world of Bangkok’s volunteer ambulance crews who compete to be the first to reach accident scenes.</desc>
   </programme>
-  <programme start="20261114150000 +0000" stop="20261114160000 +0000" channel="aljazeera.english">
+  <programme start="20261114150000 +0000" stop="20261114170000 +0000" channel="aljazeera.english">
     <title lang="en">NEWSHOUR</title>
     <desc lang="en">Latest news and in-depth analysis from around the world.</desc>
-  </programme>
-  <programme start="20261114160000 +0000" stop="20261114163000 +0000" channel="aljazeera.english">
-    <title lang="en">NEWS 30min</title>
-    <desc lang="en">Latest news and analysis from around the world.</desc>
-  </programme>
-  <programme start="20261114163000 +0000" stop="20261114170000 +0000" channel="aljazeera.english">
-    <title lang="en">Fault Lines : Killing at Sea</title>
-    <desc lang="en">Fault Lines investigates the disappearance of three fishermen in two U.S. boat strikes, exposing the human toll of Operation Southern Spear.</desc>
   </programme>
   <programme start="20261114170000 +0000" stop="20261114173000 +0000" channel="aljazeera.english">
     <title lang="en">NEWS 30min</title>
@@ -126,7 +114,7 @@
   </programme>
   <programme start="20261114193000 +0000" stop="20261114200000 +0000" channel="aljazeera.english">
     <title lang="en">The Listening Post</title>
-    <desc lang="en">What is being reported by world media and how? Richard Gizbert guides you through the global news maze.</desc>
+    <desc lang="en">A rape conviction for British online influencer Russell Brand and a reckoning for the media that made him. Plus, how Australia was sold a gambling habit.</desc>
   </programme>
   <programme start="20261114200000 +0000" stop="20261114210000 +0000" channel="aljazeera.english">
     <title lang="en">Witness : Control Zone - Siberia's Wildfires</title>
@@ -170,7 +158,7 @@
   </programme>
   <programme start="20261115033000 +0000" stop="20261115040000 +0000" channel="aljazeera.english">
     <title lang="en">UpFront</title>
-    <desc lang="en">Frank, blunt and inquisitive, UpFront cuts through the headlines to get to the heart of the matter with influential guests and newsmakers.</desc>
+    <desc lang="en">Marc Lamont Hill speaks to Aatish Taseer about India's protests, voter suppression allegations and Modi's grip on power.</desc>
   </programme>
   <programme start="20261115040000 +0000" stop="20261115043000 +0000" channel="aljazeera.english">
     <title lang="en">NEWS 30min</title>
@@ -206,7 +194,7 @@
   </programme>
   <programme start="20261115083000 +0000" stop="20261115090000 +0000" channel="aljazeera.english">
     <title lang="en">The Listening Post</title>
-    <desc lang="en">What is being reported by world media and how? Richard Gizbert guides you through the global news maze.</desc>
+    <desc lang="en">A rape conviction for British online influencer Russell Brand and a reckoning for the media that made him. Plus, how Australia was sold a gambling habit.</desc>
   </programme>
   <programme start="20261115090000 +0000" stop="20261115093000 +0000" channel="aljazeera.english">
     <title lang="en">NEWS 30min</title>
@@ -241,12 +229,12 @@
     <desc lang="en">Latest news and analysis from around the world.</desc>
   </programme>
   <programme start="20261115143000 +0000" stop="20261115150000 +0000" channel="aljazeera.english">
-    <title lang="en">Making Peace : Where The Silence Breaks</title>
-    <desc lang="en">In post-peace Colombia, ex-FARC fighters confess as victims confront them seeking justice and reconciliation.</desc>
+    <title lang="en">Making Peace : The Possibilist</title>
+    <desc lang="en">Veteran mediator William Ury reflects on decades between enemies and the fragile art of diplomacy holding the world together.</desc>
   </programme>
   <programme start="20261115150000 +0000" stop="20261115160000 +0000" channel="aljazeera.english">
-    <title lang="en">NEWSHOUR: The Wider Story</title>
-    <desc lang="en">A deeper look at the major stories, unpacking the unanswered questions and making sense of the developments shaping the headlines.</desc>
+    <title lang="en">NEWSHOUR</title>
+    <desc lang="en">Latest news and in-depth analysis from around the world.</desc>
   </programme>
   <programme start="20261115160000 +0000" stop="20261115163000 +0000" channel="aljazeera.english">
     <title lang="en">NEWS 30min</title>
@@ -273,8 +261,8 @@
     <desc lang="en">Latest news and analysis from around the world.</desc>
   </programme>
   <programme start="20261115193000 +0000" stop="20261115200000 +0000" channel="aljazeera.english">
-    <title lang="en">Talk To Al Jazeera</title>
-    <desc lang="en">One-on-one conversations with global leaders, icons, influencers and alternative voices shaping our times.</desc>
+    <title lang="en">Talk to Al Jazeera : Ali Mohamed Omar</title>
+    <desc lang="en">Somali State Minister for Foreign Affairs discusses the country's recovery since its government collapsed 30 years ago.</desc>
   </programme>
   <programme start="20261115200000 +0000" stop="20261115210000 +0000" channel="aljazeera.english">
     <title lang="en">Al Jazeera English: The Counter Narrative</title>
@@ -326,7 +314,7 @@
   </programme>
   <programme start="20261116043000 +0000" stop="20261116050000 +0000" channel="aljazeera.english">
     <title lang="en">The Listening Post</title>
-    <desc lang="en">What is being reported by world media and how? Richard Gizbert guides you through the global news maze.</desc>
+    <desc lang="en">A rape conviction for British online influencer Russell Brand and a reckoning for the media that made him. Plus, how Australia was sold a gambling habit.</desc>
   </programme>
   <programme start="20261116050000 +0000" stop="20261116053000 +0000" channel="aljazeera.english">
     <title lang="en">NEWS 30min</title>
@@ -353,8 +341,8 @@
     <desc lang="en">Latest news and analysis from around the world.</desc>
   </programme>
   <programme start="20261116083000 +0000" stop="20261116090000 +0000" channel="aljazeera.english">
-    <title lang="en">Talk To Al Jazeera</title>
-    <desc lang="en">One-on-one conversations with global leaders, icons, influencers and alternative voices shaping our times.</desc>
+    <title lang="en">Talk to Al Jazeera : Ali Mohamed Omar</title>
+    <desc lang="en">Somali State Minister for Foreign Affairs discusses the country's recovery since its government collapsed 30 years ago.</desc>
   </programme>
   <programme start="20261116090000 +0000" stop="20261116093000 +0000" channel="aljazeera.english">
     <title lang="en">NEWS 30min</title>
@@ -393,8 +381,8 @@
     <desc lang="en">Is the AI boom a bubble and what happens if it bursts?</desc>
   </programme>
   <programme start="20261116150000 +0000" stop="20261116160000 +0000" channel="aljazeera.english">
-    <title lang="en">NEWSHOUR: The Wider Story</title>
-    <desc lang="en">A deeper look at the major stories, unpacking the unanswered questions and making sense of the developments shaping the headlines.</desc>
+    <title lang="en">NEWSHOUR</title>
+    <desc lang="en">Latest news and in-depth analysis from around the world.</desc>
   </programme>
   <programme start="20261116160000 +0000" stop="20261116163000 +0000" channel="aljazeera.english">
     <title lang="en">NEWS 30min</title>
@@ -402,7 +390,7 @@
   </programme>
   <programme start="20261116163000 +0000" stop="20261116170000 +0000" channel="aljazeera.english">
     <title lang="en">UpFront</title>
-    <desc lang="en">Frank, blunt and inquisitive, UpFront cuts through the headlines to get to the heart of the matter with influential guests and newsmakers.</desc>
+    <desc lang="en">Marc Lamont Hill speaks to Aatish Taseer about India's protests, voter suppression allegations and Modi's grip on power.</desc>
   </programme>
   <programme start="20261116170000 +0000" stop="20261116173000 +0000" channel="aljazeera.english">
     <title lang="en">NEWS: Lives in Focus</title>
@@ -473,8 +461,8 @@
     <desc lang="en">Latest news and analysis from around the world.</desc>
   </programme>
   <programme start="20261117043000 +0000" stop="20261117050000 +0000" channel="aljazeera.english">
-    <title lang="en">Talk To Al Jazeera</title>
-    <desc lang="en">One-on-one conversations with global leaders, icons, influencers and alternative voices shaping our times.</desc>
+    <title lang="en">Talk to Al Jazeera : Ali Mohamed Omar</title>
+    <desc lang="en">Somali State Minister for Foreign Affairs discusses the country's recovery since its government collapsed 30 years ago.</desc>
   </programme>
   <programme start="20261117050000 +0000" stop="20261117053000 +0000" channel="aljazeera.english">
     <title lang="en">NEWS 30min</title>
@@ -490,7 +478,7 @@
   </programme>
   <programme start="20261117063000 +0000" stop="20261117070000 +0000" channel="aljazeera.english">
     <title lang="en">UpFront</title>
-    <desc lang="en">Frank, blunt and inquisitive, UpFront cuts through the headlines to get to the heart of the matter with influential guests and newsmakers.</desc>
+    <desc lang="en">Marc Lamont Hill speaks to Aatish Taseer about India's protests, voter suppression allegations and Modi's grip on power.</desc>
   </programme>
   <programme start="20261117070000 +0000" stop="20261117080000 +0000" channel="aljazeera.english">
     <title lang="en">NEWSHOUR</title>
@@ -538,11 +526,11 @@
   </programme>
   <programme start="20261117143000 +0000" stop="20261117150000 +0000" channel="aljazeera.english">
     <title lang="en">The Listening Post</title>
-    <desc lang="en">What is being reported by world media and how? Richard Gizbert guides you through the global news maze.</desc>
+    <desc lang="en">A rape conviction for British online influencer Russell Brand and a reckoning for the media that made him. Plus, how Australia was sold a gambling habit.</desc>
   </programme>
   <programme start="20261117150000 +0000" stop="20261117160000 +0000" channel="aljazeera.english">
-    <title lang="en">NEWSHOUR: The Wider Story</title>
-    <desc lang="en">A deeper look at the major stories, unpacking the unanswered questions and making sense of the developments shaping the headlines.</desc>
+    <title lang="en">NEWSHOUR</title>
+    <desc lang="en">Latest news and in-depth analysis from around the world.</desc>
   </programme>
   <programme start="20261117160000 +0000" stop="20261117163000 +0000" channel="aljazeera.english">
     <title lang="en">NEWS 30min</title>
@@ -650,7 +638,7 @@
   </programme>
   <programme start="20261118083000 +0000" stop="20261118090000 +0000" channel="aljazeera.english">
     <title lang="en">The Listening Post</title>
-    <desc lang="en">What is being reported by world media and how? Richard Gizbert guides you through the global news maze.</desc>
+    <desc lang="en">A rape conviction for British online influencer Russell Brand and a reckoning for the media that made him. Plus, how Australia was sold a gambling habit.</desc>
   </programme>
   <programme start="20261118090000 +0000" stop="20261118093000 +0000" channel="aljazeera.english">
     <title lang="en">NEWS 30min</title>
@@ -685,12 +673,12 @@
     <desc lang="en">Latest news and analysis from around the world.</desc>
   </programme>
   <programme start="20261118143000 +0000" stop="20261118150000 +0000" channel="aljazeera.english">
-    <title lang="en">Talk To Al Jazeera</title>
-    <desc lang="en">One-on-one conversations with global leaders, icons, influencers and alternative voices shaping our times.</desc>
+    <title lang="en">Talk to Al Jazeera : Ali Mohamed Omar</title>
+    <desc lang="en">Somali State Minister for Foreign Affairs discusses the country's recovery since its government collapsed 30 years ago.</desc>
   </programme>
   <programme start="20261118150000 +0000" stop="20261118160000 +0000" channel="aljazeera.english">
-    <title lang="en">NEWSHOUR: The Wider Story</title>
-    <desc lang="en">A deeper look at the major stories, unpacking the unanswered questions and making sense of the developments shaping the headlines.</desc>
+    <title lang="en">NEWSHOUR</title>
+    <desc lang="en">Latest news and in-depth analysis from around the world.</desc>
   </programme>
   <programme start="20261118160000 +0000" stop="20261118163000 +0000" channel="aljazeera.english">
     <title lang="en">NEWS 30min</title>
@@ -770,7 +758,7 @@
   </programme>
   <programme start="20261119043000 +0000" stop="20261119050000 +0000" channel="aljazeera.english">
     <title lang="en">UpFront</title>
-    <desc lang="en">Frank, blunt and inquisitive, UpFront cuts through the headlines to get to the heart of the matter with influential guests and newsmakers.</desc>
+    <desc lang="en">Marc Lamont Hill speaks to Aatish Taseer about India's protests, voter suppression allegations and Modi's grip on power.</desc>
   </programme>
   <programme start="20261119050000 +0000" stop="20261119053000 +0000" channel="aljazeera.english">
     <title lang="en">NEWS 30min</title>
@@ -837,8 +825,8 @@
     <desc lang="en">Maasai photographer Latei Moses journeys across northern Kenya in search of the elusive black leopard, reclaiming the lens to tell his own stories.</desc>
   </programme>
   <programme start="20261119150000 +0000" stop="20261119160000 +0000" channel="aljazeera.english">
-    <title lang="en">NEWSHOUR: The Wider Story</title>
-    <desc lang="en">A deeper look at the major stories, unpacking the unanswered questions and making sense of the developments shaping the headlines.</desc>
+    <title lang="en">NEWSHOUR</title>
+    <desc lang="en">Latest news and in-depth analysis from around the world.</desc>
   </programme>
   <programme start="20261119160000 +0000" stop="20261119163000 +0000" channel="aljazeera.english">
     <title lang="en">NEWS 30min</title>
@@ -865,8 +853,8 @@
     <desc lang="en">Latest news and analysis from around the world.</desc>
   </programme>
   <programme start="20261119193000 +0000" stop="20261119200000 +0000" channel="aljazeera.english">
-    <title lang="en">Talk To Al Jazeera</title>
-    <desc lang="en">One-on-one conversations with global leaders, icons, influencers and alternative voices shaping our times.</desc>
+    <title lang="en">Talk to Al Jazeera : Ali Mohamed Omar</title>
+    <desc lang="en">Somali State Minister for Foreign Affairs discusses the country's recovery since its government collapsed 30 years ago.</desc>
   </programme>
   <programme start="20261119200000 +0000" stop="20261119210000 +0000" channel="aljazeera.english">
     <title lang="en">The Drugs Don't Work</title>
@@ -881,8 +869,8 @@
     <desc lang="en">Latest news and analysis from around the world.</desc>
   </programme>
   <programme start="20261119223000 +0000" stop="20261119230000 +0000" channel="aljazeera.english">
-    <title lang="en">The Art of Negoatiation : Why Mediation Fails in A War Torn World</title>
-    <desc lang="en">With a record 130 wars raging worldwide, top conflict negotiators reveal why peace has never been harder to achieve.</desc>
+    <title lang="en">The Art of Negotiation : Why Mediation Fails in A War Torn World</title>
+    <desc lang="en">With more than 65 armed conflicts raging worldwide, top mediators reveal why peace has never been harder to achieve.</desc>
   </programme>
   <programme start="20261119230000 +0000" stop="20261119233000 +0000" channel="aljazeera.english">
     <title lang="en">NEWS 30min</title>
@@ -953,8 +941,8 @@
     <desc lang="en">Latest news and analysis from around the world.</desc>
   </programme>
   <programme start="20261120093000 +0000" stop="20261120100000 +0000" channel="aljazeera.english">
-    <title lang="en">The Art of Negoatiation : Why Mediation Fails in A War Torn World</title>
-    <desc lang="en">With a record 130 wars raging worldwide, top conflict negotiators reveal why peace has never been harder to achieve.</desc>
+    <title lang="en">The Art of Negotiation : Why Mediation Fails in A War Torn World</title>
+    <desc lang="en">With more than 65 armed conflicts raging worldwide, top mediators reveal why peace has never been harder to achieve.</desc>
   </programme>
   <programme start="20261120100000 +0000" stop="20261120110000 +0000" channel="aljazeera.english">
     <title lang="en">NEWSHOUR</title>
@@ -985,8 +973,8 @@
     <desc lang="en">Fault Lines investigates how illegal gold mining is poisoning Indigenous communities in the Brazilian Amazon and threatening their survival.</desc>
   </programme>
   <programme start="20261120150000 +0000" stop="20261120160000 +0000" channel="aljazeera.english">
-    <title lang="en">NEWSHOUR: The Wider Story</title>
-    <desc lang="en">A deeper look at the major stories, unpacking the unanswered questions and making sense of the developments shaping the headlines.</desc>
+    <title lang="en">NEWSHOUR</title>
+    <desc lang="en">Latest news and in-depth analysis from around the world.</desc>
   </programme>
   <programme start="20261120160000 +0000" stop="20261120163000 +0000" channel="aljazeera.english">
     <title lang="en">NEWS 30min</title>
@@ -1057,8 +1045,8 @@
     <desc lang="en">Latest news and analysis from around the world.</desc>
   </programme>
   <programme start="20261121033000 +0000" stop="20261121040000 +0000" channel="aljazeera.english">
-    <title lang="en">The Art of Negoatiation : Why Mediation Fails in A War Torn World</title>
-    <desc lang="en">With a record 130 wars raging worldwide, top conflict negotiators reveal why peace has never been harder to achieve.</desc>
+    <title lang="en">The Art of Negotiation : Why Mediation Fails in A War Torn World</title>
+    <desc lang="en">With more than 65 armed conflicts raging worldwide, top mediators reveal why peace has never been harder to achieve.</desc>
   </programme>
   <programme start="20261121040000 +0000" stop="20261121043000 +0000" channel="aljazeera.english">
     <title lang="en">NEWS 30min</title>
@@ -1129,12 +1117,12 @@
     <desc lang="en">Latest news and analysis from around the world.</desc>
   </programme>
   <programme start="20261121143000 +0000" stop="20261121150000 +0000" channel="aljazeera.english">
-    <title lang="en">The Art of Negoatiation : Why Mediation Fails in A War Torn World</title>
-    <desc lang="en">With a record 130 wars raging worldwide, top conflict negotiators reveal why peace has never been harder to achieve.</desc>
+    <title lang="en">The Art of Negotiation : Why Mediation Fails in A War Torn World</title>
+    <desc lang="en">With more than 65 armed conflicts raging worldwide, top mediators reveal why peace has never been harder to achieve.</desc>
   </programme>
   <programme start="20261121150000 +0000" stop="20261121160000 +0000" channel="aljazeera.english">
-    <title lang="en">NEWSHOUR: The Wider Story</title>
-    <desc lang="en">A deeper look at the major stories, unpacking the unanswered questions and making sense of the developments shaping the headlines.</desc>
+    <title lang="en">NEWSHOUR</title>
+    <desc lang="en">Latest news and in-depth analysis from around the world.</desc>
   </programme>
   <programme start="20261121160000 +0000" stop="20261121163000 +0000" channel="aljazeera.english">
     <title lang="en">NEWS 30min</title>
