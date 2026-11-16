@@ -4,154 +4,6 @@
     <display-name>Al Jazeera English</display-name>
     <icon src="https://www.aljazeera.com/images/logo_aje.png" />
   </channel>
-  <programme start="20261115000000 +0000" stop="20261115010000 +0000" channel="aljazeera.english">
-    <title lang="en">NEWSHOUR</title>
-    <desc lang="en">Latest news and in-depth analysis from around the world.</desc>
-  </programme>
-  <programme start="20261115010000 +0000" stop="20261115020000 +0000" channel="aljazeera.english">
-    <title lang="en">Al Jazeera World : Gaza Grad</title>
-    <desc lang="en">A Palestinian-Russian family rebuilds new lives in Russia and Egypt, while their longing for Gaza and hopes of returning home remain.</desc>
-  </programme>
-  <programme start="20261115020000 +0000" stop="20261115030000 +0000" channel="aljazeera.english">
-    <title lang="en">NEWSHOUR</title>
-    <desc lang="en">Latest news and in-depth analysis from around the world.</desc>
-  </programme>
-  <programme start="20261115030000 +0000" stop="20261115033000 +0000" channel="aljazeera.english">
-    <title lang="en">NEWS 30min</title>
-    <desc lang="en">Latest news and analysis from around the world.</desc>
-  </programme>
-  <programme start="20261115033000 +0000" stop="20261115040000 +0000" channel="aljazeera.english">
-    <title lang="en">UpFront</title>
-    <desc lang="en">Marc Lamont Hill speaks to Aatish Taseer about India's protests, voter suppression allegations and Modi's grip on power.</desc>
-  </programme>
-  <programme start="20261115040000 +0000" stop="20261115043000 +0000" channel="aljazeera.english">
-    <title lang="en">NEWS 30min</title>
-    <desc lang="en">Latest news and analysis from around the world.</desc>
-  </programme>
-  <programme start="20261115043000 +0000" stop="20261115050000 +0000" channel="aljazeera.english">
-    <title lang="en">Counting the Cost</title>
-    <desc lang="en">Is the AI boom a bubble and what happens if it bursts?</desc>
-  </programme>
-  <programme start="20261115050000 +0000" stop="20261115053000 +0000" channel="aljazeera.english">
-    <title lang="en">NEWS 30min</title>
-    <desc lang="en">Latest news and analysis from around the world.</desc>
-  </programme>
-  <programme start="20261115053000 +0000" stop="20261115060000 +0000" channel="aljazeera.english">
-    <title lang="en">Inside Story</title>
-    <desc lang="en">Beyond the headlines to the heart of the news of the day. Al Jazeera gets the Inside Story from some of the best minds from around the globe.</desc>
-  </programme>
-  <programme start="20261115060000 +0000" stop="20261115063000 +0000" channel="aljazeera.english">
-    <title lang="en">NEWS 30min</title>
-    <desc lang="en">Latest news and analysis from around the world.</desc>
-  </programme>
-  <programme start="20261115063000 +0000" stop="20261115070000 +0000" channel="aljazeera.english">
-    <title lang="en">Fault Lines : Killing at Sea</title>
-    <desc lang="en">Fault Lines investigates the disappearance of three fishermen in two U.S. boat strikes, exposing the human toll of Operation Southern Spear.</desc>
-  </programme>
-  <programme start="20261115070000 +0000" stop="20261115080000 +0000" channel="aljazeera.english">
-    <title lang="en">NEWSHOUR</title>
-    <desc lang="en">Latest news and in-depth analysis from around the world.</desc>
-  </programme>
-  <programme start="20261115080000 +0000" stop="20261115083000 +0000" channel="aljazeera.english">
-    <title lang="en">NEWS 30min</title>
-    <desc lang="en">Latest news and analysis from around the world.</desc>
-  </programme>
-  <programme start="20261115083000 +0000" stop="20261115090000 +0000" channel="aljazeera.english">
-    <title lang="en">The Listening Post</title>
-    <desc lang="en">A rape conviction for British online influencer Russell Brand and a reckoning for the media that made him. Plus, how Australia was sold a gambling habit.</desc>
-  </programme>
-  <programme start="20261115090000 +0000" stop="20261115093000 +0000" channel="aljazeera.english">
-    <title lang="en">NEWS 30min</title>
-    <desc lang="en">Latest news and analysis from around the world.</desc>
-  </programme>
-  <programme start="20261115093000 +0000" stop="20261115100000 +0000" channel="aljazeera.english">
-    <title lang="en">The Bottom Line</title>
-    <desc lang="en">How will the U.S. Democratic Party navigate between its centrist establishment and the demands of its progressive members?</desc>
-  </programme>
-  <programme start="20261115100000 +0000" stop="20261115110000 +0000" channel="aljazeera.english">
-    <title lang="en">NEWSHOUR</title>
-    <desc lang="en">Latest news and in-depth analysis from around the world.</desc>
-  </programme>
-  <programme start="20261115110000 +0000" stop="20261115113000 +0000" channel="aljazeera.english">
-    <title lang="en">NEWS 30min</title>
-    <desc lang="en">Latest news and analysis from around the world.</desc>
-  </programme>
-  <programme start="20261115113000 +0000" stop="20261115120000 +0000" channel="aljazeera.english">
-    <title lang="en">Inside Story</title>
-    <desc lang="en">Beyond the headlines to the heart of the news of the day. Al Jazeera gets the Inside Story from some of the best minds from around the globe.</desc>
-  </programme>
-  <programme start="20261115120000 +0000" stop="20261115130000 +0000" channel="aljazeera.english">
-    <title lang="en">Al Jazeera English: The Counter Narrative</title>
-    <desc lang="en">After 20 years of AJE on the air we reflect on the channel’s development as an important media pillar and how it has proven to be the voice of the voiceless.</desc>
-  </programme>
-  <programme start="20261115130000 +0000" stop="20261115140000 +0000" channel="aljazeera.english">
-    <title lang="en">NEWSHOUR: The World Now</title>
-    <desc lang="en">A fast-paced, live global news show capturing the latest developments as they unfold.</desc>
-  </programme>
-  <programme start="20261115140000 +0000" stop="20261115143000 +0000" channel="aljazeera.english">
-    <title lang="en">NEWS 30min</title>
-    <desc lang="en">Latest news and analysis from around the world.</desc>
-  </programme>
-  <programme start="20261115143000 +0000" stop="20261115150000 +0000" channel="aljazeera.english">
-    <title lang="en">Making Peace : The Possibilist</title>
-    <desc lang="en">Veteran mediator William Ury reflects on decades between enemies and the fragile art of diplomacy holding the world together.</desc>
-  </programme>
-  <programme start="20261115150000 +0000" stop="20261115160000 +0000" channel="aljazeera.english">
-    <title lang="en">NEWSHOUR</title>
-    <desc lang="en">Latest news and in-depth analysis from around the world.</desc>
-  </programme>
-  <programme start="20261115160000 +0000" stop="20261115163000 +0000" channel="aljazeera.english">
-    <title lang="en">NEWS 30min</title>
-    <desc lang="en">Latest news and analysis from around the world.</desc>
-  </programme>
-  <programme start="20261115163000 +0000" stop="20261115170000 +0000" channel="aljazeera.english">
-    <title lang="en">Beyond the Horizon - Searching For Giza</title>
-    <desc lang="en">Maasai photographer Latei Moses journeys across northern Kenya in search of the elusive black leopard, reclaiming the lens to tell his own stories.</desc>
-  </programme>
-  <programme start="20261115170000 +0000" stop="20261115173000 +0000" channel="aljazeera.english">
-    <title lang="en">NEWS: Lives in Focus</title>
-    <desc lang="en">A people-centred show amplifying human stories and voices, bringing attention to global events and underreported regions.</desc>
-  </programme>
-  <programme start="20261115173000 +0000" stop="20261115180000 +0000" channel="aljazeera.english">
-    <title lang="en">Inside Story</title>
-    <desc lang="en">Beyond the headlines to the heart of the news of the day. Al Jazeera gets the Inside Story from some of the best minds from around the globe.</desc>
-  </programme>
-  <programme start="20261115180000 +0000" stop="20261115190000 +0000" channel="aljazeera.english">
-    <title lang="en">NEWSHOUR</title>
-    <desc lang="en">Latest news and in-depth analysis from around the world.</desc>
-  </programme>
-  <programme start="20261115190000 +0000" stop="20261115193000 +0000" channel="aljazeera.english">
-    <title lang="en">NEWS 30min</title>
-    <desc lang="en">Latest news and analysis from around the world.</desc>
-  </programme>
-  <programme start="20261115193000 +0000" stop="20261115200000 +0000" channel="aljazeera.english">
-    <title lang="en">Talk to Al Jazeera : Ali Mohamed Omar</title>
-    <desc lang="en">Somali State Minister for Foreign Affairs discusses the country's recovery since its government collapsed 30 years ago.</desc>
-  </programme>
-  <programme start="20261115200000 +0000" stop="20261115210000 +0000" channel="aljazeera.english">
-    <title lang="en">Al Jazeera English: The Counter Narrative</title>
-    <desc lang="en">After 20 years of AJE on the air we reflect on the channel’s development as an important media pillar and how it has proven to be the voice of the voiceless.</desc>
-  </programme>
-  <programme start="20261115210000 +0000" stop="20261115220000 +0000" channel="aljazeera.english">
-    <title lang="en">NEWSHOUR</title>
-    <desc lang="en">Latest news and in-depth analysis from around the world.</desc>
-  </programme>
-  <programme start="20261115220000 +0000" stop="20261115223000 +0000" channel="aljazeera.english">
-    <title lang="en">NEWS 30min</title>
-    <desc lang="en">Latest news and analysis from around the world.</desc>
-  </programme>
-  <programme start="20261115223000 +0000" stop="20261115230000 +0000" channel="aljazeera.english">
-    <title lang="en">The Population Bust : The Great Migration</title>
-    <desc lang="en">As Europe’s population ages and Africa’s grow, how does migration reshape a world facing a dramatic decline in population.</desc>
-  </programme>
-  <programme start="20261115230000 +0000" stop="20261115233000 +0000" channel="aljazeera.english">
-    <title lang="en">NEWS 30min</title>
-    <desc lang="en">Latest news and analysis from around the world.</desc>
-  </programme>
-  <programme start="20261115233000 +0000" stop="20261116000000 +0000" channel="aljazeera.english">
-    <title lang="en">Inside Story</title>
-    <desc lang="en">Beyond the headlines to the heart of the news of the day. Al Jazeera gets the Inside Story from some of the best minds from around the globe.</desc>
-  </programme>
   <programme start="20261116000000 +0000" stop="20261116010000 +0000" channel="aljazeera.english">
     <title lang="en">NEWSHOUR</title>
     <desc lang="en">Latest news and in-depth analysis from around the world.</desc>
@@ -273,8 +125,8 @@
     <desc lang="en">Latest news and analysis from around the world.</desc>
   </programme>
   <programme start="20261116193000 +0000" stop="20261116200000 +0000" channel="aljazeera.english">
-    <title lang="en">Al Jazeera Explains : Ep 8</title>
-    <desc lang="en">Al Jazeera Explains goes beyond the headlines to bring clarity, context and the bigger picture to the stories shaping the world today.</desc>
+    <title lang="en">Al Jazeera Explains : The Battle to Tell the World's Story</title>
+    <desc lang="en">As Al Jazeera English marks 20 years, we examine who shapes the global news agenda and how AI is changing what reaches you.</desc>
   </programme>
   <programme start="20261116200000 +0000" stop="20261116210000 +0000" channel="aljazeera.english">
     <title lang="en">The Campaign Against The Climate</title>
@@ -353,8 +205,8 @@
     <desc lang="en">Latest news and analysis from around the world.</desc>
   </programme>
   <programme start="20261117083000 +0000" stop="20261117090000 +0000" channel="aljazeera.english">
-    <title lang="en">Al Jazeera Explains : Ep 8</title>
-    <desc lang="en">Al Jazeera Explains goes beyond the headlines to bring clarity, context and the bigger picture to the stories shaping the world today.</desc>
+    <title lang="en">Al Jazeera Explains : The Battle to Tell the World's Story</title>
+    <desc lang="en">As Al Jazeera English marks 20 years, we examine who shapes the global news agenda and how AI is changing what reaches you.</desc>
   </programme>
   <programme start="20261117090000 +0000" stop="20261117093000 +0000" channel="aljazeera.english">
     <title lang="en">NEWS 30min</title>
@@ -473,8 +325,8 @@
     <desc lang="en">Latest news and analysis from around the world.</desc>
   </programme>
   <programme start="20261118043000 +0000" stop="20261118050000 +0000" channel="aljazeera.english">
-    <title lang="en">Al Jazeera Explains : Ep 8</title>
-    <desc lang="en">Al Jazeera Explains goes beyond the headlines to bring clarity, context and the bigger picture to the stories shaping the world today.</desc>
+    <title lang="en">Al Jazeera Explains : The Battle to Tell the World's Story</title>
+    <desc lang="en">As Al Jazeera English marks 20 years, we examine who shapes the global news agenda and how AI is changing what reaches you.</desc>
   </programme>
   <programme start="20261118050000 +0000" stop="20261118053000 +0000" channel="aljazeera.english">
     <title lang="en">NEWS 30min</title>
@@ -797,8 +649,8 @@
     <desc lang="en">Latest news and analysis from around the world.</desc>
   </programme>
   <programme start="20261120083000 +0000" stop="20261120090000 +0000" channel="aljazeera.english">
-    <title lang="en">Al Jazeera Explains : Ep 8</title>
-    <desc lang="en">Al Jazeera Explains goes beyond the headlines to bring clarity, context and the bigger picture to the stories shaping the world today.</desc>
+    <title lang="en">Al Jazeera Explains : The Battle to Tell the World's Story</title>
+    <desc lang="en">As Al Jazeera English marks 20 years, we examine who shapes the global news agenda and how AI is changing what reaches you.</desc>
   </programme>
   <programme start="20261120090000 +0000" stop="20261120093000 +0000" channel="aljazeera.english">
     <title lang="en">NEWS 30min</title>
@@ -1185,6 +1037,154 @@
     <desc lang="en">Latest news and analysis from around the world.</desc>
   </programme>
   <programme start="20261122233000 +0000" stop="20261123000000 +0000" channel="aljazeera.english">
+    <title lang="en">Inside Story</title>
+    <desc lang="en">Beyond the headlines to the heart of the news of the day. Al Jazeera gets the Inside Story from some of the best minds from around the globe.</desc>
+  </programme>
+  <programme start="20261123000000 +0000" stop="20261123010000 +0000" channel="aljazeera.english">
+    <title lang="en">NEWSHOUR</title>
+    <desc lang="en">Latest news and in-depth analysis from around the world.</desc>
+  </programme>
+  <programme start="20261123010000 +0000" stop="20261123020000 +0000" channel="aljazeera.english">
+    <title lang="en">Witness : The Only Doctor</title>
+    <desc lang="en">After working for years without pay, the only doctor in the U.S. state of Georgia’s poorest county faces the imminent closure of her clinic.</desc>
+  </programme>
+  <programme start="20261123020000 +0000" stop="20261123030000 +0000" channel="aljazeera.english">
+    <title lang="en">NEWSHOUR</title>
+    <desc lang="en">Latest news and in-depth analysis from around the world.</desc>
+  </programme>
+  <programme start="20261123030000 +0000" stop="20261123033000 +0000" channel="aljazeera.english">
+    <title lang="en">NEWS 30min</title>
+    <desc lang="en">Latest news and analysis from around the world.</desc>
+  </programme>
+  <programme start="20261123033000 +0000" stop="20261123040000 +0000" channel="aljazeera.english">
+    <title lang="en">The Bottom Line</title>
+    <desc lang="en">Weekly discussion show on U.S. politics and policies hosted by Steve Clemons.</desc>
+  </programme>
+  <programme start="20261123040000 +0000" stop="20261123043000 +0000" channel="aljazeera.english">
+    <title lang="en">NEWS 30min</title>
+    <desc lang="en">Latest news and analysis from around the world.</desc>
+  </programme>
+  <programme start="20261123043000 +0000" stop="20261123050000 +0000" channel="aljazeera.english">
+    <title lang="en">The Listening Post</title>
+    <desc lang="en">What is being reported by world media and how? Richard Gizbert guides you through the global news maze.</desc>
+  </programme>
+  <programme start="20261123050000 +0000" stop="20261123053000 +0000" channel="aljazeera.english">
+    <title lang="en">NEWS 30min</title>
+    <desc lang="en">Latest news and analysis from around the world.</desc>
+  </programme>
+  <programme start="20261123053000 +0000" stop="20261123060000 +0000" channel="aljazeera.english">
+    <title lang="en">Inside Story</title>
+    <desc lang="en">Beyond the headlines to the heart of the news of the day. Al Jazeera gets the Inside Story from some of the best minds from around the globe.</desc>
+  </programme>
+  <programme start="20261123060000 +0000" stop="20261123063000 +0000" channel="aljazeera.english">
+    <title lang="en">NEWS 30min</title>
+    <desc lang="en">Latest news and analysis from around the world.</desc>
+  </programme>
+  <programme start="20261123063000 +0000" stop="20261123070000 +0000" channel="aljazeera.english">
+    <title lang="en">The Art of Negotiation : Why Mediation Fails in A War Torn World</title>
+    <desc lang="en">With more than 65 armed conflicts raging worldwide, top mediators reveal why peace has never been harder to achieve.</desc>
+  </programme>
+  <programme start="20261123070000 +0000" stop="20261123080000 +0000" channel="aljazeera.english">
+    <title lang="en">NEWSHOUR</title>
+    <desc lang="en">Latest news and in-depth analysis from around the world.</desc>
+  </programme>
+  <programme start="20261123080000 +0000" stop="20261123083000 +0000" channel="aljazeera.english">
+    <title lang="en">NEWS 30min</title>
+    <desc lang="en">Latest news and analysis from around the world.</desc>
+  </programme>
+  <programme start="20261123083000 +0000" stop="20261123090000 +0000" channel="aljazeera.english">
+    <title lang="en">Talk To Al Jazeera</title>
+    <desc lang="en">One-on-one conversations with global leaders, icons, influencers and alternative voices shaping our times.</desc>
+  </programme>
+  <programme start="20261123090000 +0000" stop="20261123093000 +0000" channel="aljazeera.english">
+    <title lang="en">NEWS 30min</title>
+    <desc lang="en">Latest news and analysis from around the world.</desc>
+  </programme>
+  <programme start="20261123093000 +0000" stop="20261123100000 +0000" channel="aljazeera.english">
+    <title lang="en">Dying Earth : Lost Futures</title>
+    <desc lang="en">Some of the prophets of doom of the 60's whose warning went unheeded assess the Earth’s current environmental fragility.</desc>
+  </programme>
+  <programme start="20261123100000 +0000" stop="20261123110000 +0000" channel="aljazeera.english">
+    <title lang="en">NEWSHOUR</title>
+    <desc lang="en">Latest news and in-depth analysis from around the world.</desc>
+  </programme>
+  <programme start="20261123110000 +0000" stop="20261123113000 +0000" channel="aljazeera.english">
+    <title lang="en">NEWS 30min</title>
+    <desc lang="en">Latest news and analysis from around the world.</desc>
+  </programme>
+  <programme start="20261123113000 +0000" stop="20261123120000 +0000" channel="aljazeera.english">
+    <title lang="en">Inside Story</title>
+    <desc lang="en">Beyond the headlines to the heart of the news of the day. Al Jazeera gets the Inside Story from some of the best minds from around the globe.</desc>
+  </programme>
+  <programme start="20261123120000 +0000" stop="20261123130000 +0000" channel="aljazeera.english">
+    <title lang="en">The Drugs Don't Work</title>
+    <desc lang="en">The overuse of antibiotics will lead to 8 million deaths yearly from drug resistant superbugs by 2050. Hundreds of millions more could die from related causes.</desc>
+  </programme>
+  <programme start="20261123130000 +0000" stop="20261123140000 +0000" channel="aljazeera.english">
+    <title lang="en">NEWSHOUR: The World Now</title>
+    <desc lang="en">A fast-paced, live global news show capturing the latest developments as they unfold.</desc>
+  </programme>
+  <programme start="20261123140000 +0000" stop="20261123143000 +0000" channel="aljazeera.english">
+    <title lang="en">NEWS 30min</title>
+    <desc lang="en">Latest news and analysis from around the world.</desc>
+  </programme>
+  <programme start="20261123143000 +0000" stop="20261123150000 +0000" channel="aljazeera.english">
+    <title lang="en">Counting the Cost</title>
+    <desc lang="en">Counting the Cost provides background to the economics stories that shape our world and impact the lives of ordinary people.</desc>
+  </programme>
+  <programme start="20261123150000 +0000" stop="20261123160000 +0000" channel="aljazeera.english">
+    <title lang="en">NEWSHOUR: The Wider Story</title>
+    <desc lang="en">A deeper look at the major stories, unpacking the unanswered questions and making sense of the developments shaping the headlines.</desc>
+  </programme>
+  <programme start="20261123160000 +0000" stop="20261123163000 +0000" channel="aljazeera.english">
+    <title lang="en">NEWS 30min</title>
+    <desc lang="en">Latest news and analysis from around the world.</desc>
+  </programme>
+  <programme start="20261123163000 +0000" stop="20261123170000 +0000" channel="aljazeera.english">
+    <title lang="en">UpFront</title>
+    <desc lang="en">Frank, blunt and inquisitive, UpFront cuts through the headlines to get to the heart of the matter with influential guests and newsmakers.</desc>
+  </programme>
+  <programme start="20261123170000 +0000" stop="20261123173000 +0000" channel="aljazeera.english">
+    <title lang="en">NEWS: Lives in Focus</title>
+    <desc lang="en">A people-centred show amplifying human stories and voices, bringing attention to global events and underreported regions.</desc>
+  </programme>
+  <programme start="20261123173000 +0000" stop="20261123180000 +0000" channel="aljazeera.english">
+    <title lang="en">Inside Story</title>
+    <desc lang="en">Beyond the headlines to the heart of the news of the day. Al Jazeera gets the Inside Story from some of the best minds from around the globe.</desc>
+  </programme>
+  <programme start="20261123180000 +0000" stop="20261123190000 +0000" channel="aljazeera.english">
+    <title lang="en">NEWSHOUR</title>
+    <desc lang="en">Latest news and in-depth analysis from around the world.</desc>
+  </programme>
+  <programme start="20261123190000 +0000" stop="20261123193000 +0000" channel="aljazeera.english">
+    <title lang="en">NEWS 30min</title>
+    <desc lang="en">Latest news and analysis from around the world.</desc>
+  </programme>
+  <programme start="20261123193000 +0000" stop="20261123200000 +0000" channel="aljazeera.english">
+    <title lang="en">Al Jazeera Explains : Trump vs Congress</title>
+    <desc lang="en">Democrats won Congress. But did they win voters over? Al Jazeera Explains why Trump's party lost, and how much power the president still holds.</desc>
+  </programme>
+  <programme start="20261123200000 +0000" stop="20261123210000 +0000" channel="aljazeera.english">
+    <title lang="en">Al Jazeera World : Cox's Bazar - Rohingya Life in Exile</title>
+    <desc lang="en">Inside the world’s largest refugee camp, Rohingya families fight hunger and loss as aid dries up—clinging to faith, each other and the hope of home.</desc>
+  </programme>
+  <programme start="20261123210000 +0000" stop="20261123220000 +0000" channel="aljazeera.english">
+    <title lang="en">NEWSHOUR</title>
+    <desc lang="en">Latest news and in-depth analysis from around the world.</desc>
+  </programme>
+  <programme start="20261123220000 +0000" stop="20261123223000 +0000" channel="aljazeera.english">
+    <title lang="en">NEWS 30min</title>
+    <desc lang="en">Latest news and analysis from around the world.</desc>
+  </programme>
+  <programme start="20261123223000 +0000" stop="20261123230000 +0000" channel="aljazeera.english">
+    <title lang="en">Witness : Columbia At A Crossroads</title>
+    <desc lang="en">A decade after Colombia's peace accords, former FARC guerrilla and artist honours killed signatories with a mural.</desc>
+  </programme>
+  <programme start="20261123230000 +0000" stop="20261123233000 +0000" channel="aljazeera.english">
+    <title lang="en">NEWS 30min</title>
+    <desc lang="en">Latest news and analysis from around the world.</desc>
+  </programme>
+  <programme start="20261123233000 +0000" stop="20261124000000 +0000" channel="aljazeera.english">
     <title lang="en">Inside Story</title>
     <desc lang="en">Beyond the headlines to the heart of the news of the day. Al Jazeera gets the Inside Story from some of the best minds from around the globe.</desc>
   </programme>
