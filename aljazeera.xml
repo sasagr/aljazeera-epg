@@ -438,7 +438,7 @@
   </programme>
   <programme start="20261120223000 +0000" stop="20261120230000 +0000" channel="aljazeera.english">
     <title lang="en">UpFront</title>
-    <desc lang="en">Frank, blunt and inquisitive, UpFront cuts through the headlines to get to the heart of the matter with influential guests and newsmakers.</desc>
+    <desc lang="en">Marc Lamont Hill discusses the Nvidia scandal, tech failures and the future of AI with entrepreneur and former White House adviser Anil Dash.</desc>
   </programme>
   <programme start="20261120230000 +0000" stop="20261120233000 +0000" channel="aljazeera.english">
     <title lang="en">NEWS 30min</title>
@@ -510,7 +510,7 @@
   </programme>
   <programme start="20261121093000 +0000" stop="20261121100000 +0000" channel="aljazeera.english">
     <title lang="en">UpFront</title>
-    <desc lang="en">Frank, blunt and inquisitive, UpFront cuts through the headlines to get to the heart of the matter with influential guests and newsmakers.</desc>
+    <desc lang="en">Marc Lamont Hill discusses the Nvidia scandal, tech failures and the future of AI with entrepreneur and former White House adviser Anil Dash.</desc>
   </programme>
   <programme start="20261121100000 +0000" stop="20261121110000 +0000" channel="aljazeera.english">
     <title lang="en">NEWSHOUR</title>
@@ -586,7 +586,7 @@
   </programme>
   <programme start="20261121223000 +0000" stop="20261121230000 +0000" channel="aljazeera.english">
     <title lang="en">The Bottom Line</title>
-    <desc lang="en">Weekly discussion show on U.S. politics and policies hosted by Steve Clemons.</desc>
+    <desc lang="en">U.S. political scientist Matthew Kroenig discusses whether the U.S.-China rivalry is over.</desc>
   </programme>
   <programme start="20261121230000 +0000" stop="20261121233000 +0000" channel="aljazeera.english">
     <title lang="en">NEWS 30min</title>
@@ -614,7 +614,7 @@
   </programme>
   <programme start="20261122033000 +0000" stop="20261122040000 +0000" channel="aljazeera.english">
     <title lang="en">UpFront</title>
-    <desc lang="en">Frank, blunt and inquisitive, UpFront cuts through the headlines to get to the heart of the matter with influential guests and newsmakers.</desc>
+    <desc lang="en">Marc Lamont Hill discusses the Nvidia scandal, tech failures and the future of AI with entrepreneur and former White House adviser Anil Dash.</desc>
   </programme>
   <programme start="20261122040000 +0000" stop="20261122043000 +0000" channel="aljazeera.english">
     <title lang="en">NEWS 30min</title>
@@ -658,7 +658,7 @@
   </programme>
   <programme start="20261122093000 +0000" stop="20261122100000 +0000" channel="aljazeera.english">
     <title lang="en">The Bottom Line</title>
-    <desc lang="en">Weekly discussion show on U.S. politics and policies hosted by Steve Clemons.</desc>
+    <desc lang="en">U.S. political scientist Matthew Kroenig discusses whether the U.S.-China rivalry is over.</desc>
   </programme>
   <programme start="20261122100000 +0000" stop="20261122110000 +0000" channel="aljazeera.english">
     <title lang="en">NEWSHOUR</title>
@@ -717,8 +717,8 @@
     <desc lang="en">Latest news and analysis from around the world.</desc>
   </programme>
   <programme start="20261122193000 +0000" stop="20261122200000 +0000" channel="aljazeera.english">
-    <title lang="en">Talk To Al Jazeera</title>
-    <desc lang="en">One-on-one conversations with global leaders, icons, influencers and alternative voices shaping our times.</desc>
+    <title lang="en">Talk to Al Jazeera : Katrin Jakobsdottir</title>
+    <desc lang="en">Former Prime Minister of Iceland discusses climate change, Arctic sovereignty and the politics of compromise in a polarized world.</desc>
   </programme>
   <programme start="20261122200000 +0000" stop="20261122210000 +0000" channel="aljazeera.english">
     <title lang="en">The Drugs Don't Work</title>
@@ -762,7 +762,7 @@
   </programme>
   <programme start="20261123033000 +0000" stop="20261123040000 +0000" channel="aljazeera.english">
     <title lang="en">The Bottom Line</title>
-    <desc lang="en">Weekly discussion show on U.S. politics and policies hosted by Steve Clemons.</desc>
+    <desc lang="en">U.S. political scientist Matthew Kroenig discusses whether the U.S.-China rivalry is over.</desc>
   </programme>
   <programme start="20261123040000 +0000" stop="20261123043000 +0000" channel="aljazeera.english">
     <title lang="en">NEWS 30min</title>
@@ -797,8 +797,8 @@
     <desc lang="en">Latest news and analysis from around the world.</desc>
   </programme>
   <programme start="20261123083000 +0000" stop="20261123090000 +0000" channel="aljazeera.english">
-    <title lang="en">Talk To Al Jazeera</title>
-    <desc lang="en">One-on-one conversations with global leaders, icons, influencers and alternative voices shaping our times.</desc>
+    <title lang="en">Talk to Al Jazeera : Katrin Jakobsdottir</title>
+    <desc lang="en">Former Prime Minister of Iceland discusses climate change, Arctic sovereignty and the politics of compromise in a polarized world.</desc>
   </programme>
   <programme start="20261123090000 +0000" stop="20261123093000 +0000" channel="aljazeera.english">
     <title lang="en">NEWS 30min</title>
@@ -846,7 +846,7 @@
   </programme>
   <programme start="20261123163000 +0000" stop="20261123170000 +0000" channel="aljazeera.english">
     <title lang="en">UpFront</title>
-    <desc lang="en">Frank, blunt and inquisitive, UpFront cuts through the headlines to get to the heart of the matter with influential guests and newsmakers.</desc>
+    <desc lang="en">Marc Lamont Hill discusses the Nvidia scandal, tech failures and the future of AI with entrepreneur and former White House adviser Anil Dash.</desc>
   </programme>
   <programme start="20261123170000 +0000" stop="20261123173000 +0000" channel="aljazeera.english">
     <title lang="en">NEWS: Lives in Focus</title>
@@ -917,8 +917,8 @@
     <desc lang="en">Latest news and analysis from around the world.</desc>
   </programme>
   <programme start="20261124043000 +0000" stop="20261124050000 +0000" channel="aljazeera.english">
-    <title lang="en">Talk To Al Jazeera</title>
-    <desc lang="en">One-on-one conversations with global leaders, icons, influencers and alternative voices shaping our times.</desc>
+    <title lang="en">Talk to Al Jazeera : Katrin Jakobsdottir</title>
+    <desc lang="en">Former Prime Minister of Iceland discusses climate change, Arctic sovereignty and the politics of compromise in a polarized world.</desc>
   </programme>
   <programme start="20261124050000 +0000" stop="20261124053000 +0000" channel="aljazeera.english">
     <title lang="en">NEWS 30min</title>
@@ -934,7 +934,7 @@
   </programme>
   <programme start="20261124063000 +0000" stop="20261124070000 +0000" channel="aljazeera.english">
     <title lang="en">UpFront</title>
-    <desc lang="en">Frank, blunt and inquisitive, UpFront cuts through the headlines to get to the heart of the matter with influential guests and newsmakers.</desc>
+    <desc lang="en">Marc Lamont Hill discusses the Nvidia scandal, tech failures and the future of AI with entrepreneur and former White House adviser Anil Dash.</desc>
   </programme>
   <programme start="20261124070000 +0000" stop="20261124080000 +0000" channel="aljazeera.english">
     <title lang="en">NEWSHOUR</title>
@@ -994,7 +994,7 @@
   </programme>
   <programme start="20261124163000 +0000" stop="20261124170000 +0000" channel="aljazeera.english">
     <title lang="en">The Bottom Line</title>
-    <desc lang="en">Weekly discussion show on U.S. politics and policies hosted by Steve Clemons.</desc>
+    <desc lang="en">U.S. political scientist Matthew Kroenig discusses whether the U.S.-China rivalry is over.</desc>
   </programme>
   <programme start="20261124170000 +0000" stop="20261124173000 +0000" channel="aljazeera.english">
     <title lang="en">NEWS: Lives in Focus</title>
@@ -1082,7 +1082,7 @@
   </programme>
   <programme start="20261125063000 +0000" stop="20261125070000 +0000" channel="aljazeera.english">
     <title lang="en">The Bottom Line</title>
-    <desc lang="en">Weekly discussion show on U.S. politics and policies hosted by Steve Clemons.</desc>
+    <desc lang="en">U.S. political scientist Matthew Kroenig discusses whether the U.S.-China rivalry is over.</desc>
   </programme>
   <programme start="20261125070000 +0000" stop="20261125080000 +0000" channel="aljazeera.english">
     <title lang="en">NEWSHOUR</title>
@@ -1129,8 +1129,8 @@
     <desc lang="en">Latest news and analysis from around the world.</desc>
   </programme>
   <programme start="20261125143000 +0000" stop="20261125150000 +0000" channel="aljazeera.english">
-    <title lang="en">Talk To Al Jazeera</title>
-    <desc lang="en">One-on-one conversations with global leaders, icons, influencers and alternative voices shaping our times.</desc>
+    <title lang="en">Talk to Al Jazeera : Katrin Jakobsdottir</title>
+    <desc lang="en">Former Prime Minister of Iceland discusses climate change, Arctic sovereignty and the politics of compromise in a polarized world.</desc>
   </programme>
   <programme start="20261125150000 +0000" stop="20261125160000 +0000" channel="aljazeera.english">
     <title lang="en">NEWSHOUR: The Wider Story</title>
